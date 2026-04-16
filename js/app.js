@@ -253,11 +253,20 @@ function renderCumulativeChart(history, realtimeData, mode) {
     nextBtn.disabled = dailyViewOffset <= 0;
   }
 
-  // Target line
-  const targetData = [
-    { x: firstEntry.date, y: firstEntry.contribution },
-    { x: `${YEAR}-12-31`, y: TARGET_CONTRIBUTION }
-  ];
+  // Target line: daily increment from first entry to 6500 by Dec 31
+  const firstDate = new Date(firstEntry.date);
+  const endOfYear = new Date(`${YEAR}-12-31`);
+  const totalDaysInRange = Math.ceil((endOfYear - firstDate) / (1000 * 60 * 60 * 24));
+  const dailyIncrement = (TARGET_CONTRIBUTION - firstEntry.contribution) / totalDaysInRange;
+  const targetData = [];
+  for (let i = 0; i <= totalDaysInRange; i++) {
+    const d = new Date(firstDate);
+    d.setDate(d.getDate() + i);
+    targetData.push({
+      x: d.toISOString().split('T')[0],
+      y: firstEntry.contribution + dailyIncrement * i
+    });
+  }
 
   if (cumulativeChart) cumulativeChart.destroy();
 
