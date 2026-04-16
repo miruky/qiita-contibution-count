@@ -201,6 +201,25 @@ function renderCumulativeChart(history, realtimeData, mode) {
   if (dailyData.length === 0) return;
 
   const isMonthly = mode === 'monthly';
+  const scrollWrapper = document.getElementById('chart-scroll-wrapper');
+  const chartContainer = document.getElementById('chart-container');
+
+  if (isMonthly) {
+    // Monthly: fit in viewport, no scroll
+    chartContainer.style.width = '100%';
+  } else {
+    // Daily: each day gets ~60px width, minimum 2 weeks visible
+    const firstDate = new Date(dailyData[0].date);
+    const endDate = new Date(`${YEAR}-12-31`);
+    const totalDays = Math.ceil((endDate - firstDate) / (1000 * 60 * 60 * 24));
+    const dayWidth = 60;
+    const minWidth = scrollWrapper.clientWidth;
+    chartContainer.style.width = Math.max(minWidth, totalDays * dayWidth) + 'px';
+    // Scroll to the right (most recent data)
+    requestAnimationFrame(() => {
+      scrollWrapper.scrollLeft = scrollWrapper.scrollWidth;
+    });
+  }
 
   // Actual data points
   const actualData = isMonthly
@@ -251,7 +270,7 @@ function renderCumulativeChart(history, realtimeData, mode) {
       ]
     },
     options: {
-      responsive: true,
+      responsive: !isMonthly,
       maintainAspectRatio: false,
       interaction: {
         mode: 'index',

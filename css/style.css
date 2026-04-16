@@ -354,9 +354,31 @@ body {
 }
 
 /* ===== Chart ===== */
+.chart-scroll-wrapper {
+  overflow-x: auto;
+  overflow-y: hidden;
+  -webkit-overflow-scrolling: touch;
+  scrollbar-width: thin;
+  scrollbar-color: var(--border-default) transparent;
+}
+
+.chart-scroll-wrapper::-webkit-scrollbar {
+  height: 6px;
+}
+
+.chart-scroll-wrapper::-webkit-scrollbar-track {
+  background: transparent;
+}
+
+.chart-scroll-wrapper::-webkit-scrollbar-thumb {
+  background: var(--border-default);
+  border-radius: 3px;
+}
+
 .chart-container {
   position: relative;
   height: 400px;
+  min-width: 100%;
 }
 
 .chart-container-small {
