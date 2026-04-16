@@ -1,12 +1,14 @@
 const QIITA_USER = 'miruky';
 const TARGET_CONTRIBUTION = 6500;
 const YEAR = 2026;
+const DAILY_VIEW_DAYS = 14; // 2 weeks visible at a time
 
 let cumulativeChart = null;
 let dailyChartInstance = null;
 let cachedHistory = null;
 let cachedRealtime = null;
 let currentChartMode = 'daily';
+let dailyViewOffset = 0; // 0 = latest, positive = further back in time
 
 // ===== Data Fetching =====
 
@@ -201,41 +203,63 @@ function renderCumulativeChart(history, realtimeData, mode) {
   if (dailyData.length === 0) return;
 
   const isMonthly = mode === 'monthly';
-  const scrollWrapper = document.getElementById('chart-scroll-wrapper');
-  const chartContainer = document.getElementById('chart-container');
+  const navEl = document.getElementById('chart-nav');
+  const rangeEl = document.getElementById('chart-nav-range');
+  const prevBtn = document.getElementById('chart-nav-prev');
+  const nextBtn = document.getElementById('chart-nav-next');
+
+  const firstEntry = dailyData[0];
+
+  let xMin, xMax, actualData, timeUnit, maxTicks;
 
   if (isMonthly) {
-    // Monthly: fit in viewport, no scroll
-    chartContainer.style.width = '100%';
+    // Monthly: show full year, no nav
+    navEl.classList.add('hidden');
+    actualData = aggregateMonthly(dailyData);
+    xMin = firstEntry.date;
+    xMax = `${YEAR}-12-31`;
+    timeUnit = 'month';
+    maxTicks = 12;
   } else {
-    // Daily: each day gets ~60px width, minimum 2 weeks visible
-    const firstDate = new Date(dailyData[0].date);
+    // Daily: show DAILY_VIEW_DAYS window with navigation
+    navEl.classList.remove('hidden');
+
     const endDate = new Date(`${YEAR}-12-31`);
+    const firstDate = new Date(firstEntry.date);
     const totalDays = Math.ceil((endDate - firstDate) / (1000 * 60 * 60 * 24));
-    const dayWidth = 60;
-    const minWidth = scrollWrapper.clientWidth;
-    chartContainer.style.width = Math.max(minWidth, totalDays * dayWidth) + 'px';
-    // Scroll to the right (most recent data)
-    requestAnimationFrame(() => {
-      scrollWrapper.scrollLeft = scrollWrapper.scrollWidth;
-    });
+    const maxOffset = Math.max(0, totalDays - DAILY_VIEW_DAYS);
+
+    // Clamp offset
+    dailyViewOffset = Math.max(0, Math.min(dailyViewOffset, maxOffset));
+
+    // Calculate window: offset 0 = rightmost (latest)
+    const windowEnd = new Date(endDate);
+    windowEnd.setDate(windowEnd.getDate() - dailyViewOffset);
+    const windowStart = new Date(windowEnd);
+    windowStart.setDate(windowStart.getDate() - DAILY_VIEW_DAYS);
+
+    xMin = windowStart.toISOString().split('T')[0];
+    xMax = windowEnd.toISOString().split('T')[0];
+
+    // All data points (Chart.js clips to the visible range)
+    actualData = dailyData.map(d => ({ x: d.date, y: d.contribution }));
+    timeUnit = 'day';
+    maxTicks = DAILY_VIEW_DAYS;
+
+    // Update nav UI
+    const fmtDate = (d) => `${d.getMonth() + 1}/${d.getDate()}`;
+    rangeEl.textContent = `${fmtDate(windowStart)} \u2013 ${fmtDate(windowEnd)}`;
+    prevBtn.disabled = dailyViewOffset >= maxOffset;
+    nextBtn.disabled = dailyViewOffset <= 0;
   }
 
-  // Actual data points
-  const actualData = isMonthly
-    ? aggregateMonthly(dailyData)
-    : dailyData.map(d => ({ x: d.date, y: d.contribution }));
-
-  // Target line: from first data point to Dec 31 at 6500
-  const firstEntry = dailyData[0];
+  // Target line
   const targetData = [
     { x: firstEntry.date, y: firstEntry.contribution },
     { x: `${YEAR}-12-31`, y: TARGET_CONTRIBUTION }
   ];
 
   if (cumulativeChart) cumulativeChart.destroy();
-
-  const pointCount = actualData.length;
 
   cumulativeChart = new Chart(ctx.getContext('2d'), {
     type: 'line',
@@ -249,7 +273,7 @@ function renderCumulativeChart(history, realtimeData, mode) {
           borderWidth: 2.5,
           fill: true,
           tension: 0.3,
-          pointRadius: isMonthly ? 5 : (pointCount <= 60 ? 4 : 2),
+          pointRadius: isMonthly ? 5 : 4,
           pointHoverRadius: 6,
           pointBackgroundColor: '#3fb950',
           pointBorderColor: '#0d1117',
@@ -270,7 +294,7 @@ function renderCumulativeChart(history, realtimeData, mode) {
       ]
     },
     options: {
-      responsive: !isMonthly,
+      responsive: true,
       maintainAspectRatio: false,
       interaction: {
         mode: 'index',
@@ -306,11 +330,11 @@ function renderCumulativeChart(history, realtimeData, mode) {
         x: {
           type: 'time',
           time: {
-            unit: isMonthly ? 'month' : 'day',
+            unit: timeUnit,
             displayFormats: { month: 'M月', day: 'M/d' }
           },
-          min: firstEntry.date,
-          max: `${YEAR}-12-31`,
+          min: xMin,
+          max: xMax,
           grid: {
             color: '#21262d',
             drawBorder: false
@@ -318,7 +342,7 @@ function renderCumulativeChart(history, realtimeData, mode) {
           ticks: {
             color: '#8b949e',
             font: { family: "'Inter', 'Noto Sans JP', sans-serif", size: 11 },
-            maxTicksLimit: 12
+            maxTicksLimit: maxTicks
           }
         },
         y: {
@@ -490,7 +514,7 @@ async function init() {
   }
 }
 
-// Toggle event
+// Toggle event + Nav buttons
 document.addEventListener('DOMContentLoaded', () => {
   const toggle = document.getElementById('chart-toggle');
   if (toggle) {
@@ -500,6 +524,7 @@ document.addEventListener('DOMContentLoaded', () => {
       const mode = btn.dataset.mode;
       if (mode === currentChartMode) return;
       currentChartMode = mode;
+      dailyViewOffset = 0; // reset when switching mode
       toggle.querySelectorAll('.toggle-btn').forEach(b => b.classList.remove('active'));
       btn.classList.add('active');
       if (cachedHistory) {
@@ -507,6 +532,16 @@ document.addEventListener('DOMContentLoaded', () => {
       }
     });
   }
+
+  // Nav buttons for daily mode
+  document.getElementById('chart-nav-prev')?.addEventListener('click', () => {
+    dailyViewOffset += DAILY_VIEW_DAYS;
+    if (cachedHistory) renderCumulativeChart(cachedHistory, cachedRealtime, 'daily');
+  });
+  document.getElementById('chart-nav-next')?.addEventListener('click', () => {
+    dailyViewOffset -= DAILY_VIEW_DAYS;
+    if (cachedHistory) renderCumulativeChart(cachedHistory, cachedRealtime, 'daily');
+  });
 });
 
 // Auto-refresh every 10 minutes
