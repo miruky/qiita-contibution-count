@@ -46,7 +46,7 @@ async function fetchRealtimeData() {
 
     return {
       user: userRes,
-      contribution: totalLikes + totalStocks / 2,
+      contribution: totalLikes + totalStocks / 2 + items.length,
       likes: totalLikes,
       stocks: totalStocks,
       articles: items.length,
@@ -115,8 +115,8 @@ function renderStats(realtimeData, history) {
   document.getElementById('remaining-contribution').textContent = formatNumber(remaining);
   document.getElementById('daily-target').textContent = dailyNeeded.toFixed(1);
   document.getElementById('days-remaining').textContent = daysRemaining;
-  document.getElementById('progress-current').textContent = formatNumber(contribution);
-  document.getElementById('progress-target').textContent = formatNumber(TARGET_CONTRIBUTION);
+  document.getElementById('progress-current').textContent = `${formatNumber(contribution)} Contribution`;
+  document.getElementById('progress-target').textContent = `${formatNumber(TARGET_CONTRIBUTION)} Contribution`;
 
   // Animate progress bar
   requestAnimationFrame(() => {

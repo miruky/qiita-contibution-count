@@ -8,8 +8,26 @@
   },
   "daily": [
     {
+      "date": "2026-04-14",
+      "contribution": 3025,
+      "likes": 1960,
+      "stocks": 2000,
+      "views": 640000,
+      "articles": 67,
+      "followers": 390
+    },
+    {
+      "date": "2026-04-15",
+      "contribution": 3050,
+      "likes": 1975,
+      "stocks": 2010,
+      "views": 644000,
+      "articles": 68,
+      "followers": 391
+    },
+    {
       "date": "2026-04-16",
-      "contribution": 2999.5,
+      "contribution": 3067.5,
       "likes": 1990,
       "stocks": 2019,
       "views": 647565,

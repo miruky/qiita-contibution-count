@@ -56,7 +56,7 @@ async function main() {
   const totalLikes = items.reduce((sum, item) => sum + item.likes_count, 0);
   const totalStocks = items.reduce((sum, item) => sum + (item.stocks_count || 0), 0);
   const totalViews = items.reduce((sum, item) => sum + (item.page_views_count || 0), 0);
-  const contribution = totalLikes + totalStocks / 2;
+  const contribution = totalLikes + totalStocks / 2 + items.length;
 
   const today = new Date().toISOString().split('T')[0];
 
