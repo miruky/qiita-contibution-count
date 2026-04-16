@@ -467,7 +467,13 @@ function renderDailyChart(history, realtimeData) {
           borderColor: '#30363d',
           borderWidth: 1,
           padding: 12,
-          cornerRadius: 8
+          cornerRadius: 8,
+          callbacks: {
+            title(items) {
+              const d = new Date(items[0].parsed.x);
+              return d.toLocaleDateString('ja-JP', { year: 'numeric', month: 'long', day: 'numeric' });
+            }
+          }
         }
       },
       scales: {
