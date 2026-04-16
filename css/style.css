@@ -363,6 +363,41 @@ body {
   height: 280px;
 }
 
+.card-header-right {
+  display: flex;
+  align-items: center;
+  gap: 16px;
+}
+
+.toggle-group {
+  display: flex;
+  background: var(--bg-muted);
+  border: 1px solid var(--border-default);
+  border-radius: var(--radius-sm);
+  overflow: hidden;
+}
+
+.toggle-btn {
+  padding: 6px 14px;
+  font-size: 12px;
+  font-weight: 500;
+  font-family: var(--font-sans);
+  color: var(--text-secondary);
+  background: transparent;
+  border: none;
+  cursor: pointer;
+  transition: background var(--transition), color var(--transition);
+}
+
+.toggle-btn:hover {
+  color: var(--text-primary);
+}
+
+.toggle-btn.active {
+  background: var(--accent-green);
+  color: #0d1117;
+}
+
 .chart-legend-custom {
   display: flex;
   gap: 20px;

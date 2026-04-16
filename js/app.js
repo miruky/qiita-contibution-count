@@ -4,6 +4,9 @@ const YEAR = 2026;
 
 let cumulativeChart = null;
 let dailyChartInstance = null;
+let cachedHistory = null;
+let cachedRealtime = null;
+let currentChartMode = 'daily';
 
 // ===== Data Fetching =====
 
@@ -155,13 +158,8 @@ function animateValue(elementId, start, end, duration) {
   requestAnimationFrame(step);
 }
 
-function renderCumulativeChart(history, realtimeData) {
-  const ctx = document.getElementById('contribution-chart');
-  if (!ctx) return;
-
+function prepareDailyData(history, realtimeData) {
   const dailyData = [...(history?.daily || [])];
-
-  // Add real-time data point for today
   const today = getTodayString();
   if (realtimeData) {
     const todayIndex = dailyData.findIndex(d => d.date === today);
@@ -179,16 +177,35 @@ function renderCumulativeChart(history, realtimeData) {
       dailyData.push(currentEntry);
     }
   }
-
   dailyData.sort((a, b) => a.date.localeCompare(b.date));
+  return dailyData;
+}
 
-  if (dailyData.length === 0) return;
-
-  // Actual data points
-  const actualData = dailyData.map(d => ({
-    x: d.date,
+function aggregateMonthly(dailyData) {
+  const monthMap = new Map();
+  for (const d of dailyData) {
+    const month = d.date.substring(0, 7); // "2026-04"
+    monthMap.set(month, d); // last entry of that month wins
+  }
+  return Array.from(monthMap.entries()).map(([month, d]) => ({
+    x: month + '-15', // mid-month for display
     y: d.contribution
   }));
+}
+
+function renderCumulativeChart(history, realtimeData, mode) {
+  const ctx = document.getElementById('contribution-chart');
+  if (!ctx) return;
+
+  const dailyData = prepareDailyData(history, realtimeData);
+  if (dailyData.length === 0) return;
+
+  const isMonthly = mode === 'monthly';
+
+  // Actual data points
+  const actualData = isMonthly
+    ? aggregateMonthly(dailyData)
+    : dailyData.map(d => ({ x: d.date, y: d.contribution }));
 
   // Target line: from first data point to Dec 31 at 6500
   const firstEntry = dailyData[0];
@@ -198,6 +215,8 @@ function renderCumulativeChart(history, realtimeData) {
   ];
 
   if (cumulativeChart) cumulativeChart.destroy();
+
+  const pointCount = actualData.length;
 
   cumulativeChart = new Chart(ctx.getContext('2d'), {
     type: 'line',
@@ -211,7 +230,7 @@ function renderCumulativeChart(history, realtimeData) {
           borderWidth: 2.5,
           fill: true,
           tension: 0.3,
-          pointRadius: dailyData.length <= 60 ? 4 : 2,
+          pointRadius: isMonthly ? 5 : (pointCount <= 60 ? 4 : 2),
           pointHoverRadius: 6,
           pointBackgroundColor: '#3fb950',
           pointBorderColor: '#0d1117',
@@ -253,7 +272,9 @@ function renderCumulativeChart(history, realtimeData) {
           callbacks: {
             title(items) {
               const d = new Date(items[0].parsed.x);
-              return d.toLocaleDateString('ja-JP', { year: 'numeric', month: 'long', day: 'numeric' });
+              return isMonthly
+                ? d.toLocaleDateString('ja-JP', { year: 'numeric', month: 'long' })
+                : d.toLocaleDateString('ja-JP', { year: 'numeric', month: 'long', day: 'numeric' });
             },
             label(item) {
               const val = item.parsed.y;
@@ -266,7 +287,7 @@ function renderCumulativeChart(history, realtimeData) {
         x: {
           type: 'time',
           time: {
-            unit: 'month',
+            unit: isMonthly ? 'month' : 'day',
             displayFormats: { month: 'M月', day: 'M/d' }
           },
           min: firstEntry.date,
@@ -436,8 +457,11 @@ async function init() {
       fetchRealtimeData()
     ]);
 
+    cachedHistory = history;
+    cachedRealtime = realtimeData;
+
     renderStats(realtimeData, history);
-    renderCumulativeChart(history, realtimeData);
+    renderCumulativeChart(history, realtimeData, currentChartMode);
     renderDailyChart(history);
   } catch (e) {
     console.error('Dashboard init error:', e);
@@ -446,6 +470,25 @@ async function init() {
     dashboardEl?.classList.remove('hidden');
   }
 }
+
+// Toggle event
+document.addEventListener('DOMContentLoaded', () => {
+  const toggle = document.getElementById('chart-toggle');
+  if (toggle) {
+    toggle.addEventListener('click', (e) => {
+      const btn = e.target.closest('.toggle-btn');
+      if (!btn) return;
+      const mode = btn.dataset.mode;
+      if (mode === currentChartMode) return;
+      currentChartMode = mode;
+      toggle.querySelectorAll('.toggle-btn').forEach(b => b.classList.remove('active'));
+      btn.classList.add('active');
+      if (cachedHistory) {
+        renderCumulativeChart(cachedHistory, cachedRealtime, currentChartMode);
+      }
+    });
+  }
+});
 
 // Auto-refresh every 10 minutes
 setInterval(() => init(), 10 * 60 * 1000);
