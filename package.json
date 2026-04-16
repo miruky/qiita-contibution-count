@@ -1,0 +1,9 @@
+{
+  "name": "qiita-contribution-count",
+  "version": "1.0.0",
+  "description": "Qiita contribution tracking dashboard for @miruky",
+  "type": "module",
+  "scripts": {
+    "fetch": "node scripts/fetch-data.mjs"
+  }
+}

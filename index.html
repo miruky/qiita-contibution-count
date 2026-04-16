@@ -1,0 +1,159 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Qiita Contribution Dashboard - @miruky</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&family=Noto+Sans+JP:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+  <!-- Loading -->
+  <div id="loading" class="loading-overlay">
+    <div class="loading-spinner"></div>
+    <p>データを読み込み中...</p>
+  </div>
+
+  <div id="dashboard" class="dashboard hidden">
+    <!-- Hero Section -->
+    <header class="hero">
+      <div class="container">
+        <div class="hero-content">
+          <div class="hero-user">
+            <img id="user-avatar" src="" alt="avatar" class="avatar" width="64" height="64">
+            <div class="hero-user-info">
+              <span id="username" class="username">@miruky</span>
+              <h1 class="hero-title">2026年サマリー</h1>
+            </div>
+          </div>
+          <div class="hero-contribution">
+            <span class="contribution-label">Contribution</span>
+            <div class="contribution-value-wrapper">
+              <span class="contribution-plus">+</span><span id="contribution-count" class="contribution-value">-</span>
+            </div>
+            <span class="contribution-unit">Contributions</span>
+          </div>
+        </div>
+        <div class="stats-grid">
+          <div class="stat-card">
+            <span class="stat-label">書いた記事数</span>
+            <div class="stat-value-row">
+              <span id="stat-articles" class="stat-value">-</span>
+              <span class="stat-unit">記事</span>
+            </div>
+          </div>
+          <div class="stat-card">
+            <span class="stat-label">いいねされた数</span>
+            <div class="stat-value-row">
+              <span id="stat-likes" class="stat-value">-</span>
+              <span class="stat-unit">いいね</span>
+            </div>
+          </div>
+          <div class="stat-card">
+            <span class="stat-label">ストックされた数</span>
+            <div class="stat-value-row">
+              <span id="stat-stocks" class="stat-value">-</span>
+              <span class="stat-unit">ストック</span>
+            </div>
+          </div>
+          <div class="stat-card">
+            <span class="stat-label">読まれた数</span>
+            <div class="stat-value-row">
+              <span id="stat-views" class="stat-value">-</span>
+              <span class="stat-unit">PV</span>
+            </div>
+          </div>
+        </div>
+      </div>
+    </header>
+
+    <!-- Progress Section -->
+    <section class="section progress-section">
+      <div class="container">
+        <div class="card">
+          <div class="card-header">
+            <h2 class="card-title">目標進捗</h2>
+            <span id="last-updated" class="last-updated"></span>
+          </div>
+          <div class="progress-metrics">
+            <div class="progress-metric">
+              <span class="progress-metric-value" id="progress-percent">-</span>
+              <span class="progress-metric-label">達成率</span>
+            </div>
+            <div class="progress-metric">
+              <span class="progress-metric-value" id="remaining-contribution">-</span>
+              <span class="progress-metric-label">残りContribution</span>
+            </div>
+            <div class="progress-metric">
+              <span class="progress-metric-value"><span id="daily-target">-</span><small>/日</small></span>
+              <span class="progress-metric-label">必要ペース</span>
+            </div>
+            <div class="progress-metric">
+              <span class="progress-metric-value"><span id="days-remaining">-</span><small>日</small></span>
+              <span class="progress-metric-label">残り日数</span>
+            </div>
+          </div>
+          <div class="progress-bar-container">
+            <div class="progress-bar">
+              <div id="progress-bar-fill" class="progress-bar-fill"></div>
+            </div>
+            <div class="progress-bar-labels">
+              <span>0</span>
+              <span id="progress-current" class="progress-current-label">-</span>
+              <span id="progress-target">6,500</span>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- Cumulative Chart Section -->
+    <section class="section">
+      <div class="container">
+        <div class="card">
+          <div class="card-header">
+            <h2 class="card-title">Contribution 推移</h2>
+            <div class="chart-legend-custom">
+              <span class="legend-item"><span class="legend-line legend-actual"></span>実績</span>
+              <span class="legend-item"><span class="legend-line legend-target"></span>目標ペース</span>
+            </div>
+          </div>
+          <div class="chart-container">
+            <canvas id="contribution-chart"></canvas>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- Daily Delta Chart Section -->
+    <section class="section" id="daily-section">
+      <div class="container">
+        <div class="card">
+          <div class="card-header">
+            <h2 class="card-title">日次 Contribution 獲得数</h2>
+          </div>
+          <div id="daily-chart-placeholder" class="chart-placeholder">
+            <p>データが2日以上蓄積されると日次推移が表示されます</p>
+          </div>
+          <div class="chart-container chart-container-small hidden" id="daily-chart-wrapper">
+            <canvas id="daily-chart"></canvas>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- Footer -->
+    <footer class="footer">
+      <div class="container">
+        <p>Auto-updated every 6 hours via GitHub Actions · Data from <a href="https://qiita.com/miruky" target="_blank" rel="noopener">Qiita API</a></p>
+      </div>
+    </footer>
+  </div>
+
+  <script src="https://cdn.jsdelivr.net/npm/chart.js@4"></script>
+  <script src="https://cdn.jsdelivr.net/npm/chartjs-adapter-date-fns@3"></script>
+  <script src="js/app.js"></script>
+</body>
+</html>

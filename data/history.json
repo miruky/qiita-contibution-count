@@ -1,0 +1,20 @@
+{
+  "target": 6500,
+  "user": {
+    "id": "miruky",
+    "name": "miruky",
+    "profile_image_url": "https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/3637204/profile-images/1774445070",
+    "followers_count": 393
+  },
+  "daily": [
+    {
+      "date": "2026-04-16",
+      "contribution": 2998.5,
+      "likes": 1989,
+      "stocks": 2019,
+      "views": 647560,
+      "articles": 69,
+      "followers": 393
+    }
+  ]
+}
