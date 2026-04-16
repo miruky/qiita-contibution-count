@@ -224,16 +224,16 @@ function renderCumulativeChart(history, realtimeData, mode) {
     // Daily: show DAILY_VIEW_DAYS window with navigation
     navEl.classList.remove('hidden');
 
-    const endDate = new Date(`${YEAR}-12-31`);
+    const today = new Date();
     const firstDate = new Date(firstEntry.date);
-    const totalDays = Math.ceil((endDate - firstDate) / (1000 * 60 * 60 * 24));
+    const totalDays = Math.ceil((today - firstDate) / (1000 * 60 * 60 * 24));
     const maxOffset = Math.max(0, totalDays - DAILY_VIEW_DAYS);
 
     // Clamp offset
     dailyViewOffset = Math.max(0, Math.min(dailyViewOffset, maxOffset));
 
-    // Calculate window: offset 0 = rightmost (latest)
-    const windowEnd = new Date(endDate);
+    // Calculate window: offset 0 = today (latest)
+    const windowEnd = new Date(today);
     windowEnd.setDate(windowEnd.getDate() - dailyViewOffset);
     const windowStart = new Date(windowEnd);
     windowStart.setDate(windowStart.getDate() - DAILY_VIEW_DAYS);
