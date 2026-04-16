@@ -554,6 +554,6 @@ document.addEventListener('DOMContentLoaded', () => {
 });
 
 // Auto-refresh every 10 minutes
-setInterval(() => init(), 10 * 60 * 1000);
+setInterval(() => init(), 3 * 60 * 1000);
 
 document.addEventListener('DOMContentLoaded', init);
