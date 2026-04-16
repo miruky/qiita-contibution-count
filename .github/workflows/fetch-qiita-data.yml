@@ -2,7 +2,7 @@ name: Fetch Qiita Data
 
 on:
   schedule:
-    - cron: '*/5 * * * *'  # Every 5 minutes (minimum)
+    - cron: '*/20 * * * *'  # Every 20 minutes
   workflow_dispatch:
 
 permissions:
