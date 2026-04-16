@@ -380,8 +380,8 @@ function createGradient(canvas, color) {
   return gradient;
 }
 
-function renderDailyChart(history) {
-  const dailyData = history?.daily || [];
+function renderDailyChart(history, realtimeData) {
+  const dailyData = prepareDailyData(history, realtimeData);
 
   if (dailyData.length < 2) {
     // Not enough data for daily chart
@@ -514,7 +514,7 @@ async function init() {
 
     renderStats(realtimeData, history);
     renderCumulativeChart(history, realtimeData, currentChartMode);
-    renderDailyChart(history);
+    renderDailyChart(history, realtimeData);
   } catch (e) {
     console.error('Dashboard init error:', e);
   } finally {
