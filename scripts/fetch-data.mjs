@@ -30,12 +30,15 @@ const HEADERS = {
   'User-Agent': 'qiita-contribution-count/1.0 (+https://github.com/miruky/qiita-contibution-count)'
 };
 
-// Qiita returns 403 not only for auth failures but also for rate limiting /
-// edge throttling — and runs from GitHub Actions share IPs with the whole
-// world, so these blips are hit intermittently. Retry transient failures with
-// exponential backoff so a single blip doesn't fail the whole run. This does
-// NOT change the schedule; it only makes each scheduled run resilient.
-async function fetchWithRetry(url, { retries = 4, baseDelayMs = 2000 } = {}) {
+// Qiita applies IP-based throttling at its edge, and GitHub Actions runners
+// share their IPs with the whole world, so a given run's IP is sometimes
+// blocked — every request from that run then returns 403 for the run's whole
+// lifetime (~1 in 10 scheduled runs is hit). Retry first to absorb genuine
+// one-off blips; if 403/429 still persists it's an IP block we can't beat from
+// here, so the error carries its status and the caller skips this cycle (see
+// main) rather than failing. The 20-min schedule is unchanged; the next run
+// lands on a different IP and succeeds.
+async function fetchWithRetry(url, { retries = 2, baseDelayMs = 2000 } = {}) {
   let lastErr;
   for (let attempt = 0; attempt <= retries; attempt++) {
     try {
@@ -44,6 +47,7 @@ async function fetchWithRetry(url, { retries = 4, baseDelayMs = 2000 } = {}) {
       // 403/429 = rate limit / throttling, 5xx = server side — all transient.
       const transient = res.status === 403 || res.status === 429 || res.status >= 500;
       lastErr = new Error(`Request failed: ${res.status} for ${url}`);
+      lastErr.status = res.status;
       if (!transient || attempt === retries) throw lastErr;
     } catch (err) {
       lastErr = err;
@@ -137,6 +141,14 @@ async function main() {
 }
 
 main().catch(err => {
+  // Persistent 403/429 = this runner's IP is being throttled by Qiita, which is
+  // out of our control. Skip this cycle (exit 0) so the workflow isn't marked
+  // failed; the next scheduled run gets a fresh IP. Real errors (bad token =>
+  // 401, bugs, network) still fail loudly so they stay visible.
+  if (err && (err.status === 403 || err.status === 429)) {
+    console.warn(`Skipping this run: Qiita throttled the request (${err.status}). The next scheduled run will retry.`);
+    process.exit(0);
+  }
   console.error('Error:', err);
   process.exit(1);
 });
