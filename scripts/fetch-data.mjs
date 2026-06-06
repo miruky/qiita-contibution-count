@@ -23,11 +23,41 @@ if (!QIITA_TOKEN) {
 const USER_ID = 'miruky';
 const TARGET = 6500;
 
+const HEADERS = {
+  'Authorization': `Bearer ${QIITA_TOKEN}`,
+  // Identify the client. A descriptive UA reduces edge/WAF blocks on
+  // shared GitHub Actions runner IPs (default `node` UA is more likely to be throttled).
+  'User-Agent': 'qiita-contribution-count/1.0 (+https://github.com/miruky/qiita-contibution-count)'
+};
+
+// Qiita returns 403 not only for auth failures but also for rate limiting /
+// edge throttling — and runs from GitHub Actions share IPs with the whole
+// world, so these blips are hit intermittently. Retry transient failures with
+// exponential backoff so a single blip doesn't fail the whole run. This does
+// NOT change the schedule; it only makes each scheduled run resilient.
+async function fetchWithRetry(url, { retries = 4, baseDelayMs = 2000 } = {}) {
+  let lastErr;
+  for (let attempt = 0; attempt <= retries; attempt++) {
+    try {
+      const res = await fetch(url, { headers: HEADERS });
+      if (res.ok) return res;
+      // 403/429 = rate limit / throttling, 5xx = server side — all transient.
+      const transient = res.status === 403 || res.status === 429 || res.status >= 500;
+      lastErr = new Error(`Request failed: ${res.status} for ${url}`);
+      if (!transient || attempt === retries) throw lastErr;
+    } catch (err) {
+      lastErr = err;
+      if (attempt === retries) throw lastErr;
+    }
+    const delay = baseDelayMs * 2 ** attempt + Math.floor(Math.random() * 1000);
+    console.warn(`Attempt ${attempt + 1} failed (${lastErr.message}); retrying in ${delay}ms...`);
+    await new Promise(r => setTimeout(r, delay));
+  }
+  throw lastErr;
+}
+
 async function fetchUserInfo() {
-  const res = await fetch(`https://qiita.com/api/v2/users/${USER_ID}`, {
-    headers: { 'Authorization': `Bearer ${QIITA_TOKEN}` }
-  });
-  if (!res.ok) throw new Error(`Failed to fetch user: ${res.status}`);
+  const res = await fetchWithRetry(`https://qiita.com/api/v2/users/${USER_ID}`);
   return res.json();
 }
 
@@ -35,11 +65,9 @@ async function fetchAllItems() {
   const items = [];
   let page = 1;
   while (true) {
-    const res = await fetch(
-      `https://qiita.com/api/v2/authenticated_user/items?per_page=100&page=${page}`,
-      { headers: { 'Authorization': `Bearer ${QIITA_TOKEN}` } }
+    const res = await fetchWithRetry(
+      `https://qiita.com/api/v2/authenticated_user/items?per_page=100&page=${page}`
     );
-    if (!res.ok) throw new Error(`Failed to fetch items page ${page}: ${res.status}`);
     const data = await res.json();
     if (data.length === 0) break;
     items.push(...data);
