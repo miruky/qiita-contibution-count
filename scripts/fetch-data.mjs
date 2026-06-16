@@ -21,7 +21,7 @@ if (!QIITA_TOKEN) {
 }
 
 const USER_ID = 'miruky';
-const TARGET = 6500;
+const TARGET = 7000;
 
 const HEADERS = {
   'Authorization': `Bearer ${QIITA_TOKEN}`,

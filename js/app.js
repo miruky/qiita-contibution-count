@@ -1,5 +1,5 @@
 const QIITA_USER = 'miruky';
-const TARGET_CONTRIBUTION = 6500;
+const DEFAULT_TARGET_CONTRIBUTION = 7000;
 const YEAR = 2026;
 const DAILY_VIEW_DAYS = 14; // 2 weeks visible at a time
 
@@ -18,7 +18,7 @@ async function fetchHistory() {
     if (!res.ok) throw new Error('No history data');
     return await res.json();
   } catch {
-    return { target: TARGET_CONTRIBUTION, daily: [] };
+    return { target: DEFAULT_TARGET_CONTRIBUTION, daily: [] };
   }
 }
 
@@ -81,10 +81,16 @@ function getTodayString() {
   return new Date().toISOString().split('T')[0];
 }
 
+function getTargetContribution(history) {
+  const target = Number(history?.target);
+  return Number.isFinite(target) && target > 0 ? target : DEFAULT_TARGET_CONTRIBUTION;
+}
+
 // ===== Rendering =====
 
 function renderStats(realtimeData, history) {
   const latest = history?.daily?.[history.daily.length - 1];
+  const targetContribution = getTargetContribution(history);
 
   // User info
   const avatarEl = document.getElementById('user-avatar');
@@ -111,9 +117,9 @@ function renderStats(realtimeData, history) {
   animateValue('stat-views', 0, views, 1100);
 
   // Progress
-  const progress = Math.min(100, (contribution / TARGET_CONTRIBUTION) * 100);
+  const progress = Math.min(100, (contribution / targetContribution) * 100);
   const daysRemaining = getDaysRemaining();
-  const remaining = Math.max(0, TARGET_CONTRIBUTION - contribution);
+  const remaining = Math.max(0, targetContribution - contribution);
   const dailyNeeded = remaining / daysRemaining;
 
   document.getElementById('progress-percent').textContent = `${progress.toFixed(1)}%`;
@@ -121,7 +127,7 @@ function renderStats(realtimeData, history) {
   document.getElementById('daily-target').textContent = dailyNeeded.toFixed(1);
   document.getElementById('days-remaining').textContent = daysRemaining;
   document.getElementById('progress-current').textContent = `${formatNumber(contribution)} Contribution`;
-  document.getElementById('progress-target').textContent = `${formatNumber(TARGET_CONTRIBUTION)} Contribution`;
+  document.getElementById('progress-target').textContent = `${formatNumber(targetContribution)} Contribution`;
 
   // Animate progress bar
   requestAnimationFrame(() => {
@@ -201,6 +207,7 @@ function renderCumulativeChart(history, realtimeData, mode) {
 
   const dailyData = prepareDailyData(history, realtimeData);
   if (dailyData.length === 0) return;
+  const targetContribution = getTargetContribution(history);
 
   const isMonthly = mode === 'monthly';
   const navEl = document.getElementById('chart-nav');
@@ -253,11 +260,11 @@ function renderCumulativeChart(history, realtimeData, mode) {
     nextBtn.disabled = dailyViewOffset <= 0;
   }
 
-  // Target line: daily increment from first entry to 6500 by Dec 31
+  // Target line: daily increment from first entry to the annual target by Dec 31
   const firstDate = new Date(firstEntry.date);
   const endOfYear = new Date(`${YEAR}-12-31`);
   const totalDaysInRange = Math.ceil((endOfYear - firstDate) / (1000 * 60 * 60 * 24));
-  const dailyIncrement = (TARGET_CONTRIBUTION - firstEntry.contribution) / totalDaysInRange;
+  const dailyIncrement = (targetContribution - firstEntry.contribution) / totalDaysInRange;
   const targetData = [];
   for (let i = 0; i <= totalDaysInRange; i++) {
     const d = new Date(firstDate);
@@ -356,7 +363,7 @@ function renderCumulativeChart(history, realtimeData, mode) {
         },
         y: {
           min: Math.max(0, firstEntry.contribution - 200),
-          max: TARGET_CONTRIBUTION + 500,
+          max: targetContribution + 500,
           grid: {
             color: '#21262d',
             drawBorder: false
@@ -402,7 +409,8 @@ function renderDailyChart(history, realtimeData) {
 
   const daysRemaining = getDaysRemaining();
   const latest = dailyData[dailyData.length - 1];
-  const remainingContribution = Math.max(0, TARGET_CONTRIBUTION - latest.contribution);
+  const targetContribution = getTargetContribution(history);
+  const remainingContribution = Math.max(0, targetContribution - latest.contribution);
   const dailyTarget = remainingContribution / daysRemaining;
 
   // Target line as a dataset with constant value
@@ -559,7 +567,7 @@ document.addEventListener('DOMContentLoaded', () => {
   });
 });
 
-// Auto-refresh every 10 minutes
+// Auto-refresh every 3 minutes
 setInterval(() => init(), 3 * 60 * 1000);
 
 document.addEventListener('DOMContentLoaded', init);
