@@ -1,5 +1,5 @@
 const QIITA_USER = 'miruky';
-const DEFAULT_TARGET_CONTRIBUTION = 7000;
+const DEFAULT_TARGET_CONTRIBUTION = 7500;
 const YEAR = 2026;
 const DAILY_VIEW_DAYS = 14; // 2 weeks visible at a time
 
