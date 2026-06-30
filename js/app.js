@@ -181,18 +181,14 @@ function animateValue(elementId, start, end, duration) {
 function prepareDailyData(history, realtimeData) {
   const dailyData = [...(history?.daily || [])];
   const today = getTodayString();
-  const latestKnown = dailyData[dailyData.length - 1];
-  // Only fold realtime into the series when it's at least as high as the last
-  // recorded value. Contribution only ever grows, so a lower realtime number
-  // means a partial/throttled fetch and must not be allowed to dip the chart.
-  if (realtimeData && (!latestKnown || realtimeData.contribution >= latestKnown.contribution)) {
+  if (realtimeData) {
     const todayIndex = dailyData.findIndex(d => d.date === today);
     const currentEntry = {
       date: today,
       contribution: realtimeData.contribution,
       likes: realtimeData.likes,
       stocks: realtimeData.stocks,
-      views: realtimeData.views || latestKnown?.views || 0,
+      views: realtimeData.views || dailyData[dailyData.length - 1]?.views || 0,
       articles: realtimeData.articles
     };
     if (todayIndex >= 0) {
