@@ -42,15 +42,27 @@ async function fetchAllPublicItems() {
 async function fetchRealtimeData() {
   try {
     const [userRes, items] = await Promise.all([
-      fetch(`https://qiita.com/api/v2/users/${QIITA_USER}`).then(r => r.json()),
+      fetch(`https://qiita.com/api/v2/users/${QIITA_USER}`),
       fetchAllPublicItems()
     ]);
 
+    // The unauthenticated Qiita API is capped at 60 requests/hour per IP. Once a
+    // visitor exhausts that quota every call returns 403, and fetchAllPublicItems
+    // then yields []. Treat a failed user lookup or an empty item list (impossible
+    // for a user who has published articles) as "no realtime data available" and
+    // fall back to the committed history — otherwise we report a contribution of 0
+    // and collapse the chart even though the cached data is perfectly good.
+    if (!userRes.ok || items.length === 0) {
+      console.warn('Real-time Qiita fetch unavailable (rate-limited or empty); using cached history.');
+      return null;
+    }
+
+    const user = await userRes.json();
     const totalLikes = items.reduce((sum, item) => sum + (item.likes_count || 0), 0);
     const totalStocks = items.reduce((sum, item) => sum + (item.stocks_count || 0), 0);
 
     return {
-      user: userRes,
+      user,
       contribution: totalLikes + totalStocks / 2 + items.length,
       likes: totalLikes,
       stocks: totalStocks,
@@ -169,14 +181,18 @@ function animateValue(elementId, start, end, duration) {
 function prepareDailyData(history, realtimeData) {
   const dailyData = [...(history?.daily || [])];
   const today = getTodayString();
-  if (realtimeData) {
+  const latestKnown = dailyData[dailyData.length - 1];
+  // Only fold realtime into the series when it's at least as high as the last
+  // recorded value. Contribution only ever grows, so a lower realtime number
+  // means a partial/throttled fetch and must not be allowed to dip the chart.
+  if (realtimeData && (!latestKnown || realtimeData.contribution >= latestKnown.contribution)) {
     const todayIndex = dailyData.findIndex(d => d.date === today);
     const currentEntry = {
       date: today,
       contribution: realtimeData.contribution,
       likes: realtimeData.likes,
       stocks: realtimeData.stocks,
-      views: realtimeData.views || dailyData[dailyData.length - 1]?.views || 0,
+      views: realtimeData.views || latestKnown?.views || 0,
       articles: realtimeData.articles
     };
     if (todayIndex >= 0) {
