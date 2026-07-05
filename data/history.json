@@ -4,7 +4,7 @@
     "id": "miruky",
     "name": "miruky",
     "profile_image_url": "https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/3637204/profile-images/1774445070",
-    "followers_count": 1274
+    "followers_count": 1273
   },
   "daily": [
     {
@@ -795,9 +795,9 @@
       "contribution": 6884,
       "likes": 4516,
       "stocks": 4576,
-      "views": 1838066,
+      "views": 1838100,
       "articles": 80,
-      "followers": 1274
+      "followers": 1273
     }
   ]
 }
