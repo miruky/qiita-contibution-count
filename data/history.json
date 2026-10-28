@@ -3,7 +3,7 @@
   "user": {
     "id": "miruky",
     "name": "miruky",
-    "profile_image_url": "https://s3-ap-northeast-1.amazonaws.com/qiita-image-store/0/3637204/73570e184889269e6176b20ca1d1bca9b2e39b12/x_large.png?1793114876",
+    "profile_image_url": "https://s3-ap-northeast-1.amazonaws.com/qiita-image-store/0/3637204/e73863b9f0b09c6c7b92ae33ca9d4d1020f4528d/large.png?1793195788",
     "followers_count": 1529
   },
   "daily": [
@@ -1830,7 +1830,7 @@
       "contribution": 7533.5,
       "likes": 4932,
       "stocks": 5003,
-      "views": 2210932,
+      "views": 2210954,
       "articles": 100,
       "followers": 1529
     }
