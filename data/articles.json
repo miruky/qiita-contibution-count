@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-11-14T22:20:51.255Z",
+  "updated_at": "2026-11-14T22:40:27.881Z",
   "articles": [
     {
       "id": "2b78a6f7b1e3ec8fe80d",
       "title": "【AWS Emulator】AWS公式のローカルエミュレーターで、本格的なサーバーレスはどこまで動く？motoやFlociなど5つのOSSとも比べてみた",
       "url": "https://qiita.com/miruky/items/2b78a6f7b1e3ec8fe80d",
       "created_at": "2026-11-12T22:34:31+09:00",
-      "views": 493,
+      "views": 495,
       "likes": 0,
       "stocks": 1
     },
@@ -186,7 +186,7 @@
       "title": "【徹底解説】文系でもわかる！機械学習に入門しよう",
       "url": "https://qiita.com/miruky/items/42b892805eb1d754109c",
       "created_at": "2026-07-18T17:14:07+09:00",
-      "views": 51358,
+      "views": 51359,
       "likes": 62,
       "stocks": 79
     },
@@ -411,7 +411,7 @@
       "title": "AIが脆弱性を見つけ、AIが脆弱性を突く時代ですね",
       "url": "https://qiita.com/miruky/items/9e829b29c07f0f03dd4e",
       "created_at": "2026-04-07T00:06:43+09:00",
-      "views": 4585,
+      "views": 4586,
       "likes": 11,
       "stocks": 9
     },
@@ -654,7 +654,7 @@
       "title": "【2026年最新版】ローカルLLM（Ollama）で完全オフラインAI開発環境を作る",
       "url": "https://qiita.com/miruky/items/026aeee6b59f78df5e9d",
       "created_at": "2026-03-18T12:12:26+09:00",
-      "views": 74957,
+      "views": 74959,
       "likes": 91,
       "stocks": 95
     },
@@ -735,7 +735,7 @@
       "title": "コーディングが楽になったからこそ気をつけるべきセキュリティ",
       "url": "https://qiita.com/miruky/items/dfb3509ade7d4ad67b90",
       "created_at": "2026-03-11T23:53:12+09:00",
-      "views": 15048,
+      "views": 15049,
       "likes": 40,
       "stocks": 45
     },
@@ -816,7 +816,7 @@
       "title": "【Amazon Bedrock #2】Claudeをプレイグラウンドで試してみよう",
       "url": "https://qiita.com/miruky/items/eafdc2ea5b9738f9152a",
       "created_at": "2026-03-03T21:32:27+09:00",
-      "views": 3021,
+      "views": 3022,
       "likes": 0,
       "stocks": 4
     },
