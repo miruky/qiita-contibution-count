@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-14T02:40:26.377Z",
+  "updated_at": "2026-11-14T03:01:05.408Z",
   "articles": [
     {
       "id": "2b78a6f7b1e3ec8fe80d",
@@ -69,7 +69,7 @@
       "title": "【被害者は語る】タイムズカー660万件情報漏えいはなぜ起きたのかの矮小な考察",
       "url": "https://qiita.com/miruky/items/6577a57b9b62c8f97e11",
       "created_at": "2026-09-30T01:00:06+09:00",
-      "views": 73302,
+      "views": 73303,
       "likes": 69,
       "stocks": 47
     },
@@ -258,7 +258,7 @@
       "title": "ちょっと気になったので、決済サービス各社はカード情報をどう守っているのか調べてみた",
       "url": "https://qiita.com/miruky/items/b9d9dd83f33b4c837d63",
       "created_at": "2026-06-01T17:16:46+09:00",
-      "views": 45851,
+      "views": 45852,
       "likes": 59,
       "stocks": 68
     },
@@ -321,7 +321,7 @@
       "title": "【こわい】Google APIキーの脆弱性により13時間で約900万円請求される事案が発生！ Firebase×Geminiで今すぐやるべきセキュリティ対策",
       "url": "https://qiita.com/miruky/items/fde2d0747358cd7870d7",
       "created_at": "2026-04-17T19:29:09+09:00",
-      "views": 137807,
+      "views": 137808,
       "likes": 287,
       "stocks": 217
     },
@@ -384,7 +384,7 @@
       "title": "GitHub Copilotのドキュメントを全部読んだので、本当に使えるカスタマイズだけ10個まとめた",
       "url": "https://qiita.com/miruky/items/26dfbc0ee7492ed12ba6",
       "created_at": "2026-04-09T19:28:07+09:00",
-      "views": 13774,
+      "views": 13776,
       "likes": 32,
       "stocks": 38
     },
@@ -600,7 +600,7 @@
       "title": "ハーネスエンジニアリングとは何か ── コンテキストエンジニアリングの次のパラダイム",
       "url": "https://qiita.com/miruky/items/155f3b5a0dcde72fcd10",
       "created_at": "2026-03-21T18:19:07+09:00",
-      "views": 43590,
+      "views": 43591,
       "likes": 104,
       "stocks": 93
     },
@@ -654,7 +654,7 @@
       "title": "【2026年最新版】ローカルLLM（Ollama）で完全オフラインAI開発環境を作る",
       "url": "https://qiita.com/miruky/items/026aeee6b59f78df5e9d",
       "created_at": "2026-03-18T12:12:26+09:00",
-      "views": 74818,
+      "views": 74820,
       "likes": 91,
       "stocks": 95
     },
@@ -708,7 +708,7 @@
       "title": "【2026年最新版】Claude Codeで行うべきセキュリティ設定 10選",
       "url": "https://qiita.com/miruky/items/51db293a7a7d0d277a5d",
       "created_at": "2026-03-14T22:06:20+09:00",
-      "views": 180136,
+      "views": 180137,
       "likes": 555,
       "stocks": 565
     },
