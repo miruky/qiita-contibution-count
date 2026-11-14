@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-14T12:00:51.680Z",
+  "updated_at": "2026-11-14T12:23:35.165Z",
   "articles": [
     {
       "id": "2b78a6f7b1e3ec8fe80d",
@@ -42,7 +42,7 @@
       "title": "AWS Lambda Durable Functionsで、15分の壁を超えてCloudWatch LogsのS3エクスポート完了を待ちぼうけ",
       "url": "https://qiita.com/miruky/items/633d3a1bbef54372c78a",
       "created_at": "2026-10-24T15:19:17+09:00",
-      "views": 303,
+      "views": 306,
       "likes": 0,
       "stocks": 0
     },
@@ -213,7 +213,7 @@
       "title": "【読書の夏？】各分野のおすすめ技術書を75冊まとめてみた",
       "url": "https://qiita.com/miruky/items/8b3e5908a24952c10783",
       "created_at": "2026-06-29T17:14:41+09:00",
-      "views": 57165,
+      "views": 57166,
       "likes": 129,
       "stocks": 140
     },
@@ -249,7 +249,7 @@
       "title": "週末なにしてますか？忙しいですか？非IT業界の友達に「燃える」が通じなかったので、IT業界の謎用語を教えてもらってもいいですか？",
       "url": "https://qiita.com/miruky/items/2d4fcb9ed4bee7ee25fe",
       "created_at": "2026-06-09T17:51:01+09:00",
-      "views": 125633,
+      "views": 125634,
       "likes": 201,
       "stocks": 150
     },
@@ -258,7 +258,7 @@
       "title": "ちょっと気になったので、決済サービス各社はカード情報をどう守っているのか調べてみた",
       "url": "https://qiita.com/miruky/items/b9d9dd83f33b4c837d63",
       "created_at": "2026-06-01T17:16:46+09:00",
-      "views": 45860,
+      "views": 45861,
       "likes": 59,
       "stocks": 68
     },
@@ -303,7 +303,7 @@
       "title": "GWも勉強したい方向けに、よくオススメされる技術書をカテゴリ別にまとめてみた",
       "url": "https://qiita.com/miruky/items/c2df4f23d73a8e05f37f",
       "created_at": "2026-04-27T18:00:30+09:00",
-      "views": 97680,
+      "views": 97681,
       "likes": 215,
       "stocks": 234
     },
@@ -519,7 +519,7 @@
       "title": "DDoS攻撃でAWS請求が200万円に！S3・CloudFrontで絶対やるべきコスト爆発防止策 6選",
       "url": "https://qiita.com/miruky/items/b996e374c91923141178",
       "created_at": "2026-03-27T00:01:05+09:00",
-      "views": 50966,
+      "views": 50967,
       "likes": 145,
       "stocks": 140
     },
@@ -591,7 +591,7 @@
       "title": "OpenCode vs Claude Code、ファイ！！ OSSコーディングエージェントの実力を検証してみた",
       "url": "https://qiita.com/miruky/items/293ad0d3bc4d0cc41b08",
       "created_at": "2026-03-22T00:04:45+09:00",
-      "views": 13535,
+      "views": 13536,
       "likes": 12,
       "stocks": 17
     },
@@ -654,7 +654,7 @@
       "title": "【2026年最新版】ローカルLLM（Ollama）で完全オフラインAI開発環境を作る",
       "url": "https://qiita.com/miruky/items/026aeee6b59f78df5e9d",
       "created_at": "2026-03-18T12:12:26+09:00",
-      "views": 74897,
+      "views": 74900,
       "likes": 91,
       "stocks": 95
     },
@@ -708,7 +708,7 @@
       "title": "【2026年最新版】Claude Codeで行うべきセキュリティ設定 10選",
       "url": "https://qiita.com/miruky/items/51db293a7a7d0d277a5d",
       "created_at": "2026-03-14T22:06:20+09:00",
-      "views": 180164,
+      "views": 180165,
       "likes": 555,
       "stocks": 565
     },
@@ -717,7 +717,7 @@
       "title": "米国で話題のRAGのセキュリティ脅威についてまとめてみた",
       "url": "https://qiita.com/miruky/items/3c98999786c7dbd2b26a",
       "created_at": "2026-03-13T18:21:20+09:00",
-      "views": 34638,
+      "views": 34639,
       "likes": 59,
       "stocks": 55
     },
@@ -780,7 +780,7 @@
       "title": "【Amazon Bedrock #6】AgentCoreを使ってAIエージェントの本番運用基盤を構築してみる",
       "url": "https://qiita.com/miruky/items/b7e5ed3869c7ef79f82e",
       "created_at": "2026-03-08T22:38:28+09:00",
-      "views": 4161,
+      "views": 4162,
       "likes": 1,
       "stocks": 6
     },
