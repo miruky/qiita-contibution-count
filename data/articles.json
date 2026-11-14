@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-14T18:21:34.623Z",
+  "updated_at": "2026-11-14T18:40:33.761Z",
   "articles": [
     {
       "id": "2b78a6f7b1e3ec8fe80d",
@@ -69,7 +69,7 @@
       "title": "【被害者は語る】タイムズカー660万件情報漏えいはなぜ起きたのかの矮小な考察",
       "url": "https://qiita.com/miruky/items/6577a57b9b62c8f97e11",
       "created_at": "2026-09-30T01:00:06+09:00",
-      "views": 73337,
+      "views": 73338,
       "likes": 69,
       "stocks": 47
     },
@@ -159,7 +159,7 @@
       "title": "今更だけど、DynamoDBの設計の勘所をサクッとまとめてみた",
       "url": "https://qiita.com/miruky/items/c7beb2fbed6492d195d1",
       "created_at": "2026-08-08T17:58:27+09:00",
-      "views": 10366,
+      "views": 10367,
       "likes": 8,
       "stocks": 15
     },
@@ -231,7 +231,7 @@
       "title": "ReactとかNext.jsとか、あたかも言語みたいな顔でこちらを見てくるJavaScript周辺技術をまとめてみた",
       "url": "https://qiita.com/miruky/items/b892d9ff73495ca4b68d",
       "created_at": "2026-06-16T23:46:52+09:00",
-      "views": 134855,
+      "views": 134856,
       "likes": 498,
       "stocks": 401
     },
@@ -294,7 +294,7 @@
       "title": "【徹底解説】セキュリティスペシャリストが教える、セキュアプログラミングの教科書",
       "url": "https://qiita.com/miruky/items/6fbb0c0e55835ea79e4d",
       "created_at": "2026-05-05T21:08:08+09:00",
-      "views": 143800,
+      "views": 143802,
       "likes": 349,
       "stocks": 446
     },
@@ -348,7 +348,7 @@
       "title": "【必須】GitHubとnpmで脆弱なパッケージを入れないための防御設定 8選",
       "url": "https://qiita.com/miruky/items/fcab851c5351f79b481d",
       "created_at": "2026-04-11T13:53:43+09:00",
-      "views": 104261,
+      "views": 104265,
       "likes": 158,
       "stocks": 194
     },
@@ -429,7 +429,7 @@
       "title": "Googleが提唱したDESIGN.mdとは？Claude CodeとDESIGN.mdでデモサイトをいくつか作ってみた",
       "url": "https://qiita.com/miruky/items/a6312c14e6352376ec00",
       "created_at": "2026-04-04T20:24:53+09:00",
-      "views": 29405,
+      "views": 29406,
       "likes": 58,
       "stocks": 55
     },
@@ -627,7 +627,7 @@
       "title": "AWSのAIエージェント、Kiro CLIで開発を加速させよう",
       "url": "https://qiita.com/miruky/items/145fa2461daf6ded64e1",
       "created_at": "2026-03-20T00:01:54+09:00",
-      "views": 5980,
+      "views": 5981,
       "likes": 10,
       "stocks": 10
     },
@@ -654,7 +654,7 @@
       "title": "【2026年最新版】ローカルLLM（Ollama）で完全オフラインAI開発環境を作る",
       "url": "https://qiita.com/miruky/items/026aeee6b59f78df5e9d",
       "created_at": "2026-03-18T12:12:26+09:00",
-      "views": 74944,
+      "views": 74946,
       "likes": 91,
       "stocks": 95
     },
