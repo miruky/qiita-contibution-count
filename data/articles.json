@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-11-14T14:00:42.614Z",
+  "updated_at": "2026-11-14T14:20:47.894Z",
   "articles": [
     {
       "id": "2b78a6f7b1e3ec8fe80d",
       "title": "【AWS Emulator】AWS公式のローカルエミュレーターで、本格的なサーバーレスはどこまで動く？motoやFlociなど5つのOSSとも比べてみた",
       "url": "https://qiita.com/miruky/items/2b78a6f7b1e3ec8fe80d",
       "created_at": "2026-11-12T22:34:31+09:00",
-      "views": 469,
+      "views": 471,
       "likes": 0,
       "stocks": 1
     },
@@ -213,7 +213,7 @@
       "title": "【読書の夏？】各分野のおすすめ技術書を75冊まとめてみた",
       "url": "https://qiita.com/miruky/items/8b3e5908a24952c10783",
       "created_at": "2026-06-29T17:14:41+09:00",
-      "views": 57167,
+      "views": 57168,
       "likes": 129,
       "stocks": 140
     },
@@ -240,7 +240,7 @@
       "title": "【解説】実際の値をもとに、ベクトル化などのRAGの仕組みを根本から理解しましょう",
       "url": "https://qiita.com/miruky/items/c3d6277ff99afb214b19",
       "created_at": "2026-06-13T23:05:19+09:00",
-      "views": 86261,
+      "views": 86262,
       "likes": 87,
       "stocks": 120
     },
@@ -258,7 +258,7 @@
       "title": "ちょっと気になったので、決済サービス各社はカード情報をどう守っているのか調べてみた",
       "url": "https://qiita.com/miruky/items/b9d9dd83f33b4c837d63",
       "created_at": "2026-06-01T17:16:46+09:00",
-      "views": 45866,
+      "views": 45867,
       "likes": 59,
       "stocks": 68
     },
@@ -285,7 +285,7 @@
       "title": "【エンジニアの教養】なぜかエンジニア界隈で有名な◯◯の法則的なやつをまとめてみた",
       "url": "https://qiita.com/miruky/items/cef8169b4a10cdd790b5",
       "created_at": "2026-05-11T17:19:23+09:00",
-      "views": 119074,
+      "views": 119076,
       "likes": 530,
       "stocks": 463
     },
@@ -429,7 +429,7 @@
       "title": "Googleが提唱したDESIGN.mdとは？Claude CodeとDESIGN.mdでデモサイトをいくつか作ってみた",
       "url": "https://qiita.com/miruky/items/a6312c14e6352376ec00",
       "created_at": "2026-04-04T20:24:53+09:00",
-      "views": 29403,
+      "views": 29404,
       "likes": 58,
       "stocks": 55
     },
@@ -537,7 +537,7 @@
       "title": "Claude Codeの5つの習熟レベル。CLAUDE.mdで止まっている人が知らないSkills・Hooks・Orchestrationの世界について",
       "url": "https://qiita.com/miruky/items/43a6828c806a9ebcfdd1",
       "created_at": "2026-03-26T00:01:52+09:00",
-      "views": 44556,
+      "views": 44558,
       "likes": 169,
       "stocks": 187
     },
@@ -654,7 +654,7 @@
       "title": "【2026年最新版】ローカルLLM（Ollama）で完全オフラインAI開発環境を作る",
       "url": "https://qiita.com/miruky/items/026aeee6b59f78df5e9d",
       "created_at": "2026-03-18T12:12:26+09:00",
-      "views": 74921,
+      "views": 74922,
       "likes": 91,
       "stocks": 95
     },
@@ -708,7 +708,7 @@
       "title": "【2026年最新版】Claude Codeで行うべきセキュリティ設定 10選",
       "url": "https://qiita.com/miruky/items/51db293a7a7d0d277a5d",
       "created_at": "2026-03-14T22:06:20+09:00",
-      "views": 180169,
+      "views": 180171,
       "likes": 555,
       "stocks": 565
     },
@@ -825,7 +825,7 @@
       "title": "【Amazon Bedrock #1】AWSの生成AI基盤「Amazon Bedrock」とは？",
       "url": "https://qiita.com/miruky/items/95c4fcd338b6bcfb6a5e",
       "created_at": "2026-03-02T22:21:49+09:00",
-      "views": 3408,
+      "views": 3409,
       "likes": 1,
       "stocks": 3
     },
@@ -852,7 +852,7 @@
       "title": "【Amazon Connect #3】自然言語×Bedrockナレッジベース（RAG）を用いた本格的なAIコンタクトセンターを構築してみる",
       "url": "https://qiita.com/miruky/items/63bf639c3f1e1356bccb",
       "created_at": "2026-02-26T18:38:56+09:00",
-      "views": 2295,
+      "views": 2296,
       "likes": 0,
       "stocks": 3
     },
