@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-11-14T20:20:50.125Z",
+  "updated_at": "2026-11-14T20:40:23.347Z",
   "articles": [
     {
       "id": "2b78a6f7b1e3ec8fe80d",
       "title": "【AWS Emulator】AWS公式のローカルエミュレーターで、本格的なサーバーレスはどこまで動く？motoやFlociなど5つのOSSとも比べてみた",
       "url": "https://qiita.com/miruky/items/2b78a6f7b1e3ec8fe80d",
       "created_at": "2026-11-12T22:34:31+09:00",
-      "views": 486,
+      "views": 491,
       "likes": 0,
       "stocks": 1
     },
@@ -69,7 +69,7 @@
       "title": "【被害者は語る】タイムズカー660万件情報漏えいはなぜ起きたのかの矮小な考察",
       "url": "https://qiita.com/miruky/items/6577a57b9b62c8f97e11",
       "created_at": "2026-09-30T01:00:06+09:00",
-      "views": 73340,
+      "views": 73341,
       "likes": 69,
       "stocks": 47
     },
@@ -294,7 +294,7 @@
       "title": "【徹底解説】セキュリティスペシャリストが教える、セキュアプログラミングの教科書",
       "url": "https://qiita.com/miruky/items/6fbb0c0e55835ea79e4d",
       "created_at": "2026-05-05T21:08:08+09:00",
-      "views": 143802,
+      "views": 143803,
       "likes": 349,
       "stocks": 446
     },
@@ -546,7 +546,7 @@
       "title": "「Deploy to AWS」の一言でAIがAWSインフラ構築からデプロイまで完了する時代が来た",
       "url": "https://qiita.com/miruky/items/74af8cae780f50f1a7f8",
       "created_at": "2026-03-25T18:50:55+09:00",
-      "views": 5084,
+      "views": 5089,
       "likes": 12,
       "stocks": 11
     },
@@ -609,7 +609,7 @@
       "title": "【2026年最新版】Claude Code Skills実践テクニック 10選",
       "url": "https://qiita.com/miruky/items/3ebe56edd76f7cddfd47",
       "created_at": "2026-03-21T00:18:37+09:00",
-      "views": 20836,
+      "views": 20837,
       "likes": 56,
       "stocks": 72
     },
