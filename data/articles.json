@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-14T07:40:32.359Z",
+  "updated_at": "2026-11-14T08:00:41.645Z",
   "articles": [
     {
       "id": "2b78a6f7b1e3ec8fe80d",
@@ -159,7 +159,7 @@
       "title": "今更だけど、DynamoDBの設計の勘所をサクッとまとめてみた",
       "url": "https://qiita.com/miruky/items/c7beb2fbed6492d195d1",
       "created_at": "2026-08-08T17:58:27+09:00",
-      "views": 10360,
+      "views": 10361,
       "likes": 8,
       "stocks": 15
     },
@@ -231,7 +231,7 @@
       "title": "ReactとかNext.jsとか、あたかも言語みたいな顔でこちらを見てくるJavaScript周辺技術をまとめてみた",
       "url": "https://qiita.com/miruky/items/b892d9ff73495ca4b68d",
       "created_at": "2026-06-16T23:46:52+09:00",
-      "views": 134841,
+      "views": 134842,
       "likes": 498,
       "stocks": 401
     },
@@ -285,7 +285,7 @@
       "title": "【エンジニアの教養】なぜかエンジニア界隈で有名な◯◯の法則的なやつをまとめてみた",
       "url": "https://qiita.com/miruky/items/cef8169b4a10cdd790b5",
       "created_at": "2026-05-11T17:19:23+09:00",
-      "views": 119065,
+      "views": 119066,
       "likes": 530,
       "stocks": 463
     },
@@ -294,7 +294,7 @@
       "title": "【徹底解説】セキュリティスペシャリストが教える、セキュアプログラミングの教科書",
       "url": "https://qiita.com/miruky/items/6fbb0c0e55835ea79e4d",
       "created_at": "2026-05-05T21:08:08+09:00",
-      "views": 143785,
+      "views": 143788,
       "likes": 349,
       "stocks": 446
     },
@@ -303,7 +303,7 @@
       "title": "GWも勉強したい方向けに、よくオススメされる技術書をカテゴリ別にまとめてみた",
       "url": "https://qiita.com/miruky/items/c2df4f23d73a8e05f37f",
       "created_at": "2026-04-27T18:00:30+09:00",
-      "views": 97678,
+      "views": 97680,
       "likes": 215,
       "stocks": 234
     },
@@ -582,7 +582,7 @@
       "title": "シンギュラリティとエンジニア 、我々はどう生きるべきかをネオサイバネティクスから考える",
       "url": "https://qiita.com/miruky/items/2023621da88f643d66e6",
       "created_at": "2026-03-23T00:03:11+09:00",
-      "views": 5877,
+      "views": 5878,
       "likes": 9,
       "stocks": 9
     },
@@ -636,7 +636,7 @@
       "title": "Claude Codeで自作プラグインを開発する方法をまとめた",
       "url": "https://qiita.com/miruky/items/753395f62397c5ca6cbd",
       "created_at": "2026-03-18T13:55:57+09:00",
-      "views": 3796,
+      "views": 3797,
       "likes": 10,
       "stocks": 11
     },
@@ -645,7 +645,7 @@
       "title": "【保存版】Claude Code Hooks全21イベントをまとめてみた ",
       "url": "https://qiita.com/miruky/items/e33ccda99281b40ad97b",
       "created_at": "2026-03-18T13:41:22+09:00",
-      "views": 7946,
+      "views": 7947,
       "likes": 20,
       "stocks": 23
     },
@@ -654,7 +654,7 @@
       "title": "【2026年最新版】ローカルLLM（Ollama）で完全オフラインAI開発環境を作る",
       "url": "https://qiita.com/miruky/items/026aeee6b59f78df5e9d",
       "created_at": "2026-03-18T12:12:26+09:00",
-      "views": 74866,
+      "views": 74868,
       "likes": 91,
       "stocks": 95
     },
@@ -699,7 +699,7 @@
       "title": "【2026年最新版】Gemini CLIで行うべきセキュリティ設定 10選",
       "url": "https://qiita.com/miruky/items/3f091416cfbfbbff99eb",
       "created_at": "2026-03-14T22:34:59+09:00",
-      "views": 11785,
+      "views": 11786,
       "likes": 19,
       "stocks": 22
     },
@@ -708,7 +708,7 @@
       "title": "【2026年最新版】Claude Codeで行うべきセキュリティ設定 10選",
       "url": "https://qiita.com/miruky/items/51db293a7a7d0d277a5d",
       "created_at": "2026-03-14T22:06:20+09:00",
-      "views": 180147,
+      "views": 180148,
       "likes": 555,
       "stocks": 565
     },
@@ -726,7 +726,7 @@
       "title": "【2026年最新版】結局最強のAIコーディングツールは？色々と比較して考えてみる",
       "url": "https://qiita.com/miruky/items/b200c3e6112a833cffd4",
       "created_at": "2026-03-12T22:16:44+09:00",
-      "views": 32489,
+      "views": 32490,
       "likes": 12,
       "stocks": 14
     },
@@ -897,7 +897,7 @@
       "title": "【2026年版】AWS CLIを使いこなす！インストールから実務で使うコマンドまで",
       "url": "https://qiita.com/miruky/items/98ff03f55c2cf90ec337",
       "created_at": "2026-02-23T12:59:43+09:00",
-      "views": 10457,
+      "views": 10458,
       "likes": 9,
       "stocks": 11
     },
