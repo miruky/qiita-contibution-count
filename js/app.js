@@ -22,6 +22,16 @@ async function fetchHistory() {
   }
 }
 
+async function fetchArticles() {
+  try {
+    const res = await fetch('./data/articles.json', { cache: 'no-cache' });
+    if (!res.ok) throw new Error('No article data');
+    return await res.json();
+  } catch {
+    return null;
+  }
+}
+
 async function fetchAllPublicItems() {
   const items = [];
   let page = 1;
@@ -523,6 +533,58 @@ function renderDailyChart(history, realtimeData) {
   });
 }
 
+function renderArticles(data) {
+  const rowsEl = document.getElementById('article-rows');
+  const wrapperEl = document.getElementById('articles-wrapper');
+  const placeholderEl = document.getElementById('articles-placeholder');
+  const updatedEl = document.getElementById('articles-updated');
+  if (!rowsEl) return;
+
+  const articles = Array.isArray(data?.articles) ? data.articles : [];
+  if (articles.length === 0) {
+    wrapperEl?.classList.add('hidden');
+    placeholderEl?.classList.remove('hidden');
+    return;
+  }
+  wrapperEl?.classList.remove('hidden');
+  placeholderEl?.classList.add('hidden');
+
+  if (updatedEl && data.updated_at) {
+    updatedEl.textContent = `${articles.length}記事・取得: ${new Date(data.updated_at).toLocaleString('ja-JP')}`;
+  }
+
+  const cell = (text, className) => {
+    const td = document.createElement('td');
+    if (className) td.className = className;
+    td.textContent = text;
+    return td;
+  };
+
+  rowsEl.replaceChildren(...articles.map(article => {
+    const tr = document.createElement('tr');
+    const date = article.created_at ? new Date(article.created_at).toLocaleDateString('ja-JP') : '-';
+    tr.appendChild(cell(date, 'date'));
+
+    const titleTd = document.createElement('td');
+    if (/^https:\/\/qiita\.com\//.test(article.url || '')) {
+      const a = document.createElement('a');
+      a.href = article.url;
+      a.target = '_blank';
+      a.rel = 'noopener';
+      a.textContent = article.title;
+      titleTd.appendChild(a);
+    } else {
+      titleTd.textContent = article.title;
+    }
+    tr.appendChild(titleTd);
+
+    tr.appendChild(cell(formatNumber(article.views), 'num views'));
+    tr.appendChild(cell(formatNumber(article.likes), 'num muted'));
+    tr.appendChild(cell(formatNumber(article.stocks), 'num muted'));
+    return tr;
+  }));
+}
+
 // ===== Init =====
 
 async function init() {
@@ -530,9 +592,10 @@ async function init() {
   const dashboardEl = document.getElementById('dashboard');
 
   try {
-    const [history, realtimeData] = await Promise.all([
+    const [history, realtimeData, articleData] = await Promise.all([
       fetchHistory(),
-      fetchRealtimeData()
+      fetchRealtimeData(),
+      fetchArticles()
     ]);
 
     cachedHistory = history;
@@ -541,6 +604,7 @@ async function init() {
     renderStats(realtimeData, history);
     renderCumulativeChart(history, realtimeData, currentChartMode);
     renderDailyChart(history, realtimeData);
+    renderArticles(articleData);
   } catch (e) {
     console.error('Dashboard init error:', e);
   } finally {

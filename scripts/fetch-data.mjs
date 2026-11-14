@@ -137,6 +137,26 @@ async function main() {
   }
 
   writeFileSync(historyFile, JSON.stringify(history, null, 2));
+
+  // Per-article view counts. Only public articles are written: limited-share
+  // (private) items have secret URLs that must not end up in a public repo.
+  const articles = items
+    .filter(item => !item.private)
+    .map(item => ({
+      id: item.id,
+      title: item.title,
+      url: item.url,
+      created_at: item.created_at,
+      views: item.page_views_count ?? null,
+      likes: item.likes_count ?? 0,
+      stocks: item.stocks_count ?? 0
+    }))
+    .sort((a, b) => b.created_at.localeCompare(a.created_at));
+  writeFileSync(
+    join(dataDir, 'articles.json'),
+    JSON.stringify({ updated_at: new Date().toISOString(), articles }, null, 2)
+  );
+
   console.log(`Updated: ${today} | contribution=${contribution} | likes=${totalLikes} | stocks=${totalStocks} | views=${totalViews} | articles=${items.length}`);
 }
 
