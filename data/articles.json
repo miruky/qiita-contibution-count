@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-15T15:40:39.775Z",
+  "updated_at": "2026-11-15T16:00:47.517Z",
   "articles": [
     {
       "id": "2b78a6f7b1e3ec8fe80d",
@@ -258,7 +258,7 @@
       "title": "ちょっと気になったので、決済サービス各社はカード情報をどう守っているのか調べてみた",
       "url": "https://qiita.com/miruky/items/b9d9dd83f33b4c837d63",
       "created_at": "2026-06-01T17:16:46+09:00",
-      "views": 45894,
+      "views": 45895,
       "likes": 59,
       "stocks": 68
     },
@@ -294,7 +294,7 @@
       "title": "【徹底解説】セキュリティスペシャリストが教える、セキュアプログラミングの教科書",
       "url": "https://qiita.com/miruky/items/6fbb0c0e55835ea79e4d",
       "created_at": "2026-05-05T21:08:08+09:00",
-      "views": 143846,
+      "views": 143848,
       "likes": 349,
       "stocks": 446
     },
@@ -312,7 +312,7 @@
       "title": "【徹底解説】DBスペシャリストなりぞこないが教える、データベースの教科書（設計もあるよ）",
       "url": "https://qiita.com/miruky/items/f67bd754c1f7a5116a7c",
       "created_at": "2026-04-21T17:12:46+09:00",
-      "views": 122681,
+      "views": 122683,
       "likes": 260,
       "stocks": 281
     },
@@ -348,7 +348,7 @@
       "title": "【必須】GitHubとnpmで脆弱なパッケージを入れないための防御設定 8選",
       "url": "https://qiita.com/miruky/items/fcab851c5351f79b481d",
       "created_at": "2026-04-11T13:53:43+09:00",
-      "views": 104289,
+      "views": 104290,
       "likes": 158,
       "stocks": 194
     },
@@ -573,7 +573,7 @@
       "title": "ポートフォリオ用の綺麗なGitHubリポジトリの作り方 ―すぐに使えるテンプレート付き",
       "url": "https://qiita.com/miruky/items/726d9210cc8666866f86",
       "created_at": "2026-03-24T09:40:53+09:00",
-      "views": 21743,
+      "views": 21744,
       "likes": 67,
       "stocks": 69
     },
@@ -591,7 +591,7 @@
       "title": "OpenCode vs Claude Code、ファイ！！ OSSコーディングエージェントの実力を検証してみた",
       "url": "https://qiita.com/miruky/items/293ad0d3bc4d0cc41b08",
       "created_at": "2026-03-22T00:04:45+09:00",
-      "views": 13548,
+      "views": 13549,
       "likes": 12,
       "stocks": 17
     },
@@ -654,7 +654,7 @@
       "title": "【2026年最新版】ローカルLLM（Ollama）で完全オフラインAI開発環境を作る",
       "url": "https://qiita.com/miruky/items/026aeee6b59f78df5e9d",
       "created_at": "2026-03-18T12:12:26+09:00",
-      "views": 75081,
+      "views": 75083,
       "likes": 90,
       "stocks": 94
     },
@@ -726,7 +726,7 @@
       "title": "【2026年最新版】結局最強のAIコーディングツールは？色々と比較して考えてみる",
       "url": "https://qiita.com/miruky/items/b200c3e6112a833cffd4",
       "created_at": "2026-03-12T22:16:44+09:00",
-      "views": 32636,
+      "views": 32639,
       "likes": 12,
       "stocks": 14
     },
@@ -825,7 +825,7 @@
       "title": "【Amazon Bedrock #1】AWSの生成AI基盤「Amazon Bedrock」とは？",
       "url": "https://qiita.com/miruky/items/95c4fcd338b6bcfb6a5e",
       "created_at": "2026-03-02T22:21:49+09:00",
-      "views": 3417,
+      "views": 3418,
       "likes": 1,
       "stocks": 3
     },
