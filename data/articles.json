@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-11-15T18:40:43.768Z",
+  "updated_at": "2026-11-15T19:00:46.383Z",
   "articles": [
     {
       "id": "0e16e9ddc811e13d6b04",
       "title": "【これ1本でわかる】AIが動くハーネスの整え方と育て方を、実物のリポジトリでまとめてみた",
       "url": "https://qiita.com/miruky/items/0e16e9ddc811e13d6b04",
       "created_at": "2026-11-16T01:13:39+09:00",
-      "views": 116,
+      "views": 119,
       "likes": 0,
       "stocks": 0
     },
@@ -240,7 +240,7 @@
       "title": "ReactとかNext.jsとか、あたかも言語みたいな顔でこちらを見てくるJavaScript周辺技術をまとめてみた",
       "url": "https://qiita.com/miruky/items/b892d9ff73495ca4b68d",
       "created_at": "2026-06-16T23:46:52+09:00",
-      "views": 134881,
+      "views": 134882,
       "likes": 498,
       "stocks": 401
     },
@@ -258,7 +258,7 @@
       "title": "週末なにしてますか？忙しいですか？非IT業界の友達に「燃える」が通じなかったので、IT業界の謎用語を教えてもらってもいいですか？",
       "url": "https://qiita.com/miruky/items/2d4fcb9ed4bee7ee25fe",
       "created_at": "2026-06-09T17:51:01+09:00",
-      "views": 125651,
+      "views": 125652,
       "likes": 201,
       "stocks": 150
     },
@@ -393,7 +393,7 @@
       "title": "GitHub Copilotのドキュメントを全部読んだので、本当に使えるカスタマイズだけ10個まとめた",
       "url": "https://qiita.com/miruky/items/26dfbc0ee7492ed12ba6",
       "created_at": "2026-04-09T19:28:07+09:00",
-      "views": 13803,
+      "views": 13804,
       "likes": 32,
       "stocks": 38
     },
@@ -429,7 +429,7 @@
       "title": "【今さら聞けない】OpenClawについて詳しくまとめてみた",
       "url": "https://qiita.com/miruky/items/65eeae6512345ac74346",
       "created_at": "2026-04-05T14:09:19+09:00",
-      "views": 7466,
+      "views": 7467,
       "likes": 8,
       "stocks": 11
     },
@@ -717,7 +717,7 @@
       "title": "【2026年最新版】Claude Codeで行うべきセキュリティ設定 10選",
       "url": "https://qiita.com/miruky/items/51db293a7a7d0d277a5d",
       "created_at": "2026-03-14T22:06:20+09:00",
-      "views": 180245,
+      "views": 180246,
       "likes": 555,
       "stocks": 565
     },
@@ -735,7 +735,7 @@
       "title": "【2026年最新版】結局最強のAIコーディングツールは？色々と比較して考えてみる",
       "url": "https://qiita.com/miruky/items/b200c3e6112a833cffd4",
       "created_at": "2026-03-12T22:16:44+09:00",
-      "views": 32647,
+      "views": 32648,
       "likes": 12,
       "stocks": 14
     },
