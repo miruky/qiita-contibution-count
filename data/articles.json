@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-11-15T16:20:54.634Z",
+  "updated_at": "2026-11-15T16:40:29.884Z",
   "articles": [
     {
       "id": "0e16e9ddc811e13d6b04",
       "title": "【これ1本でわかる】AIが動くハーネスの整え方と育て方を、実物のリポジトリでまとめてみた",
       "url": "https://qiita.com/miruky/items/0e16e9ddc811e13d6b04",
       "created_at": "2026-11-16T01:13:39+09:00",
-      "views": 32,
+      "views": 54,
       "likes": 0,
       "stocks": 0
     },
@@ -249,7 +249,7 @@
       "title": "【解説】実際の値をもとに、ベクトル化などのRAGの仕組みを根本から理解しましょう",
       "url": "https://qiita.com/miruky/items/c3d6277ff99afb214b19",
       "created_at": "2026-06-13T23:05:19+09:00",
-      "views": 86276,
+      "views": 86278,
       "likes": 87,
       "stocks": 120
     },
@@ -258,7 +258,7 @@
       "title": "週末なにしてますか？忙しいですか？非IT業界の友達に「燃える」が通じなかったので、IT業界の謎用語を教えてもらってもいいですか？",
       "url": "https://qiita.com/miruky/items/2d4fcb9ed4bee7ee25fe",
       "created_at": "2026-06-09T17:51:01+09:00",
-      "views": 125650,
+      "views": 125651,
       "likes": 201,
       "stocks": 150
     },
@@ -303,7 +303,7 @@
       "title": "【徹底解説】セキュリティスペシャリストが教える、セキュアプログラミングの教科書",
       "url": "https://qiita.com/miruky/items/6fbb0c0e55835ea79e4d",
       "created_at": "2026-05-05T21:08:08+09:00",
-      "views": 143848,
+      "views": 143849,
       "likes": 349,
       "stocks": 446
     },
@@ -321,7 +321,7 @@
       "title": "【徹底解説】DBスペシャリストなりぞこないが教える、データベースの教科書（設計もあるよ）",
       "url": "https://qiita.com/miruky/items/f67bd754c1f7a5116a7c",
       "created_at": "2026-04-21T17:12:46+09:00",
-      "views": 122683,
+      "views": 122684,
       "likes": 260,
       "stocks": 281
     },
@@ -591,7 +591,7 @@
       "title": "シンギュラリティとエンジニア 、我々はどう生きるべきかをネオサイバネティクスから考える",
       "url": "https://qiita.com/miruky/items/2023621da88f643d66e6",
       "created_at": "2026-03-23T00:03:11+09:00",
-      "views": 5881,
+      "views": 5882,
       "likes": 9,
       "stocks": 9
     },
@@ -717,7 +717,7 @@
       "title": "【2026年最新版】Claude Codeで行うべきセキュリティ設定 10選",
       "url": "https://qiita.com/miruky/items/51db293a7a7d0d277a5d",
       "created_at": "2026-03-14T22:06:20+09:00",
-      "views": 180241,
+      "views": 180243,
       "likes": 555,
       "stocks": 565
     },
@@ -735,7 +735,7 @@
       "title": "【2026年最新版】結局最強のAIコーディングツールは？色々と比較して考えてみる",
       "url": "https://qiita.com/miruky/items/b200c3e6112a833cffd4",
       "created_at": "2026-03-12T22:16:44+09:00",
-      "views": 32640,
+      "views": 32641,
       "likes": 12,
       "stocks": 14
     },
@@ -870,7 +870,7 @@
       "title": "【Amazon Connect #2】コンタクトフローを作成してみよう",
       "url": "https://qiita.com/miruky/items/df75f9a506c2feba34e0",
       "created_at": "2026-02-25T19:22:27+09:00",
-      "views": 2005,
+      "views": 2006,
       "likes": 2,
       "stocks": 5
     },
@@ -897,7 +897,7 @@
       "title": "【AWS End User Messaging SMS #3】実務に沿ったアーキテクチャを作成し、実践してみる",
       "url": "https://qiita.com/miruky/items/4703927c6d699d741715",
       "created_at": "2026-02-23T19:42:58+09:00",
-      "views": 4228,
+      "views": 4229,
       "likes": 3,
       "stocks": 5
     },
