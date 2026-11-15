@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-11-15T17:40:33.299Z",
+  "updated_at": "2026-11-15T18:00:48.281Z",
   "articles": [
     {
       "id": "0e16e9ddc811e13d6b04",
       "title": "【これ1本でわかる】AIが動くハーネスの整え方と育て方を、実物のリポジトリでまとめてみた",
       "url": "https://qiita.com/miruky/items/0e16e9ddc811e13d6b04",
       "created_at": "2026-11-16T01:13:39+09:00",
-      "views": 100,
+      "views": 104,
       "likes": 0,
       "stocks": 0
     },
@@ -78,7 +78,7 @@
       "title": "【被害者は語る】タイムズカー660万件情報漏えいはなぜ起きたのかの矮小な考察",
       "url": "https://qiita.com/miruky/items/6577a57b9b62c8f97e11",
       "created_at": "2026-09-30T01:00:06+09:00",
-      "views": 73392,
+      "views": 73393,
       "likes": 69,
       "stocks": 47
     },
@@ -240,7 +240,7 @@
       "title": "ReactとかNext.jsとか、あたかも言語みたいな顔でこちらを見てくるJavaScript周辺技術をまとめてみた",
       "url": "https://qiita.com/miruky/items/b892d9ff73495ca4b68d",
       "created_at": "2026-06-16T23:46:52+09:00",
-      "views": 134879,
+      "views": 134880,
       "likes": 498,
       "stocks": 401
     },
@@ -321,7 +321,7 @@
       "title": "【徹底解説】DBスペシャリストなりぞこないが教える、データベースの教科書（設計もあるよ）",
       "url": "https://qiita.com/miruky/items/f67bd754c1f7a5116a7c",
       "created_at": "2026-04-21T17:12:46+09:00",
-      "views": 122684,
+      "views": 122685,
       "likes": 260,
       "stocks": 281
     },
@@ -447,7 +447,7 @@
       "title": "【コマンド集】LPIC-3 303 Security 試験対策まとめ！全トピック解説（V3.0対応）",
       "url": "https://qiita.com/miruky/items/ee4286cb7d9d79a321e0",
       "created_at": "2026-04-04T00:06:11+09:00",
-      "views": 2663,
+      "views": 2664,
       "likes": 2,
       "stocks": 7
     },
@@ -492,7 +492,7 @@
       "title": "【Amazon Lex #5】Lexの音声認識精度を高めるテクニックを試してみる",
       "url": "https://qiita.com/miruky/items/908a21cad0fbcc2362f4",
       "created_at": "2026-03-30T21:07:56+09:00",
-      "views": 1435,
+      "views": 1436,
       "likes": 1,
       "stocks": 3
     },
@@ -519,7 +519,7 @@
       "title": "ほぼ2年目エンジニア、AWSとAIに「全振り」した365日からAI時代の新米エンジニアの歩き方を考える",
       "url": "https://qiita.com/miruky/items/14008906c3772c3305a5",
       "created_at": "2026-03-27T18:57:10+09:00",
-      "views": 6420,
+      "views": 6422,
       "likes": 23,
       "stocks": 16
     },
@@ -618,7 +618,7 @@
       "title": "【2026年最新版】Claude Code Skills実践テクニック 10選",
       "url": "https://qiita.com/miruky/items/3ebe56edd76f7cddfd47",
       "created_at": "2026-03-21T00:18:37+09:00",
-      "views": 20850,
+      "views": 20851,
       "likes": 56,
       "stocks": 72
     },
@@ -888,7 +888,7 @@
       "title": "【AWS End User Messaging SMS #4】SMSのサンドボックス解除申請と1$制限の緩和申請方法",
       "url": "https://qiita.com/miruky/items/dcc598438ede59bcd090",
       "created_at": "2026-02-24T18:55:33+09:00",
-      "views": 2845,
+      "views": 2846,
       "likes": 1,
       "stocks": 3
     },
