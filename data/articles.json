@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-16T19:40:30.620Z",
+  "updated_at": "2026-11-16T20:01:12.770Z",
   "articles": [
     {
       "id": "0e16e9ddc811e13d6b04",
@@ -24,7 +24,7 @@
       "title": "【やさしく】CORSについて理解する",
       "url": "https://qiita.com/miruky/items/09cdd3d53bc9e96e92ce",
       "created_at": "2026-11-09T23:04:54+09:00",
-      "views": 328,
+      "views": 329,
       "likes": 0,
       "stocks": 0
     },
@@ -78,7 +78,7 @@
       "title": "【被害者は語る】タイムズカー660万件情報漏えいはなぜ起きたのかの矮小な考察",
       "url": "https://qiita.com/miruky/items/6577a57b9b62c8f97e11",
       "created_at": "2026-09-30T01:00:06+09:00",
-      "views": 73515,
+      "views": 73516,
       "likes": 69,
       "stocks": 47
     },
@@ -717,7 +717,7 @@
       "title": "【2026年最新版】Claude Codeで行うべきセキュリティ設定 10選",
       "url": "https://qiita.com/miruky/items/51db293a7a7d0d277a5d",
       "created_at": "2026-03-14T22:06:20+09:00",
-      "views": 180337,
+      "views": 180338,
       "likes": 555,
       "stocks": 565
     },
@@ -816,7 +816,7 @@
       "title": "【Amazon Bedrock #3】Knowledge Bases（RAG）で社内データを活用したAIチャットを構築してみる",
       "url": "https://qiita.com/miruky/items/bcb3b01b858959aba8e1",
       "created_at": "2026-03-04T22:44:48+09:00",
-      "views": 4153,
+      "views": 4154,
       "likes": 0,
       "stocks": 4
     },
@@ -852,7 +852,7 @@
       "title": "【Amazon Connect #4】Bedrock Converse API（Claude Sonnet 4.6使用）で通話をAIがリアルタイム分析するシステムを構築してみる",
       "url": "https://qiita.com/miruky/items/8d0a72a36d8d3cda7233",
       "created_at": "2026-02-27T19:50:38+09:00",
-      "views": 2005,
+      "views": 2006,
       "likes": 0,
       "stocks": 4
     },
