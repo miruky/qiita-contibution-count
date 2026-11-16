@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-16T17:22:29.497Z",
+  "updated_at": "2026-11-16T17:40:37.926Z",
   "articles": [
     {
       "id": "0e16e9ddc811e13d6b04",
@@ -168,7 +168,7 @@
       "title": "今更だけど、DynamoDBの設計の勘所をサクッとまとめてみた",
       "url": "https://qiita.com/miruky/items/c7beb2fbed6492d195d1",
       "created_at": "2026-08-08T17:58:27+09:00",
-      "views": 10374,
+      "views": 10375,
       "likes": 8,
       "stocks": 15
     },
@@ -582,7 +582,7 @@
       "title": "ポートフォリオ用の綺麗なGitHubリポジトリの作り方 ―すぐに使えるテンプレート付き",
       "url": "https://qiita.com/miruky/items/726d9210cc8666866f86",
       "created_at": "2026-03-24T09:40:53+09:00",
-      "views": 21776,
+      "views": 21777,
       "likes": 67,
       "stocks": 69
     },
@@ -609,7 +609,7 @@
       "title": "ハーネスエンジニアリングとは何か ── コンテキストエンジニアリングの次のパラダイム",
       "url": "https://qiita.com/miruky/items/155f3b5a0dcde72fcd10",
       "created_at": "2026-03-21T18:19:07+09:00",
-      "views": 43655,
+      "views": 43656,
       "likes": 104,
       "stocks": 93
     },
@@ -735,7 +735,7 @@
       "title": "【2026年最新版】結局最強のAIコーディングツールは？色々と比較して考えてみる",
       "url": "https://qiita.com/miruky/items/b200c3e6112a833cffd4",
       "created_at": "2026-03-12T22:16:44+09:00",
-      "views": 32809,
+      "views": 32810,
       "likes": 12,
       "stocks": 14
     },
@@ -771,7 +771,7 @@
       "title": "【Amazon Lex #1】AWSの会話型AIサービス「Amazon Lex」とは？",
       "url": "https://qiita.com/miruky/items/0caa7543789126603792",
       "created_at": "2026-03-09T20:43:00+09:00",
-      "views": 2697,
+      "views": 2698,
       "likes": 0,
       "stocks": 3
     },
