@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-16T22:40:28.819Z",
+  "updated_at": "2026-11-16T23:00:51.600Z",
   "articles": [
     {
       "id": "0e16e9ddc811e13d6b04",
@@ -15,7 +15,7 @@
       "title": "【AWS Emulator】AWS公式のローカルエミュレーターで、本格的なサーバーレスはどこまで動く？motoやFlociなど5つのOSSとも比べてみた",
       "url": "https://qiita.com/miruky/items/2b78a6f7b1e3ec8fe80d",
       "created_at": "2026-11-12T22:34:31+09:00",
-      "views": 688,
+      "views": 691,
       "likes": 0,
       "stocks": 1
     },
@@ -78,7 +78,7 @@
       "title": "【被害者は語る】タイムズカー660万件情報漏えいはなぜ起きたのかの矮小な考察",
       "url": "https://qiita.com/miruky/items/6577a57b9b62c8f97e11",
       "created_at": "2026-09-30T01:00:06+09:00",
-      "views": 73519,
+      "views": 73521,
       "likes": 69,
       "stocks": 47
     },
@@ -222,7 +222,7 @@
       "title": "【読書の夏？】各分野のおすすめ技術書を75冊まとめてみた",
       "url": "https://qiita.com/miruky/items/8b3e5908a24952c10783",
       "created_at": "2026-06-29T17:14:41+09:00",
-      "views": 57219,
+      "views": 57220,
       "likes": 129,
       "stocks": 140
     },
@@ -240,7 +240,7 @@
       "title": "ReactとかNext.jsとか、あたかも言語みたいな顔でこちらを見てくるJavaScript周辺技術をまとめてみた",
       "url": "https://qiita.com/miruky/items/b892d9ff73495ca4b68d",
       "created_at": "2026-06-16T23:46:52+09:00",
-      "views": 134919,
+      "views": 134921,
       "likes": 498,
       "stocks": 401
     },
@@ -294,7 +294,7 @@
       "title": "【エンジニアの教養】なぜかエンジニア界隈で有名な◯◯の法則的なやつをまとめてみた",
       "url": "https://qiita.com/miruky/items/cef8169b4a10cdd790b5",
       "created_at": "2026-05-11T17:19:23+09:00",
-      "views": 119163,
+      "views": 119167,
       "likes": 530,
       "stocks": 463
     },
@@ -366,7 +366,7 @@
       "title": "MCP vs Skills論争に決着をつける試み。AIエージェントの「拡張手段」を実装・設計・セキュリティで徹底比較する",
       "url": "https://qiita.com/miruky/items/32314a0d9eb8c154dc95",
       "created_at": "2026-04-11T00:49:30+09:00",
-      "views": 19575,
+      "views": 19576,
       "likes": 21,
       "stocks": 21
     },
@@ -393,7 +393,7 @@
       "title": "GitHub Copilotのドキュメントを全部読んだので、本当に使えるカスタマイズだけ10個まとめた",
       "url": "https://qiita.com/miruky/items/26dfbc0ee7492ed12ba6",
       "created_at": "2026-04-09T19:28:07+09:00",
-      "views": 13845,
+      "views": 13848,
       "likes": 32,
       "stocks": 38
     },
@@ -546,7 +546,7 @@
       "title": "Claude Codeの5つの習熟レベル。CLAUDE.mdで止まっている人が知らないSkills・Hooks・Orchestrationの世界について",
       "url": "https://qiita.com/miruky/items/43a6828c806a9ebcfdd1",
       "created_at": "2026-03-26T00:01:52+09:00",
-      "views": 44658,
+      "views": 44659,
       "likes": 169,
       "stocks": 187
     },
@@ -582,7 +582,7 @@
       "title": "ポートフォリオ用の綺麗なGitHubリポジトリの作り方 ―すぐに使えるテンプレート付き",
       "url": "https://qiita.com/miruky/items/726d9210cc8666866f86",
       "created_at": "2026-03-24T09:40:53+09:00",
-      "views": 21778,
+      "views": 21779,
       "likes": 67,
       "stocks": 69
     },
@@ -600,7 +600,7 @@
       "title": "OpenCode vs Claude Code、ファイ！！ OSSコーディングエージェントの実力を検証してみた",
       "url": "https://qiita.com/miruky/items/293ad0d3bc4d0cc41b08",
       "created_at": "2026-03-22T00:04:45+09:00",
-      "views": 13574,
+      "views": 13575,
       "likes": 12,
       "stocks": 17
     },
@@ -654,7 +654,7 @@
       "title": "【保存版】Claude Code Hooks全21イベントをまとめてみた ",
       "url": "https://qiita.com/miruky/items/e33ccda99281b40ad97b",
       "created_at": "2026-03-18T13:41:22+09:00",
-      "views": 7984,
+      "views": 7985,
       "likes": 20,
       "stocks": 23
     },
@@ -717,7 +717,7 @@
       "title": "【2026年最新版】Claude Codeで行うべきセキュリティ設定 10選",
       "url": "https://qiita.com/miruky/items/51db293a7a7d0d277a5d",
       "created_at": "2026-03-14T22:06:20+09:00",
-      "views": 180342,
+      "views": 180343,
       "likes": 555,
       "stocks": 565
     },
