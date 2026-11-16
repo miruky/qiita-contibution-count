@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-16T10:45:09.125Z",
+  "updated_at": "2026-11-16T11:01:04.871Z",
   "articles": [
     {
       "id": "0e16e9ddc811e13d6b04",
@@ -78,7 +78,7 @@
       "title": "【被害者は語る】タイムズカー660万件情報漏えいはなぜ起きたのかの矮小な考察",
       "url": "https://qiita.com/miruky/items/6577a57b9b62c8f97e11",
       "created_at": "2026-09-30T01:00:06+09:00",
-      "views": 73498,
+      "views": 73499,
       "likes": 69,
       "stocks": 47
     },
@@ -222,7 +222,7 @@
       "title": "【読書の夏？】各分野のおすすめ技術書を75冊まとめてみた",
       "url": "https://qiita.com/miruky/items/8b3e5908a24952c10783",
       "created_at": "2026-06-29T17:14:41+09:00",
-      "views": 57209,
+      "views": 57210,
       "likes": 129,
       "stocks": 140
     },
@@ -258,7 +258,7 @@
       "title": "週末なにしてますか？忙しいですか？非IT業界の友達に「燃える」が通じなかったので、IT業界の謎用語を教えてもらってもいいですか？",
       "url": "https://qiita.com/miruky/items/2d4fcb9ed4bee7ee25fe",
       "created_at": "2026-06-09T17:51:01+09:00",
-      "views": 125671,
+      "views": 125674,
       "likes": 201,
       "stocks": 150
     },
@@ -357,7 +357,7 @@
       "title": "【必須】GitHubとnpmで脆弱なパッケージを入れないための防御設定 8選",
       "url": "https://qiita.com/miruky/items/fcab851c5351f79b481d",
       "created_at": "2026-04-11T13:53:43+09:00",
-      "views": 104318,
+      "views": 104319,
       "likes": 158,
       "stocks": 194
     },
@@ -375,7 +375,7 @@
       "title": "AWS Strands Agentsの「中身」を理解する！Hooks・Plugin・Steeringで制御可能なエージェントを作ってみよう",
       "url": "https://qiita.com/miruky/items/ed50bfcf5630f2a5fb73",
       "created_at": "2026-04-10T22:41:32+09:00",
-      "views": 2445,
+      "views": 2446,
       "likes": 0,
       "stocks": 3
     },
@@ -384,7 +384,7 @@
       "title": "【S3 Files】S3バケットをそのままマウントできる新機能「S3 Files」の仕組みと使い方",
       "url": "https://qiita.com/miruky/items/950169db886545fe8bef",
       "created_at": "2026-04-09T23:19:51+09:00",
-      "views": 7113,
+      "views": 7114,
       "likes": 5,
       "stocks": 7
     },
@@ -393,7 +393,7 @@
       "title": "GitHub Copilotのドキュメントを全部読んだので、本当に使えるカスタマイズだけ10個まとめた",
       "url": "https://qiita.com/miruky/items/26dfbc0ee7492ed12ba6",
       "created_at": "2026-04-09T19:28:07+09:00",
-      "views": 13841,
+      "views": 13842,
       "likes": 32,
       "stocks": 38
     },
@@ -438,7 +438,7 @@
       "title": "Googleが提唱したDESIGN.mdとは？Claude CodeとDESIGN.mdでデモサイトをいくつか作ってみた",
       "url": "https://qiita.com/miruky/items/a6312c14e6352376ec00",
       "created_at": "2026-04-04T20:24:53+09:00",
-      "views": 29462,
+      "views": 29463,
       "likes": 58,
       "stocks": 55
     },
@@ -465,7 +465,7 @@
       "title": "【コマンド集】LPIC-2 試験対策まとめ！鬼門のレベル2を全トピック解説",
       "url": "https://qiita.com/miruky/items/57c159ba408fc586b193",
       "created_at": "2026-04-03T23:55:51+09:00",
-      "views": 4615,
+      "views": 4616,
       "likes": 2,
       "stocks": 8
     },
@@ -528,7 +528,7 @@
       "title": "DDoS攻撃でAWS請求が200万円に！S3・CloudFrontで絶対やるべきコスト爆発防止策 6選",
       "url": "https://qiita.com/miruky/items/b996e374c91923141178",
       "created_at": "2026-03-27T00:01:05+09:00",
-      "views": 51025,
+      "views": 51028,
       "likes": 145,
       "stocks": 140
     },
@@ -537,7 +537,7 @@
       "title": "Anthropicの研究によれば、「AIコーディングツールは開発者を退化させている」らしい？",
       "url": "https://qiita.com/miruky/items/c4a4928e4d3862e35c7c",
       "created_at": "2026-03-26T09:05:50+09:00",
-      "views": 15382,
+      "views": 15386,
       "likes": 34,
       "stocks": 23
     },
@@ -573,7 +573,7 @@
       "title": "AI時代にプログラミングを学ぶ意味と効果的な学習ステップ",
       "url": "https://qiita.com/miruky/items/3b0f8c6c0d509862b5d7",
       "created_at": "2026-03-25T00:06:34+09:00",
-      "views": 4524,
+      "views": 4525,
       "likes": 22,
       "stocks": 15
     },
@@ -582,7 +582,7 @@
       "title": "ポートフォリオ用の綺麗なGitHubリポジトリの作り方 ―すぐに使えるテンプレート付き",
       "url": "https://qiita.com/miruky/items/726d9210cc8666866f86",
       "created_at": "2026-03-24T09:40:53+09:00",
-      "views": 21768,
+      "views": 21769,
       "likes": 67,
       "stocks": 69
     },
@@ -906,7 +906,7 @@
       "title": "【2026年版】AWS CLIを使いこなす！インストールから実務で使うコマンドまで",
       "url": "https://qiita.com/miruky/items/98ff03f55c2cf90ec337",
       "created_at": "2026-02-23T12:59:43+09:00",
-      "views": 10495,
+      "views": 10496,
       "likes": 9,
       "stocks": 11
     },
