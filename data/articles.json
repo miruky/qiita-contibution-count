@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-16T18:24:03.657Z",
+  "updated_at": "2026-11-16T18:40:24.881Z",
   "articles": [
     {
       "id": "0e16e9ddc811e13d6b04",
@@ -195,7 +195,7 @@
       "title": "【徹底解説】文系でもわかる！機械学習に入門しよう",
       "url": "https://qiita.com/miruky/items/42b892805eb1d754109c",
       "created_at": "2026-07-18T17:14:07+09:00",
-      "views": 51384,
+      "views": 51385,
       "likes": 62,
       "stocks": 79
     },
@@ -393,7 +393,7 @@
       "title": "GitHub Copilotのドキュメントを全部読んだので、本当に使えるカスタマイズだけ10個まとめた",
       "url": "https://qiita.com/miruky/items/26dfbc0ee7492ed12ba6",
       "created_at": "2026-04-09T19:28:07+09:00",
-      "views": 13844,
+      "views": 13845,
       "likes": 32,
       "stocks": 38
     },
@@ -438,7 +438,7 @@
       "title": "Googleが提唱したDESIGN.mdとは？Claude CodeとDESIGN.mdでデモサイトをいくつか作ってみた",
       "url": "https://qiita.com/miruky/items/a6312c14e6352376ec00",
       "created_at": "2026-04-04T20:24:53+09:00",
-      "views": 29473,
+      "views": 29475,
       "likes": 58,
       "stocks": 55
     },
@@ -501,7 +501,7 @@
       "title": "【Amazon Lex #4】Amazon ConnectとLexを統合して音声ボットを構築してみる",
       "url": "https://qiita.com/miruky/items/1422e6dd8068a9ec6d82",
       "created_at": "2026-03-28T12:26:54+09:00",
-      "views": 1482,
+      "views": 1483,
       "likes": 0,
       "stocks": 4
     },
@@ -609,7 +609,7 @@
       "title": "ハーネスエンジニアリングとは何か ── コンテキストエンジニアリングの次のパラダイム",
       "url": "https://qiita.com/miruky/items/155f3b5a0dcde72fcd10",
       "created_at": "2026-03-21T18:19:07+09:00",
-      "views": 43656,
+      "views": 43657,
       "likes": 104,
       "stocks": 93
     },
@@ -717,7 +717,7 @@
       "title": "【2026年最新版】Claude Codeで行うべきセキュリティ設定 10選",
       "url": "https://qiita.com/miruky/items/51db293a7a7d0d277a5d",
       "created_at": "2026-03-14T22:06:20+09:00",
-      "views": 180334,
+      "views": 180335,
       "likes": 555,
       "stocks": 565
     },
