@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-11-16T18:40:24.881Z",
+  "updated_at": "2026-11-16T19:00:43.140Z",
   "articles": [
     {
       "id": "0e16e9ddc811e13d6b04",
       "title": "【これ1本でわかる】AIが動くハーネスの整え方と育て方を、実物のリポジトリでまとめてみた",
       "url": "https://qiita.com/miruky/items/0e16e9ddc811e13d6b04",
       "created_at": "2026-11-16T01:13:39+09:00",
-      "views": 400,
+      "views": 401,
       "likes": 1,
       "stocks": 0
     },
@@ -15,7 +15,7 @@
       "title": "【AWS Emulator】AWS公式のローカルエミュレーターで、本格的なサーバーレスはどこまで動く？motoやFlociなど5つのOSSとも比べてみた",
       "url": "https://qiita.com/miruky/items/2b78a6f7b1e3ec8fe80d",
       "created_at": "2026-11-12T22:34:31+09:00",
-      "views": 685,
+      "views": 686,
       "likes": 0,
       "stocks": 1
     },
@@ -573,7 +573,7 @@
       "title": "AI時代にプログラミングを学ぶ意味と効果的な学習ステップ",
       "url": "https://qiita.com/miruky/items/3b0f8c6c0d509862b5d7",
       "created_at": "2026-03-25T00:06:34+09:00",
-      "views": 4533,
+      "views": 4534,
       "likes": 22,
       "stocks": 15
     },
@@ -717,7 +717,7 @@
       "title": "【2026年最新版】Claude Codeで行うべきセキュリティ設定 10選",
       "url": "https://qiita.com/miruky/items/51db293a7a7d0d277a5d",
       "created_at": "2026-03-14T22:06:20+09:00",
-      "views": 180335,
+      "views": 180336,
       "likes": 555,
       "stocks": 565
     },
