@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-11-16T08:52:12.057Z",
+  "updated_at": "2026-11-16T09:01:08.244Z",
   "articles": [
     {
       "id": "0e16e9ddc811e13d6b04",
       "title": "【これ1本でわかる】AIが動くハーネスの整え方と育て方を、実物のリポジトリでまとめてみた",
       "url": "https://qiita.com/miruky/items/0e16e9ddc811e13d6b04",
       "created_at": "2026-11-16T01:13:39+09:00",
-      "views": 380,
+      "views": 381,
       "likes": 1,
       "stocks": 0
     },
@@ -42,7 +42,7 @@
       "title": "インフラエンジニアのためのGo言語入門",
       "url": "https://qiita.com/miruky/items/972687e62d93d865f981",
       "created_at": "2026-10-27T22:08:54+09:00",
-      "views": 376,
+      "views": 377,
       "likes": 1,
       "stocks": 0
     },
@@ -267,7 +267,7 @@
       "title": "ちょっと気になったので、決済サービス各社はカード情報をどう守っているのか調べてみた",
       "url": "https://qiita.com/miruky/items/b9d9dd83f33b4c837d63",
       "created_at": "2026-06-01T17:16:46+09:00",
-      "views": 45918,
+      "views": 45919,
       "likes": 59,
       "stocks": 68
     },
@@ -321,7 +321,7 @@
       "title": "【徹底解説】DBスペシャリストなりぞこないが教える、データベースの教科書（設計もあるよ）",
       "url": "https://qiita.com/miruky/items/f67bd754c1f7a5116a7c",
       "created_at": "2026-04-21T17:12:46+09:00",
-      "views": 122726,
+      "views": 122728,
       "likes": 260,
       "stocks": 281
     },
@@ -357,7 +357,7 @@
       "title": "【必須】GitHubとnpmで脆弱なパッケージを入れないための防御設定 8選",
       "url": "https://qiita.com/miruky/items/fcab851c5351f79b481d",
       "created_at": "2026-04-11T13:53:43+09:00",
-      "views": 104314,
+      "views": 104317,
       "likes": 158,
       "stocks": 194
     },
@@ -438,7 +438,7 @@
       "title": "Googleが提唱したDESIGN.mdとは？Claude CodeとDESIGN.mdでデモサイトをいくつか作ってみた",
       "url": "https://qiita.com/miruky/items/a6312c14e6352376ec00",
       "created_at": "2026-04-04T20:24:53+09:00",
-      "views": 29456,
+      "views": 29457,
       "likes": 58,
       "stocks": 55
     },
@@ -555,7 +555,7 @@
       "title": "「Deploy to AWS」の一言でAIがAWSインフラ構築からデプロイまで完了する時代が来た",
       "url": "https://qiita.com/miruky/items/74af8cae780f50f1a7f8",
       "created_at": "2026-03-25T18:50:55+09:00",
-      "views": 5100,
+      "views": 5101,
       "likes": 12,
       "stocks": 11
     },
@@ -663,7 +663,7 @@
       "title": "【2026年最新版】ローカルLLM（Ollama）で完全オフラインAI開発環境を作る",
       "url": "https://qiita.com/miruky/items/026aeee6b59f78df5e9d",
       "created_at": "2026-03-18T12:12:26+09:00",
-      "views": 75265,
+      "views": 75269,
       "likes": 90,
       "stocks": 94
     },
@@ -726,7 +726,7 @@
       "title": "米国で話題のRAGのセキュリティ脅威についてまとめてみた",
       "url": "https://qiita.com/miruky/items/3c98999786c7dbd2b26a",
       "created_at": "2026-03-13T18:21:20+09:00",
-      "views": 34669,
+      "views": 34670,
       "likes": 59,
       "stocks": 55
     },
@@ -735,7 +735,7 @@
       "title": "【2026年最新版】結局最強のAIコーディングツールは？色々と比較して考えてみる",
       "url": "https://qiita.com/miruky/items/b200c3e6112a833cffd4",
       "created_at": "2026-03-12T22:16:44+09:00",
-      "views": 32769,
+      "views": 32771,
       "likes": 12,
       "stocks": 14
     },
@@ -771,7 +771,7 @@
       "title": "【Amazon Lex #1】AWSの会話型AIサービス「Amazon Lex」とは？",
       "url": "https://qiita.com/miruky/items/0caa7543789126603792",
       "created_at": "2026-03-09T20:43:00+09:00",
-      "views": 2695,
+      "views": 2696,
       "likes": 0,
       "stocks": 3
     },
@@ -816,7 +816,7 @@
       "title": "【Amazon Bedrock #3】Knowledge Bases（RAG）で社内データを活用したAIチャットを構築してみる",
       "url": "https://qiita.com/miruky/items/bcb3b01b858959aba8e1",
       "created_at": "2026-03-04T22:44:48+09:00",
-      "views": 4147,
+      "views": 4152,
       "likes": 0,
       "stocks": 4
     },
@@ -879,7 +879,7 @@
       "title": "【Amazon Connect #1】AIコンタクトセンターを構築できるサービス、Amazon Connectとは？",
       "url": "https://qiita.com/miruky/items/73b021d6ad5c83124665",
       "created_at": "2026-02-24T21:50:13+09:00",
-      "views": 2522,
+      "views": 2523,
       "likes": 2,
       "stocks": 4
     },
@@ -906,7 +906,7 @@
       "title": "【2026年版】AWS CLIを使いこなす！インストールから実務で使うコマンドまで",
       "url": "https://qiita.com/miruky/items/98ff03f55c2cf90ec337",
       "created_at": "2026-02-23T12:59:43+09:00",
-      "views": 10489,
+      "views": 10490,
       "likes": 9,
       "stocks": 11
     },
