@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-17T09:23:07.524Z",
+  "updated_at": "2026-11-17T09:40:47.521Z",
   "articles": [
     {
       "id": "0e16e9ddc811e13d6b04",
@@ -78,7 +78,7 @@
       "title": "【被害者は語る】タイムズカー660万件情報漏えいはなぜ起きたのかの矮小な考察",
       "url": "https://qiita.com/miruky/items/6577a57b9b62c8f97e11",
       "created_at": "2026-09-30T01:00:06+09:00",
-      "views": 73621,
+      "views": 73622,
       "likes": 69,
       "stocks": 47
     },
@@ -87,7 +87,7 @@
       "title": "【まとめ】AI駆動系の◯◯エンジニアリングが多いので、ここらで一旦整理しましょう",
       "url": "https://qiita.com/miruky/items/4a8a7f456e68e9965a12",
       "created_at": "2026-09-22T20:42:26+09:00",
-      "views": 8669,
+      "views": 8670,
       "likes": 6,
       "stocks": 7
     },
@@ -330,7 +330,7 @@
       "title": "【こわい】Google APIキーの脆弱性により13時間で約900万円請求される事案が発生！ Firebase×Geminiで今すぐやるべきセキュリティ対策",
       "url": "https://qiita.com/miruky/items/fde2d0747358cd7870d7",
       "created_at": "2026-04-17T19:29:09+09:00",
-      "views": 137878,
+      "views": 137879,
       "likes": 287,
       "stocks": 217
     },
@@ -357,7 +357,7 @@
       "title": "【必須】GitHubとnpmで脆弱なパッケージを入れないための防御設定 8選",
       "url": "https://qiita.com/miruky/items/fcab851c5351f79b481d",
       "created_at": "2026-04-11T13:53:43+09:00",
-      "views": 104349,
+      "views": 104350,
       "likes": 158,
       "stocks": 194
     },
@@ -393,7 +393,7 @@
       "title": "GitHub Copilotのドキュメントを全部読んだので、本当に使えるカスタマイズだけ10個まとめた",
       "url": "https://qiita.com/miruky/items/26dfbc0ee7492ed12ba6",
       "created_at": "2026-04-09T19:28:07+09:00",
-      "views": 13885,
+      "views": 13886,
       "likes": 32,
       "stocks": 38
     },
@@ -618,7 +618,7 @@
       "title": "【2026年最新版】Claude Code Skills実践テクニック 10選",
       "url": "https://qiita.com/miruky/items/3ebe56edd76f7cddfd47",
       "created_at": "2026-03-21T00:18:37+09:00",
-      "views": 20924,
+      "views": 20925,
       "likes": 56,
       "stocks": 72
     },
@@ -735,7 +735,7 @@
       "title": "【2026年最新版】結局最強のAIコーディングツールは？色々と比較して考えてみる",
       "url": "https://qiita.com/miruky/items/b200c3e6112a833cffd4",
       "created_at": "2026-03-12T22:16:44+09:00",
-      "views": 32921,
+      "views": 32926,
       "likes": 12,
       "stocks": 14
     },
@@ -906,7 +906,7 @@
       "title": "【2026年版】AWS CLIを使いこなす！インストールから実務で使うコマンドまで",
       "url": "https://qiita.com/miruky/items/98ff03f55c2cf90ec337",
       "created_at": "2026-02-23T12:59:43+09:00",
-      "views": 10534,
+      "views": 10535,
       "likes": 9,
       "stocks": 11
     },
