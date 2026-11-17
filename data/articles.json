@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-17T22:21:04.954Z",
+  "updated_at": "2026-11-17T22:40:27.459Z",
   "articles": [
     {
       "id": "0e16e9ddc811e13d6b04",
@@ -15,7 +15,7 @@
       "title": "【AWS Emulator】AWS公式のローカルエミュレーターで、本格的なサーバーレスはどこまで動く？motoやFlociなど5つのOSSとも比べてみた",
       "url": "https://qiita.com/miruky/items/2b78a6f7b1e3ec8fe80d",
       "created_at": "2026-11-12T22:34:31+09:00",
-      "views": 819,
+      "views": 820,
       "likes": 0,
       "stocks": 1
     },
@@ -33,7 +33,7 @@
       "title": "【AWS】GitHub ActionsでCI/CDを実現する方法について",
       "url": "https://qiita.com/miruky/items/140bd48eda4b5f324353",
       "created_at": "2026-11-03T21:41:55+09:00",
-      "views": 285,
+      "views": 287,
       "likes": 0,
       "stocks": 0
     },
@@ -51,7 +51,7 @@
       "title": "AWS Lambda Durable Functionsで、15分の壁を超えてCloudWatch LogsのS3エクスポート完了を待ちぼうけ",
       "url": "https://qiita.com/miruky/items/633d3a1bbef54372c78a",
       "created_at": "2026-10-24T15:19:17+09:00",
-      "views": 315,
+      "views": 316,
       "likes": 0,
       "stocks": 0
     },
@@ -249,7 +249,7 @@
       "title": "【解説】実際の値をもとに、ベクトル化などのRAGの仕組みを根本から理解しましょう",
       "url": "https://qiita.com/miruky/items/c3d6277ff99afb214b19",
       "created_at": "2026-06-13T23:05:19+09:00",
-      "views": 86356,
+      "views": 86359,
       "likes": 87,
       "stocks": 120
     },
@@ -420,7 +420,7 @@
       "title": "AIが脆弱性を見つけ、AIが脆弱性を突く時代ですね",
       "url": "https://qiita.com/miruky/items/9e829b29c07f0f03dd4e",
       "created_at": "2026-04-07T00:06:43+09:00",
-      "views": 4603,
+      "views": 4604,
       "likes": 11,
       "stocks": 9
     },
@@ -555,7 +555,7 @@
       "title": "「Deploy to AWS」の一言でAIがAWSインフラ構築からデプロイまで完了する時代が来た",
       "url": "https://qiita.com/miruky/items/74af8cae780f50f1a7f8",
       "created_at": "2026-03-25T18:50:55+09:00",
-      "views": 5121,
+      "views": 5122,
       "likes": 12,
       "stocks": 11
     },
@@ -663,7 +663,7 @@
       "title": "【2026年最新版】ローカルLLM（Ollama）で完全オフラインAI開発環境を作る",
       "url": "https://qiita.com/miruky/items/026aeee6b59f78df5e9d",
       "created_at": "2026-03-18T12:12:26+09:00",
-      "views": 75544,
+      "views": 75549,
       "likes": 89,
       "stocks": 94
     },
@@ -735,7 +735,7 @@
       "title": "【2026年最新版】結局最強のAIコーディングツールは？色々と比較して考えてみる",
       "url": "https://qiita.com/miruky/items/b200c3e6112a833cffd4",
       "created_at": "2026-03-12T22:16:44+09:00",
-      "views": 32977,
+      "views": 32979,
       "likes": 12,
       "stocks": 14
     },
@@ -933,7 +933,7 @@
       "title": "【25卒AWS12冠】新卒1年目が6ヶ月でAWS12冠を達成した話",
       "url": "https://qiita.com/miruky/items/3e9c8ea48085c6e5f978",
       "created_at": "2026-02-22T11:47:45+09:00",
-      "views": 7706,
+      "views": 7707,
       "likes": 32,
       "stocks": 21
     }
