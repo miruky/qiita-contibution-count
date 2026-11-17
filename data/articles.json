@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-11-17T13:40:25.743Z",
+  "updated_at": "2026-11-17T14:00:49.445Z",
   "articles": [
     {
       "id": "0e16e9ddc811e13d6b04",
       "title": "【これ1本でわかる】AIが動くハーネスの整え方と育て方を、実物のリポジトリでまとめてみた",
       "url": "https://qiita.com/miruky/items/0e16e9ddc811e13d6b04",
       "created_at": "2026-11-16T01:13:39+09:00",
-      "views": 464,
+      "views": 465,
       "likes": 1,
       "stocks": 0
     },
@@ -78,7 +78,7 @@
       "title": "【被害者は語る】タイムズカー660万件情報漏えいはなぜ起きたのかの矮小な考察",
       "url": "https://qiita.com/miruky/items/6577a57b9b62c8f97e11",
       "created_at": "2026-09-30T01:00:06+09:00",
-      "views": 73643,
+      "views": 73644,
       "likes": 69,
       "stocks": 47
     },
@@ -222,7 +222,7 @@
       "title": "【読書の夏？】各分野のおすすめ技術書を75冊まとめてみた",
       "url": "https://qiita.com/miruky/items/8b3e5908a24952c10783",
       "created_at": "2026-06-29T17:14:41+09:00",
-      "views": 57226,
+      "views": 57227,
       "likes": 129,
       "stocks": 140
     },
@@ -267,7 +267,7 @@
       "title": "ちょっと気になったので、決済サービス各社はカード情報をどう守っているのか調べてみた",
       "url": "https://qiita.com/miruky/items/b9d9dd83f33b4c837d63",
       "created_at": "2026-06-01T17:16:46+09:00",
-      "views": 45945,
+      "views": 45946,
       "likes": 59,
       "stocks": 68
     },
@@ -303,7 +303,7 @@
       "title": "【徹底解説】セキュリティスペシャリストが教える、セキュアプログラミングの教科書",
       "url": "https://qiita.com/miruky/items/6fbb0c0e55835ea79e4d",
       "created_at": "2026-05-05T21:08:08+09:00",
-      "views": 143941,
+      "views": 143943,
       "likes": 349,
       "stocks": 446
     },
@@ -411,7 +411,7 @@
       "title": "Claude Mythos（ミトス）？謎のプロジェクト、Project Glasswingについても調べました",
       "url": "https://qiita.com/miruky/items/6b5def7306d78cca4991",
       "created_at": "2026-04-08T22:43:07+09:00",
-      "views": 12779,
+      "views": 12780,
       "likes": 14,
       "stocks": 9
     },
@@ -438,7 +438,7 @@
       "title": "Googleが提唱したDESIGN.mdとは？Claude CodeとDESIGN.mdでデモサイトをいくつか作ってみた",
       "url": "https://qiita.com/miruky/items/a6312c14e6352376ec00",
       "created_at": "2026-04-04T20:24:53+09:00",
-      "views": 29503,
+      "views": 29506,
       "likes": 58,
       "stocks": 55
     },
@@ -609,7 +609,7 @@
       "title": "ハーネスエンジニアリングとは何か ── コンテキストエンジニアリングの次のパラダイム",
       "url": "https://qiita.com/miruky/items/155f3b5a0dcde72fcd10",
       "created_at": "2026-03-21T18:19:07+09:00",
-      "views": 43701,
+      "views": 43702,
       "likes": 104,
       "stocks": 93
     },
@@ -645,7 +645,7 @@
       "title": "Claude Codeで自作プラグインを開発する方法をまとめた",
       "url": "https://qiita.com/miruky/items/753395f62397c5ca6cbd",
       "created_at": "2026-03-18T13:55:57+09:00",
-      "views": 3804,
+      "views": 3805,
       "likes": 10,
       "stocks": 11
     },
@@ -735,7 +735,7 @@
       "title": "【2026年最新版】結局最強のAIコーディングツールは？色々と比較して考えてみる",
       "url": "https://qiita.com/miruky/items/b200c3e6112a833cffd4",
       "created_at": "2026-03-12T22:16:44+09:00",
-      "views": 32949,
+      "views": 32951,
       "likes": 12,
       "stocks": 14
     },
@@ -906,7 +906,7 @@
       "title": "【2026年版】AWS CLIを使いこなす！インストールから実務で使うコマンドまで",
       "url": "https://qiita.com/miruky/items/98ff03f55c2cf90ec337",
       "created_at": "2026-02-23T12:59:43+09:00",
-      "views": 10535,
+      "views": 10536,
       "likes": 9,
       "stocks": 11
     },
