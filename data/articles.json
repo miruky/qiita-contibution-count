@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-17T19:00:52.892Z",
+  "updated_at": "2026-11-17T19:20:54.172Z",
   "articles": [
     {
       "id": "0e16e9ddc811e13d6b04",
@@ -114,7 +114,7 @@
       "title": "【AWS CloudFormation】Express modeとStandard modeをCloudFrontで比べてみる",
       "url": "https://qiita.com/miruky/items/6099f605af4ff4cedc30",
       "created_at": "2026-09-02T19:12:23+09:00",
-      "views": 344,
+      "views": 345,
       "likes": 0,
       "stocks": 0
     },
@@ -285,7 +285,7 @@
       "title": "【AWS】非機能要件「ログの保持とアーカイブ」でCloudWatch LogsのS3エクスポートを担当したら、最も簡単だと思っていた方法が意外と面倒だった話",
       "url": "https://qiita.com/miruky/items/a161a98bd6e68b9c3224",
       "created_at": "2026-05-22T22:13:59+09:00",
-      "views": 8359,
+      "views": 8360,
       "likes": 17,
       "stocks": 11
     },
@@ -357,7 +357,7 @@
       "title": "【必須】GitHubとnpmで脆弱なパッケージを入れないための防御設定 8選",
       "url": "https://qiita.com/miruky/items/fcab851c5351f79b481d",
       "created_at": "2026-04-11T13:53:43+09:00",
-      "views": 104353,
+      "views": 104354,
       "likes": 158,
       "stocks": 194
     },
@@ -366,7 +366,7 @@
       "title": "MCP vs Skills論争に決着をつける試み。AIエージェントの「拡張手段」を実装・設計・セキュリティで徹底比較する",
       "url": "https://qiita.com/miruky/items/32314a0d9eb8c154dc95",
       "created_at": "2026-04-11T00:49:30+09:00",
-      "views": 19587,
+      "views": 19588,
       "likes": 21,
       "stocks": 21
     },
@@ -438,7 +438,7 @@
       "title": "Googleが提唱したDESIGN.mdとは？Claude CodeとDESIGN.mdでデモサイトをいくつか作ってみた",
       "url": "https://qiita.com/miruky/items/a6312c14e6352376ec00",
       "created_at": "2026-04-04T20:24:53+09:00",
-      "views": 29508,
+      "views": 29509,
       "likes": 58,
       "stocks": 55
     },
@@ -528,7 +528,7 @@
       "title": "DDoS攻撃でAWS請求が200万円に！S3・CloudFrontで絶対やるべきコスト爆発防止策 6選",
       "url": "https://qiita.com/miruky/items/b996e374c91923141178",
       "created_at": "2026-03-27T00:01:05+09:00",
-      "views": 51077,
+      "views": 51078,
       "likes": 145,
       "stocks": 140
     },
@@ -555,7 +555,7 @@
       "title": "「Deploy to AWS」の一言でAIがAWSインフラ構築からデプロイまで完了する時代が来た",
       "url": "https://qiita.com/miruky/items/74af8cae780f50f1a7f8",
       "created_at": "2026-03-25T18:50:55+09:00",
-      "views": 5108,
+      "views": 5110,
       "likes": 12,
       "stocks": 11
     },
@@ -627,7 +627,7 @@
       "title": "【AWS】Strands Agents、GitHubスター数5300超のOSSをまとめてみた",
       "url": "https://qiita.com/miruky/items/304f6f49f46b30125889",
       "created_at": "2026-03-20T09:07:33+09:00",
-      "views": 4607,
+      "views": 4609,
       "likes": 10,
       "stocks": 14
     },
@@ -717,7 +717,7 @@
       "title": "【2026年最新版】Claude Codeで行うべきセキュリティ設定 10選",
       "url": "https://qiita.com/miruky/items/51db293a7a7d0d277a5d",
       "created_at": "2026-03-14T22:06:20+09:00",
-      "views": 180413,
+      "views": 180415,
       "likes": 555,
       "stocks": 565
     },
@@ -753,7 +753,7 @@
       "title": "【Amazon Lex #3】Lambda連携で動的な応答を返せるようにしてみよう",
       "url": "https://qiita.com/miruky/items/fcf460a267ed40c173a4",
       "created_at": "2026-03-11T21:52:31+09:00",
-      "views": 1229,
+      "views": 1230,
       "likes": 0,
       "stocks": 3
     },
