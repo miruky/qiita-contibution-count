@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-18T19:00:36.795Z",
+  "updated_at": "2026-11-18T19:20:49.899Z",
   "articles": [
     {
       "id": "0e16e9ddc811e13d6b04",
@@ -15,7 +15,7 @@
       "title": "【AWS Emulator】AWS公式のローカルエミュレーターで、本格的なサーバーレスはどこまで動く？motoやFlociなど5つのOSSとも比べてみた",
       "url": "https://qiita.com/miruky/items/2b78a6f7b1e3ec8fe80d",
       "created_at": "2026-11-12T22:34:31+09:00",
-      "views": 939,
+      "views": 943,
       "likes": 0,
       "stocks": 1
     },
@@ -249,7 +249,7 @@
       "title": "【解説】実際の値をもとに、ベクトル化などのRAGの仕組みを根本から理解しましょう",
       "url": "https://qiita.com/miruky/items/c3d6277ff99afb214b19",
       "created_at": "2026-06-13T23:05:19+09:00",
-      "views": 86399,
+      "views": 86400,
       "likes": 87,
       "stocks": 120
     },
@@ -303,7 +303,7 @@
       "title": "【徹底解説】セキュリティスペシャリストが教える、セキュアプログラミングの教科書",
       "url": "https://qiita.com/miruky/items/6fbb0c0e55835ea79e4d",
       "created_at": "2026-05-05T21:08:08+09:00",
-      "views": 144003,
+      "views": 144004,
       "likes": 349,
       "stocks": 446
     },
@@ -789,7 +789,7 @@
       "title": "【Amazon Bedrock #6】AgentCoreを使ってAIエージェントの本番運用基盤を構築してみる",
       "url": "https://qiita.com/miruky/items/b7e5ed3869c7ef79f82e",
       "created_at": "2026-03-08T22:38:28+09:00",
-      "views": 4203,
+      "views": 4204,
       "likes": 1,
       "stocks": 6
     },
