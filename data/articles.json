@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-11-18T17:00:49.200Z",
+  "updated_at": "2026-11-18T17:20:48.736Z",
   "articles": [
     {
       "id": "0e16e9ddc811e13d6b04",
       "title": "【これ1本でわかる】AIが動くハーネスの整え方と育て方を、実物のリポジトリでまとめてみた",
       "url": "https://qiita.com/miruky/items/0e16e9ddc811e13d6b04",
       "created_at": "2026-11-16T01:13:39+09:00",
-      "views": 507,
+      "views": 508,
       "likes": 1,
       "stocks": 0
     },
@@ -330,7 +330,7 @@
       "title": "【こわい】Google APIキーの脆弱性により13時間で約900万円請求される事案が発生！ Firebase×Geminiで今すぐやるべきセキュリティ対策",
       "url": "https://qiita.com/miruky/items/fde2d0747358cd7870d7",
       "created_at": "2026-04-17T19:29:09+09:00",
-      "views": 137920,
+      "views": 137921,
       "likes": 287,
       "stocks": 217
     },
@@ -528,7 +528,7 @@
       "title": "DDoS攻撃でAWS請求が200万円に！S3・CloudFrontで絶対やるべきコスト爆発防止策 6選",
       "url": "https://qiita.com/miruky/items/b996e374c91923141178",
       "created_at": "2026-03-27T00:01:05+09:00",
-      "views": 51113,
+      "views": 51114,
       "likes": 145,
       "stocks": 140
     },
@@ -582,7 +582,7 @@
       "title": "ポートフォリオ用の綺麗なGitHubリポジトリの作り方 ―すぐに使えるテンプレート付き",
       "url": "https://qiita.com/miruky/items/726d9210cc8666866f86",
       "created_at": "2026-03-24T09:40:53+09:00",
-      "views": 21833,
+      "views": 21835,
       "likes": 67,
       "stocks": 69
     },
@@ -591,7 +591,7 @@
       "title": "シンギュラリティとエンジニア 、我々はどう生きるべきかをネオサイバネティクスから考える",
       "url": "https://qiita.com/miruky/items/2023621da88f643d66e6",
       "created_at": "2026-03-23T00:03:11+09:00",
-      "views": 5903,
+      "views": 5904,
       "likes": 9,
       "stocks": 9
     },
@@ -600,7 +600,7 @@
       "title": "OpenCode vs Claude Code、ファイ！！ OSSコーディングエージェントの実力を検証してみた",
       "url": "https://qiita.com/miruky/items/293ad0d3bc4d0cc41b08",
       "created_at": "2026-03-22T00:04:45+09:00",
-      "views": 13621,
+      "views": 13627,
       "likes": 12,
       "stocks": 17
     },
@@ -681,7 +681,7 @@
       "title": "MCPサーバーを自作して、Claude CodeにDBを直接触らせてみよっと",
       "url": "https://qiita.com/miruky/items/ea9c7e6d882502cbbf7c",
       "created_at": "2026-03-17T18:50:45+09:00",
-      "views": 2418,
+      "views": 2419,
       "likes": 9,
       "stocks": 9
     },
@@ -735,7 +735,7 @@
       "title": "【2026年最新版】結局最強のAIコーディングツールは？色々と比較して考えてみる",
       "url": "https://qiita.com/miruky/items/b200c3e6112a833cffd4",
       "created_at": "2026-03-12T22:16:44+09:00",
-      "views": 33133,
+      "views": 33135,
       "likes": 12,
       "stocks": 14
     },
