@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-18T10:40:22.967Z",
+  "updated_at": "2026-11-18T11:00:54.614Z",
   "articles": [
     {
       "id": "0e16e9ddc811e13d6b04",
@@ -15,7 +15,7 @@
       "title": "【AWS Emulator】AWS公式のローカルエミュレーターで、本格的なサーバーレスはどこまで動く？motoやFlociなど5つのOSSとも比べてみた",
       "url": "https://qiita.com/miruky/items/2b78a6f7b1e3ec8fe80d",
       "created_at": "2026-11-12T22:34:31+09:00",
-      "views": 917,
+      "views": 920,
       "likes": 0,
       "stocks": 1
     },
@@ -78,7 +78,7 @@
       "title": "【被害者は語る】タイムズカー660万件情報漏えいはなぜ起きたのかの矮小な考察",
       "url": "https://qiita.com/miruky/items/6577a57b9b62c8f97e11",
       "created_at": "2026-09-30T01:00:06+09:00",
-      "views": 73742,
+      "views": 73743,
       "likes": 69,
       "stocks": 47
     },
@@ -204,7 +204,7 @@
       "title": "【Ansible】有名だが意外と詳しく知らないIaCツール、Ansibleとは？ハンズオンもしてみよう",
       "url": "https://qiita.com/miruky/items/13e3ae235d9a97b99710",
       "created_at": "2026-07-10T20:28:23+09:00",
-      "views": 1471,
+      "views": 1472,
       "likes": 2,
       "stocks": 2
     },
@@ -213,7 +213,7 @@
       "title": "【AWS CloudFormation】IaCの基礎から本番運用まで、AWS CloudFormationを0から学びましょう",
       "url": "https://qiita.com/miruky/items/2f97d20d801a45d0bc90",
       "created_at": "2026-07-06T10:04:36+09:00",
-      "views": 2285,
+      "views": 2286,
       "likes": 0,
       "stocks": 1
     },
@@ -321,7 +321,7 @@
       "title": "【徹底解説】DBスペシャリストなりぞこないが教える、データベースの教科書（設計もあるよ）",
       "url": "https://qiita.com/miruky/items/f67bd754c1f7a5116a7c",
       "created_at": "2026-04-21T17:12:46+09:00",
-      "views": 122806,
+      "views": 122807,
       "likes": 260,
       "stocks": 281
     },
@@ -393,7 +393,7 @@
       "title": "GitHub Copilotのドキュメントを全部読んだので、本当に使えるカスタマイズだけ10個まとめた",
       "url": "https://qiita.com/miruky/items/26dfbc0ee7492ed12ba6",
       "created_at": "2026-04-09T19:28:07+09:00",
-      "views": 13917,
+      "views": 13918,
       "likes": 32,
       "stocks": 38
     },
@@ -438,7 +438,7 @@
       "title": "Googleが提唱したDESIGN.mdとは？Claude CodeとDESIGN.mdでデモサイトをいくつか作ってみた",
       "url": "https://qiita.com/miruky/items/a6312c14e6352376ec00",
       "created_at": "2026-04-04T20:24:53+09:00",
-      "views": 29546,
+      "views": 29547,
       "likes": 58,
       "stocks": 55
     },
@@ -564,7 +564,7 @@
       "title": "【AWS全冠】今こそ振り返ろう！AWS主要100サービスの概要まとめ",
       "url": "https://qiita.com/miruky/items/a68b605e44c25d8287a6",
       "created_at": "2026-03-25T00:06:46+09:00",
-      "views": 7555,
+      "views": 7557,
       "likes": 10,
       "stocks": 13
     },
@@ -618,7 +618,7 @@
       "title": "【2026年最新版】Claude Code Skills実践テクニック 10選",
       "url": "https://qiita.com/miruky/items/3ebe56edd76f7cddfd47",
       "created_at": "2026-03-21T00:18:37+09:00",
-      "views": 20971,
+      "views": 20972,
       "likes": 56,
       "stocks": 72
     },
@@ -654,7 +654,7 @@
       "title": "【保存版】Claude Code Hooks全21イベントをまとめてみた ",
       "url": "https://qiita.com/miruky/items/e33ccda99281b40ad97b",
       "created_at": "2026-03-18T13:41:22+09:00",
-      "views": 8025,
+      "views": 8027,
       "likes": 20,
       "stocks": 23
     },
@@ -663,7 +663,7 @@
       "title": "【2026年最新版】ローカルLLM（Ollama）で完全オフラインAI開発環境を作る",
       "url": "https://qiita.com/miruky/items/026aeee6b59f78df5e9d",
       "created_at": "2026-03-18T12:12:26+09:00",
-      "views": 75723,
+      "views": 75726,
       "likes": 89,
       "stocks": 94
     },
@@ -708,7 +708,7 @@
       "title": "【2026年最新版】Gemini CLIで行うべきセキュリティ設定 10選",
       "url": "https://qiita.com/miruky/items/3f091416cfbfbbff99eb",
       "created_at": "2026-03-14T22:34:59+09:00",
-      "views": 11812,
+      "views": 11813,
       "likes": 19,
       "stocks": 22
     },
@@ -717,7 +717,7 @@
       "title": "【2026年最新版】Claude Codeで行うべきセキュリティ設定 10選",
       "url": "https://qiita.com/miruky/items/51db293a7a7d0d277a5d",
       "created_at": "2026-03-14T22:06:20+09:00",
-      "views": 180485,
+      "views": 180489,
       "likes": 555,
       "stocks": 566
     },
@@ -735,7 +735,7 @@
       "title": "【2026年最新版】結局最強のAIコーディングツールは？色々と比較して考えてみる",
       "url": "https://qiita.com/miruky/items/b200c3e6112a833cffd4",
       "created_at": "2026-03-12T22:16:44+09:00",
-      "views": 33104,
+      "views": 33107,
       "likes": 12,
       "stocks": 14
     },
