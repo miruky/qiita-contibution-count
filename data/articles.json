@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-18T18:40:39.013Z",
+  "updated_at": "2026-11-18T19:00:36.795Z",
   "articles": [
     {
       "id": "0e16e9ddc811e13d6b04",
@@ -321,7 +321,7 @@
       "title": "【徹底解説】DBスペシャリストなりぞこないが教える、データベースの教科書（設計もあるよ）",
       "url": "https://qiita.com/miruky/items/f67bd754c1f7a5116a7c",
       "created_at": "2026-04-21T17:12:46+09:00",
-      "views": 122818,
+      "views": 122819,
       "likes": 260,
       "stocks": 281
     },
@@ -735,7 +735,7 @@
       "title": "【2026年最新版】結局最強のAIコーディングツールは？色々と比較して考えてみる",
       "url": "https://qiita.com/miruky/items/b200c3e6112a833cffd4",
       "created_at": "2026-03-12T22:16:44+09:00",
-      "views": 33141,
+      "views": 33142,
       "likes": 12,
       "stocks": 14
     },
@@ -816,7 +816,7 @@
       "title": "【Amazon Bedrock #3】Knowledge Bases（RAG）で社内データを活用したAIチャットを構築してみる",
       "url": "https://qiita.com/miruky/items/bcb3b01b858959aba8e1",
       "created_at": "2026-03-04T22:44:48+09:00",
-      "views": 4177,
+      "views": 4178,
       "likes": 0,
       "stocks": 4
     },
