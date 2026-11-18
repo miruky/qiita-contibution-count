@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-18T21:21:02.874Z",
+  "updated_at": "2026-11-18T21:40:30.094Z",
   "articles": [
     {
       "id": "0e16e9ddc811e13d6b04",
@@ -240,7 +240,7 @@
       "title": "ReactとかNext.jsとか、あたかも言語みたいな顔でこちらを見てくるJavaScript周辺技術をまとめてみた",
       "url": "https://qiita.com/miruky/items/b892d9ff73495ca4b68d",
       "created_at": "2026-06-16T23:46:52+09:00",
-      "views": 134977,
+      "views": 134978,
       "likes": 498,
       "stocks": 401
     },
@@ -330,7 +330,7 @@
       "title": "【こわい】Google APIキーの脆弱性により13時間で約900万円請求される事案が発生！ Firebase×Geminiで今すぐやるべきセキュリティ対策",
       "url": "https://qiita.com/miruky/items/fde2d0747358cd7870d7",
       "created_at": "2026-04-17T19:29:09+09:00",
-      "views": 137922,
+      "views": 137923,
       "likes": 287,
       "stocks": 217
     },
@@ -474,7 +474,7 @@
       "title": "【コマンド集】LPIC-1 試験対策まとめ！全トピック解説",
       "url": "https://qiita.com/miruky/items/e9212c7f16dbd4f374ff",
       "created_at": "2026-04-03T23:54:47+09:00",
-      "views": 6630,
+      "views": 6631,
       "likes": 2,
       "stocks": 12
     },
@@ -519,7 +519,7 @@
       "title": "ほぼ2年目エンジニア、AWSとAIに「全振り」した365日からAI時代の新米エンジニアの歩き方を考える",
       "url": "https://qiita.com/miruky/items/14008906c3772c3305a5",
       "created_at": "2026-03-27T18:57:10+09:00",
-      "views": 6443,
+      "views": 6444,
       "likes": 23,
       "stocks": 16
     },
@@ -654,7 +654,7 @@
       "title": "【保存版】Claude Code Hooks全21イベントをまとめてみた ",
       "url": "https://qiita.com/miruky/items/e33ccda99281b40ad97b",
       "created_at": "2026-03-18T13:41:22+09:00",
-      "views": 8028,
+      "views": 8029,
       "likes": 20,
       "stocks": 23
     },
@@ -717,7 +717,7 @@
       "title": "【2026年最新版】Claude Codeで行うべきセキュリティ設定 10選",
       "url": "https://qiita.com/miruky/items/51db293a7a7d0d277a5d",
       "created_at": "2026-03-14T22:06:20+09:00",
-      "views": 180502,
+      "views": 180503,
       "likes": 555,
       "stocks": 566
     },
