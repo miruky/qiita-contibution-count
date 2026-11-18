@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-18T17:20:48.736Z",
+  "updated_at": "2026-11-18T17:40:38.753Z",
   "articles": [
     {
       "id": "0e16e9ddc811e13d6b04",
@@ -15,7 +15,7 @@
       "title": "【AWS Emulator】AWS公式のローカルエミュレーターで、本格的なサーバーレスはどこまで動く？motoやFlociなど5つのOSSとも比べてみた",
       "url": "https://qiita.com/miruky/items/2b78a6f7b1e3ec8fe80d",
       "created_at": "2026-11-12T22:34:31+09:00",
-      "views": 937,
+      "views": 938,
       "likes": 0,
       "stocks": 1
     },
@@ -177,7 +177,7 @@
       "title": "【Amazon S3】タグともメタデータとも違うS3 Annotationsを試してみる",
       "url": "https://qiita.com/miruky/items/3827190f928ed08c4b46",
       "created_at": "2026-08-01T17:40:00+09:00",
-      "views": 744,
+      "views": 745,
       "likes": 0,
       "stocks": 1
     },
@@ -222,7 +222,7 @@
       "title": "【読書の夏？】各分野のおすすめ技術書を75冊まとめてみた",
       "url": "https://qiita.com/miruky/items/8b3e5908a24952c10783",
       "created_at": "2026-06-29T17:14:41+09:00",
-      "views": 57257,
+      "views": 57259,
       "likes": 129,
       "stocks": 140
     },
@@ -312,7 +312,7 @@
       "title": "GWも勉強したい方向けに、よくオススメされる技術書をカテゴリ別にまとめてみた",
       "url": "https://qiita.com/miruky/items/c2df4f23d73a8e05f37f",
       "created_at": "2026-04-27T18:00:30+09:00",
-      "views": 97743,
+      "views": 97744,
       "likes": 215,
       "stocks": 234
     },
@@ -393,7 +393,7 @@
       "title": "GitHub Copilotのドキュメントを全部読んだので、本当に使えるカスタマイズだけ10個まとめた",
       "url": "https://qiita.com/miruky/items/26dfbc0ee7492ed12ba6",
       "created_at": "2026-04-09T19:28:07+09:00",
-      "views": 13925,
+      "views": 13926,
       "likes": 32,
       "stocks": 38
     },
@@ -438,7 +438,7 @@
       "title": "Googleが提唱したDESIGN.mdとは？Claude CodeとDESIGN.mdでデモサイトをいくつか作ってみた",
       "url": "https://qiita.com/miruky/items/a6312c14e6352376ec00",
       "created_at": "2026-04-04T20:24:53+09:00",
-      "views": 29551,
+      "views": 29553,
       "likes": 58,
       "stocks": 55
     },
@@ -465,7 +465,7 @@
       "title": "【コマンド集】LPIC-2 試験対策まとめ！鬼門のレベル2を全トピック解説",
       "url": "https://qiita.com/miruky/items/57c159ba408fc586b193",
       "created_at": "2026-04-03T23:55:51+09:00",
-      "views": 4635,
+      "views": 4636,
       "likes": 2,
       "stocks": 8
     },
@@ -555,7 +555,7 @@
       "title": "「Deploy to AWS」の一言でAIがAWSインフラ構築からデプロイまで完了する時代が来た",
       "url": "https://qiita.com/miruky/items/74af8cae780f50f1a7f8",
       "created_at": "2026-03-25T18:50:55+09:00",
-      "views": 5128,
+      "views": 5129,
       "likes": 12,
       "stocks": 11
     },
@@ -600,7 +600,7 @@
       "title": "OpenCode vs Claude Code、ファイ！！ OSSコーディングエージェントの実力を検証してみた",
       "url": "https://qiita.com/miruky/items/293ad0d3bc4d0cc41b08",
       "created_at": "2026-03-22T00:04:45+09:00",
-      "views": 13627,
+      "views": 13628,
       "likes": 12,
       "stocks": 17
     },
@@ -663,7 +663,7 @@
       "title": "【2026年最新版】ローカルLLM（Ollama）で完全オフラインAI開発環境を作る",
       "url": "https://qiita.com/miruky/items/026aeee6b59f78df5e9d",
       "created_at": "2026-03-18T12:12:26+09:00",
-      "views": 75761,
+      "views": 75762,
       "likes": 90,
       "stocks": 94
     },
@@ -735,7 +735,7 @@
       "title": "【2026年最新版】結局最強のAIコーディングツールは？色々と比較して考えてみる",
       "url": "https://qiita.com/miruky/items/b200c3e6112a833cffd4",
       "created_at": "2026-03-12T22:16:44+09:00",
-      "views": 33135,
+      "views": 33136,
       "likes": 12,
       "stocks": 14
     },
