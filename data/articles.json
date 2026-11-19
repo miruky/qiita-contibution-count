@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-19T19:21:35.768Z",
+  "updated_at": "2026-11-19T19:40:36.712Z",
   "articles": [
     {
       "id": "0e16e9ddc811e13d6b04",
@@ -78,7 +78,7 @@
       "title": "【被害者は語る】タイムズカー660万件情報漏えいはなぜ起きたのかの矮小な考察",
       "url": "https://qiita.com/miruky/items/6577a57b9b62c8f97e11",
       "created_at": "2026-09-30T01:00:06+09:00",
-      "views": 73894,
+      "views": 73896,
       "likes": 69,
       "stocks": 48
     },
@@ -150,7 +150,7 @@
       "title": "【Amazon DynamoDB】マネジメントコンソールだけでベクトル検索を試す",
       "url": "https://qiita.com/miruky/items/1f999dad887cf0368e65",
       "created_at": "2026-08-13T23:17:34+09:00",
-      "views": 407,
+      "views": 408,
       "likes": 0,
       "stocks": 1
     },
@@ -249,7 +249,7 @@
       "title": "【解説】実際の値をもとに、ベクトル化などのRAGの仕組みを根本から理解しましょう",
       "url": "https://qiita.com/miruky/items/c3d6277ff99afb214b19",
       "created_at": "2026-06-13T23:05:19+09:00",
-      "views": 86441,
+      "views": 86442,
       "likes": 87,
       "stocks": 120
     },
@@ -393,7 +393,7 @@
       "title": "GitHub Copilotのドキュメントを全部読んだので、本当に使えるカスタマイズだけ10個まとめた",
       "url": "https://qiita.com/miruky/items/26dfbc0ee7492ed12ba6",
       "created_at": "2026-04-09T19:28:07+09:00",
-      "views": 13983,
+      "views": 13984,
       "likes": 32,
       "stocks": 38
     },
@@ -438,7 +438,7 @@
       "title": "Googleが提唱したDESIGN.mdとは？Claude CodeとDESIGN.mdでデモサイトをいくつか作ってみた",
       "url": "https://qiita.com/miruky/items/a6312c14e6352376ec00",
       "created_at": "2026-04-04T20:24:53+09:00",
-      "views": 29581,
+      "views": 29582,
       "likes": 58,
       "stocks": 55
     },
@@ -546,7 +546,7 @@
       "title": "Claude Codeの5つの習熟レベル。CLAUDE.mdで止まっている人が知らないSkills・Hooks・Orchestrationの世界について",
       "url": "https://qiita.com/miruky/items/43a6828c806a9ebcfdd1",
       "created_at": "2026-03-26T00:01:52+09:00",
-      "views": 44782,
+      "views": 44783,
       "likes": 169,
       "stocks": 187
     },
@@ -843,7 +843,7 @@
       "title": "【Amazon Connect #5】2025年のAWS re:Inventで発表されたAWS最新のAIエージェント機能、「オーケストレーションタイプ」を使ってみる",
       "url": "https://qiita.com/miruky/items/1b1666032b961c34068c",
       "created_at": "2026-02-28T15:15:49+09:00",
-      "views": 2759,
+      "views": 2760,
       "likes": 2,
       "stocks": 5
     },
