@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-19T14:40:25.369Z",
+  "updated_at": "2026-11-19T15:00:51.909Z",
   "articles": [
     {
       "id": "0e16e9ddc811e13d6b04",
@@ -15,7 +15,7 @@
       "title": "【AWS Emulator】AWS公式のローカルエミュレーターで、本格的なサーバーレスはどこまで動く？motoやFlociなど5つのOSSとも比べてみた",
       "url": "https://qiita.com/miruky/items/2b78a6f7b1e3ec8fe80d",
       "created_at": "2026-11-12T22:34:31+09:00",
-      "views": 1032,
+      "views": 1034,
       "likes": 0,
       "stocks": 1
     },
@@ -78,7 +78,7 @@
       "title": "【被害者は語る】タイムズカー660万件情報漏えいはなぜ起きたのかの矮小な考察",
       "url": "https://qiita.com/miruky/items/6577a57b9b62c8f97e11",
       "created_at": "2026-09-30T01:00:06+09:00",
-      "views": 73885,
+      "views": 73886,
       "likes": 69,
       "stocks": 48
     },
@@ -222,7 +222,7 @@
       "title": "【読書の夏？】各分野のおすすめ技術書を75冊まとめてみた",
       "url": "https://qiita.com/miruky/items/8b3e5908a24952c10783",
       "created_at": "2026-06-29T17:14:41+09:00",
-      "views": 57268,
+      "views": 57269,
       "likes": 129,
       "stocks": 140
     },
@@ -240,7 +240,7 @@
       "title": "ReactとかNext.jsとか、あたかも言語みたいな顔でこちらを見てくるJavaScript周辺技術をまとめてみた",
       "url": "https://qiita.com/miruky/items/b892d9ff73495ca4b68d",
       "created_at": "2026-06-16T23:46:52+09:00",
-      "views": 135015,
+      "views": 135016,
       "likes": 498,
       "stocks": 401
     },
@@ -312,7 +312,7 @@
       "title": "GWも勉強したい方向けに、よくオススメされる技術書をカテゴリ別にまとめてみた",
       "url": "https://qiita.com/miruky/items/c2df4f23d73a8e05f37f",
       "created_at": "2026-04-27T18:00:30+09:00",
-      "views": 97756,
+      "views": 97759,
       "likes": 215,
       "stocks": 234
     },
@@ -321,7 +321,7 @@
       "title": "【徹底解説】DBスペシャリストなりぞこないが教える、データベースの教科書（設計もあるよ）",
       "url": "https://qiita.com/miruky/items/f67bd754c1f7a5116a7c",
       "created_at": "2026-04-21T17:12:46+09:00",
-      "views": 122847,
+      "views": 122848,
       "likes": 260,
       "stocks": 281
     },
@@ -366,7 +366,7 @@
       "title": "MCP vs Skills論争に決着をつける試み。AIエージェントの「拡張手段」を実装・設計・セキュリティで徹底比較する",
       "url": "https://qiita.com/miruky/items/32314a0d9eb8c154dc95",
       "created_at": "2026-04-11T00:49:30+09:00",
-      "views": 19619,
+      "views": 19620,
       "likes": 21,
       "stocks": 21
     },
@@ -429,7 +429,7 @@
       "title": "【今さら聞けない】OpenClawについて詳しくまとめてみた",
       "url": "https://qiita.com/miruky/items/65eeae6512345ac74346",
       "created_at": "2026-04-05T14:09:19+09:00",
-      "views": 7482,
+      "views": 7483,
       "likes": 8,
       "stocks": 11
     },
@@ -546,7 +546,7 @@
       "title": "Claude Codeの5つの習熟レベル。CLAUDE.mdで止まっている人が知らないSkills・Hooks・Orchestrationの世界について",
       "url": "https://qiita.com/miruky/items/43a6828c806a9ebcfdd1",
       "created_at": "2026-03-26T00:01:52+09:00",
-      "views": 44780,
+      "views": 44781,
       "likes": 169,
       "stocks": 187
     },
@@ -672,7 +672,7 @@
       "title": "【AWS×Qiita】サーバーレスで自分だけのQiita記事ダッシュボードを作ってみる",
       "url": "https://qiita.com/miruky/items/9e227ca1ba5008fb0520",
       "created_at": "2026-03-17T22:18:28+09:00",
-      "views": 1097,
+      "views": 1098,
       "likes": 7,
       "stocks": 7
     },
@@ -717,7 +717,7 @@
       "title": "【2026年最新版】Claude Codeで行うべきセキュリティ設定 10選",
       "url": "https://qiita.com/miruky/items/51db293a7a7d0d277a5d",
       "created_at": "2026-03-14T22:06:20+09:00",
-      "views": 180568,
+      "views": 180569,
       "likes": 555,
       "stocks": 566
     },
@@ -726,7 +726,7 @@
       "title": "米国で話題のRAGのセキュリティ脅威についてまとめてみた",
       "url": "https://qiita.com/miruky/items/3c98999786c7dbd2b26a",
       "created_at": "2026-03-13T18:21:20+09:00",
-      "views": 34712,
+      "views": 34713,
       "likes": 59,
       "stocks": 55
     },
@@ -735,7 +735,7 @@
       "title": "【2026年最新版】結局最強のAIコーディングツールは？色々と比較して考えてみる",
       "url": "https://qiita.com/miruky/items/b200c3e6112a833cffd4",
       "created_at": "2026-03-12T22:16:44+09:00",
-      "views": 33269,
+      "views": 33270,
       "likes": 12,
       "stocks": 14
     },
@@ -744,7 +744,7 @@
       "title": "コーディングが楽になったからこそ気をつけるべきセキュリティ",
       "url": "https://qiita.com/miruky/items/dfb3509ade7d4ad67b90",
       "created_at": "2026-03-11T23:53:12+09:00",
-      "views": 15107,
+      "views": 15108,
       "likes": 40,
       "stocks": 45
     },
@@ -933,7 +933,7 @@
       "title": "【25卒AWS12冠】新卒1年目が6ヶ月でAWS12冠を達成した話",
       "url": "https://qiita.com/miruky/items/3e9c8ea48085c6e5f978",
       "created_at": "2026-02-22T11:47:45+09:00",
-      "views": 7708,
+      "views": 7709,
       "likes": 32,
       "stocks": 21
     }
