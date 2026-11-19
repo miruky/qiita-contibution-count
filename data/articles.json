@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-19T13:40:32.933Z",
+  "updated_at": "2026-11-19T14:00:50.518Z",
   "articles": [
     {
       "id": "0e16e9ddc811e13d6b04",
@@ -15,7 +15,7 @@
       "title": "【AWS Emulator】AWS公式のローカルエミュレーターで、本格的なサーバーレスはどこまで動く？motoやFlociなど5つのOSSとも比べてみた",
       "url": "https://qiita.com/miruky/items/2b78a6f7b1e3ec8fe80d",
       "created_at": "2026-11-12T22:34:31+09:00",
-      "views": 1030,
+      "views": 1031,
       "likes": 0,
       "stocks": 1
     },
@@ -78,7 +78,7 @@
       "title": "【被害者は語る】タイムズカー660万件情報漏えいはなぜ起きたのかの矮小な考察",
       "url": "https://qiita.com/miruky/items/6577a57b9b62c8f97e11",
       "created_at": "2026-09-30T01:00:06+09:00",
-      "views": 73881,
+      "views": 73883,
       "likes": 69,
       "stocks": 48
     },
@@ -240,7 +240,7 @@
       "title": "ReactとかNext.jsとか、あたかも言語みたいな顔でこちらを見てくるJavaScript周辺技術をまとめてみた",
       "url": "https://qiita.com/miruky/items/b892d9ff73495ca4b68d",
       "created_at": "2026-06-16T23:46:52+09:00",
-      "views": 135012,
+      "views": 135014,
       "likes": 498,
       "stocks": 401
     },
@@ -267,7 +267,7 @@
       "title": "ちょっと気になったので、決済サービス各社はカード情報をどう守っているのか調べてみた",
       "url": "https://qiita.com/miruky/items/b9d9dd83f33b4c837d63",
       "created_at": "2026-06-01T17:16:46+09:00",
-      "views": 46019,
+      "views": 46020,
       "likes": 59,
       "stocks": 68
     },
@@ -294,7 +294,7 @@
       "title": "【エンジニアの教養】なぜかエンジニア界隈で有名な◯◯の法則的なやつをまとめてみた",
       "url": "https://qiita.com/miruky/items/cef8169b4a10cdd790b5",
       "created_at": "2026-05-11T17:19:23+09:00",
-      "views": 119308,
+      "views": 119309,
       "likes": 531,
       "stocks": 463
     },
@@ -303,7 +303,7 @@
       "title": "【徹底解説】セキュリティスペシャリストが教える、セキュアプログラミングの教科書",
       "url": "https://qiita.com/miruky/items/6fbb0c0e55835ea79e4d",
       "created_at": "2026-05-05T21:08:08+09:00",
-      "views": 144045,
+      "views": 144046,
       "likes": 349,
       "stocks": 446
     },
@@ -312,7 +312,7 @@
       "title": "GWも勉強したい方向けに、よくオススメされる技術書をカテゴリ別にまとめてみた",
       "url": "https://qiita.com/miruky/items/c2df4f23d73a8e05f37f",
       "created_at": "2026-04-27T18:00:30+09:00",
-      "views": 97755,
+      "views": 97756,
       "likes": 215,
       "stocks": 234
     },
@@ -321,7 +321,7 @@
       "title": "【徹底解説】DBスペシャリストなりぞこないが教える、データベースの教科書（設計もあるよ）",
       "url": "https://qiita.com/miruky/items/f67bd754c1f7a5116a7c",
       "created_at": "2026-04-21T17:12:46+09:00",
-      "views": 122843,
+      "views": 122847,
       "likes": 260,
       "stocks": 281
     },
@@ -357,7 +357,7 @@
       "title": "【必須】GitHubとnpmで脆弱なパッケージを入れないための防御設定 8選",
       "url": "https://qiita.com/miruky/items/fcab851c5351f79b481d",
       "created_at": "2026-04-11T13:53:43+09:00",
-      "views": 104419,
+      "views": 104421,
       "likes": 158,
       "stocks": 194
     },
@@ -366,7 +366,7 @@
       "title": "MCP vs Skills論争に決着をつける試み。AIエージェントの「拡張手段」を実装・設計・セキュリティで徹底比較する",
       "url": "https://qiita.com/miruky/items/32314a0d9eb8c154dc95",
       "created_at": "2026-04-11T00:49:30+09:00",
-      "views": 19618,
+      "views": 19619,
       "likes": 21,
       "stocks": 21
     },
@@ -393,7 +393,7 @@
       "title": "GitHub Copilotのドキュメントを全部読んだので、本当に使えるカスタマイズだけ10個まとめた",
       "url": "https://qiita.com/miruky/items/26dfbc0ee7492ed12ba6",
       "created_at": "2026-04-09T19:28:07+09:00",
-      "views": 13977,
+      "views": 13979,
       "likes": 32,
       "stocks": 38
     },
@@ -438,7 +438,7 @@
       "title": "Googleが提唱したDESIGN.mdとは？Claude CodeとDESIGN.mdでデモサイトをいくつか作ってみた",
       "url": "https://qiita.com/miruky/items/a6312c14e6352376ec00",
       "created_at": "2026-04-04T20:24:53+09:00",
-      "views": 29577,
+      "views": 29578,
       "likes": 58,
       "stocks": 55
     },
@@ -537,7 +537,7 @@
       "title": "Anthropicの研究によれば、「AIコーディングツールは開発者を退化させている」らしい？",
       "url": "https://qiita.com/miruky/items/c4a4928e4d3862e35c7c",
       "created_at": "2026-03-26T09:05:50+09:00",
-      "views": 15399,
+      "views": 15400,
       "likes": 34,
       "stocks": 23
     },
@@ -609,7 +609,7 @@
       "title": "ハーネスエンジニアリングとは何か ── コンテキストエンジニアリングの次のパラダイム",
       "url": "https://qiita.com/miruky/items/155f3b5a0dcde72fcd10",
       "created_at": "2026-03-21T18:19:07+09:00",
-      "views": 43775,
+      "views": 43777,
       "likes": 104,
       "stocks": 93
     },
@@ -663,7 +663,7 @@
       "title": "【2026年最新版】ローカルLLM（Ollama）で完全オフラインAI開発環境を作る",
       "url": "https://qiita.com/miruky/items/026aeee6b59f78df5e9d",
       "created_at": "2026-03-18T12:12:26+09:00",
-      "views": 75972,
+      "views": 75974,
       "likes": 90,
       "stocks": 94
     },
@@ -708,7 +708,7 @@
       "title": "【2026年最新版】Gemini CLIで行うべきセキュリティ設定 10選",
       "url": "https://qiita.com/miruky/items/3f091416cfbfbbff99eb",
       "created_at": "2026-03-14T22:34:59+09:00",
-      "views": 11818,
+      "views": 11819,
       "likes": 19,
       "stocks": 22
     },
@@ -717,7 +717,7 @@
       "title": "【2026年最新版】Claude Codeで行うべきセキュリティ設定 10選",
       "url": "https://qiita.com/miruky/items/51db293a7a7d0d277a5d",
       "created_at": "2026-03-14T22:06:20+09:00",
-      "views": 180565,
+      "views": 180567,
       "likes": 555,
       "stocks": 566
     },
@@ -726,7 +726,7 @@
       "title": "米国で話題のRAGのセキュリティ脅威についてまとめてみた",
       "url": "https://qiita.com/miruky/items/3c98999786c7dbd2b26a",
       "created_at": "2026-03-13T18:21:20+09:00",
-      "views": 34710,
+      "views": 34711,
       "likes": 59,
       "stocks": 55
     },
