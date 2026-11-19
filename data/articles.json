@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-19T19:00:38.274Z",
+  "updated_at": "2026-11-19T19:21:35.768Z",
   "articles": [
     {
       "id": "0e16e9ddc811e13d6b04",
@@ -177,7 +177,7 @@
       "title": "【Amazon S3】タグともメタデータとも違うS3 Annotationsを試してみる",
       "url": "https://qiita.com/miruky/items/3827190f928ed08c4b46",
       "created_at": "2026-08-01T17:40:00+09:00",
-      "views": 758,
+      "views": 759,
       "likes": 0,
       "stocks": 1
     },
@@ -618,7 +618,7 @@
       "title": "【2026年最新版】Claude Code Skills実践テクニック 10選",
       "url": "https://qiita.com/miruky/items/3ebe56edd76f7cddfd47",
       "created_at": "2026-03-21T00:18:37+09:00",
-      "views": 21015,
+      "views": 21016,
       "likes": 56,
       "stocks": 72
     },
@@ -636,7 +636,7 @@
       "title": "AWSのAIエージェント、Kiro CLIで開発を加速させよう",
       "url": "https://qiita.com/miruky/items/145fa2461daf6ded64e1",
       "created_at": "2026-03-20T00:01:54+09:00",
-      "views": 6030,
+      "views": 6031,
       "likes": 10,
       "stocks": 10
     },
@@ -690,7 +690,7 @@
       "title": "Claude Code 知らないと損するコマンド・時短術 20選",
       "url": "https://qiita.com/miruky/items/48ede59ebe33b4b774ac",
       "created_at": "2026-03-16T13:00:11+09:00",
-      "views": 62445,
+      "views": 62447,
       "likes": 235,
       "stocks": 236
     },
@@ -735,7 +735,7 @@
       "title": "【2026年最新版】結局最強のAIコーディングツールは？色々と比較して考えてみる",
       "url": "https://qiita.com/miruky/items/b200c3e6112a833cffd4",
       "created_at": "2026-03-12T22:16:44+09:00",
-      "views": 33275,
+      "views": 33276,
       "likes": 12,
       "stocks": 14
     },
