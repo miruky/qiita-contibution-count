@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-20T21:20:43.998Z",
+  "updated_at": "2026-11-20T21:40:36.103Z",
   "articles": [
     {
       "id": "0e16e9ddc811e13d6b04",
@@ -15,7 +15,7 @@
       "title": "【AWS Emulator】AWS公式のローカルエミュレーターで、本格的なサーバーレスはどこまで動く？motoやFlociなど5つのOSSとも比べてみた",
       "url": "https://qiita.com/miruky/items/2b78a6f7b1e3ec8fe80d",
       "created_at": "2026-11-12T22:34:31+09:00",
-      "views": 1104,
+      "views": 1105,
       "likes": 0,
       "stocks": 1
     },
@@ -87,7 +87,7 @@
       "title": "【まとめ】AI駆動系の◯◯エンジニアリングが多いので、ここらで一旦整理しましょう",
       "url": "https://qiita.com/miruky/items/4a8a7f456e68e9965a12",
       "created_at": "2026-09-22T20:42:26+09:00",
-      "views": 8710,
+      "views": 8713,
       "likes": 6,
       "stocks": 7
     },
@@ -663,7 +663,7 @@
       "title": "【2026年最新版】ローカルLLM（Ollama）で完全オフラインAI開発環境を作る",
       "url": "https://qiita.com/miruky/items/026aeee6b59f78df5e9d",
       "created_at": "2026-03-18T12:12:26+09:00",
-      "views": 76220,
+      "views": 76222,
       "likes": 90,
       "stocks": 94
     },
@@ -735,7 +735,7 @@
       "title": "【2026年最新版】結局最強のAIコーディングツールは？色々と比較して考えてみる",
       "url": "https://qiita.com/miruky/items/b200c3e6112a833cffd4",
       "created_at": "2026-03-12T22:16:44+09:00",
-      "views": 33422,
+      "views": 33424,
       "likes": 12,
       "stocks": 14
     },
@@ -762,7 +762,7 @@
       "title": "【Amazon Lex #2】Lexボットでインテント・スロット・発話を設計してみよう",
       "url": "https://qiita.com/miruky/items/8ba48610f8c26b53ad14",
       "created_at": "2026-03-10T22:20:01+09:00",
-      "views": 1293,
+      "views": 1294,
       "likes": 0,
       "stocks": 4
     },
