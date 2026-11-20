@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-20T12:27:12.716Z",
+  "updated_at": "2026-11-20T12:40:57.144Z",
   "articles": [
     {
       "id": "0e16e9ddc811e13d6b04",
@@ -258,7 +258,7 @@
       "title": "週末なにしてますか？忙しいですか？非IT業界の友達に「燃える」が通じなかったので、IT業界の謎用語を教えてもらってもいいですか？",
       "url": "https://qiita.com/miruky/items/2d4fcb9ed4bee7ee25fe",
       "created_at": "2026-06-09T17:51:01+09:00",
-      "views": 125763,
+      "views": 125764,
       "likes": 201,
       "stocks": 150
     },
@@ -492,7 +492,7 @@
       "title": "【Amazon Lex #5】Lexの音声認識精度を高めるテクニックを試してみる",
       "url": "https://qiita.com/miruky/items/908a21cad0fbcc2362f4",
       "created_at": "2026-03-30T21:07:56+09:00",
-      "views": 1458,
+      "views": 1463,
       "likes": 1,
       "stocks": 3
     },
@@ -546,7 +546,7 @@
       "title": "Claude Codeの5つの習熟レベル。CLAUDE.mdで止まっている人が知らないSkills・Hooks・Orchestrationの世界について",
       "url": "https://qiita.com/miruky/items/43a6828c806a9ebcfdd1",
       "created_at": "2026-03-26T00:01:52+09:00",
-      "views": 44827,
+      "views": 44828,
       "likes": 169,
       "stocks": 188
     },
@@ -591,7 +591,7 @@
       "title": "シンギュラリティとエンジニア 、我々はどう生きるべきかをネオサイバネティクスから考える",
       "url": "https://qiita.com/miruky/items/2023621da88f643d66e6",
       "created_at": "2026-03-23T00:03:11+09:00",
-      "views": 5907,
+      "views": 5912,
       "likes": 9,
       "stocks": 9
     },
@@ -717,7 +717,7 @@
       "title": "【2026年最新版】Claude Codeで行うべきセキュリティ設定 10選",
       "url": "https://qiita.com/miruky/items/51db293a7a7d0d277a5d",
       "created_at": "2026-03-14T22:06:20+09:00",
-      "views": 180642,
+      "views": 180643,
       "likes": 555,
       "stocks": 566
     },
@@ -735,7 +735,7 @@
       "title": "【2026年最新版】結局最強のAIコーディングツールは？色々と比較して考えてみる",
       "url": "https://qiita.com/miruky/items/b200c3e6112a833cffd4",
       "created_at": "2026-03-12T22:16:44+09:00",
-      "views": 33391,
+      "views": 33392,
       "likes": 12,
       "stocks": 14
     },
