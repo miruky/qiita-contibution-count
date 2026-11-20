@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-20T16:20:58.695Z",
+  "updated_at": "2026-11-20T16:40:30.231Z",
   "articles": [
     {
       "id": "0e16e9ddc811e13d6b04",
@@ -258,7 +258,7 @@
       "title": "週末なにしてますか？忙しいですか？非IT業界の友達に「燃える」が通じなかったので、IT業界の謎用語を教えてもらってもいいですか？",
       "url": "https://qiita.com/miruky/items/2d4fcb9ed4bee7ee25fe",
       "created_at": "2026-06-09T17:51:01+09:00",
-      "views": 125770,
+      "views": 125771,
       "likes": 201,
       "stocks": 150
     },
@@ -294,7 +294,7 @@
       "title": "【エンジニアの教養】なぜかエンジニア界隈で有名な◯◯の法則的なやつをまとめてみた",
       "url": "https://qiita.com/miruky/items/cef8169b4a10cdd790b5",
       "created_at": "2026-05-11T17:19:23+09:00",
-      "views": 119351,
+      "views": 119352,
       "likes": 531,
       "stocks": 463
     },
@@ -357,7 +357,7 @@
       "title": "【必須】GitHubとnpmで脆弱なパッケージを入れないための防御設定 8選",
       "url": "https://qiita.com/miruky/items/fcab851c5351f79b481d",
       "created_at": "2026-04-11T13:53:43+09:00",
-      "views": 104450,
+      "views": 104451,
       "likes": 158,
       "stocks": 194
     },
@@ -411,7 +411,7 @@
       "title": "Claude Mythos（ミトス）？謎のプロジェクト、Project Glasswingについても調べました",
       "url": "https://qiita.com/miruky/items/6b5def7306d78cca4991",
       "created_at": "2026-04-08T22:43:07+09:00",
-      "views": 12796,
+      "views": 12797,
       "likes": 14,
       "stocks": 9
     },
@@ -546,7 +546,7 @@
       "title": "Claude Codeの5つの習熟レベル。CLAUDE.mdで止まっている人が知らないSkills・Hooks・Orchestrationの世界について",
       "url": "https://qiita.com/miruky/items/43a6828c806a9ebcfdd1",
       "created_at": "2026-03-26T00:01:52+09:00",
-      "views": 44836,
+      "views": 44837,
       "likes": 169,
       "stocks": 188
     },
@@ -735,7 +735,7 @@
       "title": "【2026年最新版】結局最強のAIコーディングツールは？色々と比較して考えてみる",
       "url": "https://qiita.com/miruky/items/b200c3e6112a833cffd4",
       "created_at": "2026-03-12T22:16:44+09:00",
-      "views": 33411,
+      "views": 33412,
       "likes": 12,
       "stocks": 14
     },
@@ -861,7 +861,7 @@
       "title": "【Amazon Connect #3】自然言語×Bedrockナレッジベース（RAG）を用いた本格的なAIコンタクトセンターを構築してみる",
       "url": "https://qiita.com/miruky/items/63bf639c3f1e1356bccb",
       "created_at": "2026-02-26T18:38:56+09:00",
-      "views": 2323,
+      "views": 2324,
       "likes": 0,
       "stocks": 3
     },
