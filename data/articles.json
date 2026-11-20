@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-20T17:21:20.275Z",
+  "updated_at": "2026-11-20T17:40:36.111Z",
   "articles": [
     {
       "id": "0e16e9ddc811e13d6b04",
@@ -303,7 +303,7 @@
       "title": "【徹底解説】セキュリティスペシャリストが教える、セキュアプログラミングの教科書",
       "url": "https://qiita.com/miruky/items/6fbb0c0e55835ea79e4d",
       "created_at": "2026-05-05T21:08:08+09:00",
-      "views": 144094,
+      "views": 144095,
       "likes": 349,
       "stocks": 446
     },
@@ -357,7 +357,7 @@
       "title": "【必須】GitHubとnpmで脆弱なパッケージを入れないための防御設定 8選",
       "url": "https://qiita.com/miruky/items/fcab851c5351f79b481d",
       "created_at": "2026-04-11T13:53:43+09:00",
-      "views": 104451,
+      "views": 104452,
       "likes": 158,
       "stocks": 194
     },
@@ -366,7 +366,7 @@
       "title": "MCP vs Skills論争に決着をつける試み。AIエージェントの「拡張手段」を実装・設計・セキュリティで徹底比較する",
       "url": "https://qiita.com/miruky/items/32314a0d9eb8c154dc95",
       "created_at": "2026-04-11T00:49:30+09:00",
-      "views": 19638,
+      "views": 19639,
       "likes": 21,
       "stocks": 21
     },
@@ -384,7 +384,7 @@
       "title": "【S3 Files】S3バケットをそのままマウントできる新機能「S3 Files」の仕組みと使い方",
       "url": "https://qiita.com/miruky/items/950169db886545fe8bef",
       "created_at": "2026-04-09T23:19:51+09:00",
-      "views": 7188,
+      "views": 7189,
       "likes": 5,
       "stocks": 7
     },
@@ -528,7 +528,7 @@
       "title": "DDoS攻撃でAWS請求が200万円に！S3・CloudFrontで絶対やるべきコスト爆発防止策 6選",
       "url": "https://qiita.com/miruky/items/b996e374c91923141178",
       "created_at": "2026-03-27T00:01:05+09:00",
-      "views": 51167,
+      "views": 51168,
       "likes": 145,
       "stocks": 140
     },
@@ -555,7 +555,7 @@
       "title": "「Deploy to AWS」の一言でAIがAWSインフラ構築からデプロイまで完了する時代が来た",
       "url": "https://qiita.com/miruky/items/74af8cae780f50f1a7f8",
       "created_at": "2026-03-25T18:50:55+09:00",
-      "views": 5152,
+      "views": 5154,
       "likes": 12,
       "stocks": 11
     },
@@ -645,7 +645,7 @@
       "title": "Claude Codeで自作プラグインを開発する方法をまとめた",
       "url": "https://qiita.com/miruky/items/753395f62397c5ca6cbd",
       "created_at": "2026-03-18T13:55:57+09:00",
-      "views": 3811,
+      "views": 3812,
       "likes": 10,
       "stocks": 11
     },
@@ -735,7 +735,7 @@
       "title": "【2026年最新版】結局最強のAIコーディングツールは？色々と比較して考えてみる",
       "url": "https://qiita.com/miruky/items/b200c3e6112a833cffd4",
       "created_at": "2026-03-12T22:16:44+09:00",
-      "views": 33415,
+      "views": 33416,
       "likes": 12,
       "stocks": 14
     },
@@ -879,7 +879,7 @@
       "title": "【Amazon Connect #1】AIコンタクトセンターを構築できるサービス、Amazon Connectとは？",
       "url": "https://qiita.com/miruky/items/73b021d6ad5c83124665",
       "created_at": "2026-02-24T21:50:13+09:00",
-      "views": 2555,
+      "views": 2557,
       "likes": 2,
       "stocks": 4
     },
