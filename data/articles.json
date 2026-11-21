@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-21T20:21:00.832Z",
+  "updated_at": "2026-11-21T20:40:26.613Z",
   "articles": [
     {
       "id": "0e16e9ddc811e13d6b04",
@@ -60,7 +60,7 @@
       "title": "【徹底解説】API設計入門！仕組みやOpenAPI、リクエストとレスポンスまで確かめつつ学びましょう",
       "url": "https://qiita.com/miruky/items/6811f43accb10f41c97c",
       "created_at": "2026-10-12T17:35:37+09:00",
-      "views": 441,
+      "views": 442,
       "likes": 0,
       "stocks": 2
     },
@@ -114,7 +114,7 @@
       "title": "【AWS CloudFormation】Express modeとStandard modeをCloudFrontで比べてみる",
       "url": "https://qiita.com/miruky/items/6099f605af4ff4cedc30",
       "created_at": "2026-09-02T19:12:23+09:00",
-      "views": 357,
+      "views": 358,
       "likes": 0,
       "stocks": 0
     },
@@ -222,7 +222,7 @@
       "title": "【読書の夏？】各分野のおすすめ技術書を75冊まとめてみた",
       "url": "https://qiita.com/miruky/items/8b3e5908a24952c10783",
       "created_at": "2026-06-29T17:14:41+09:00",
-      "views": 57310,
+      "views": 57312,
       "likes": 129,
       "stocks": 140
     },
@@ -312,7 +312,7 @@
       "title": "GWも勉強したい方向けに、よくオススメされる技術書をカテゴリ別にまとめてみた",
       "url": "https://qiita.com/miruky/items/c2df4f23d73a8e05f37f",
       "created_at": "2026-04-27T18:00:30+09:00",
-      "views": 97813,
+      "views": 97818,
       "likes": 215,
       "stocks": 234
     },
@@ -546,7 +546,7 @@
       "title": "Claude Codeの5つの習熟レベル。CLAUDE.mdで止まっている人が知らないSkills・Hooks・Orchestrationの世界について",
       "url": "https://qiita.com/miruky/items/43a6828c806a9ebcfdd1",
       "created_at": "2026-03-26T00:01:52+09:00",
-      "views": 44869,
+      "views": 44870,
       "likes": 169,
       "stocks": 188
     },
@@ -717,7 +717,7 @@
       "title": "【2026年最新版】Claude Codeで行うべきセキュリティ設定 10選",
       "url": "https://qiita.com/miruky/items/51db293a7a7d0d277a5d",
       "created_at": "2026-03-14T22:06:20+09:00",
-      "views": 180711,
+      "views": 180712,
       "likes": 555,
       "stocks": 566
     },
@@ -735,7 +735,7 @@
       "title": "【2026年最新版】結局最強のAIコーディングツールは？色々と比較して考えてみる",
       "url": "https://qiita.com/miruky/items/b200c3e6112a833cffd4",
       "created_at": "2026-03-12T22:16:44+09:00",
-      "views": 33521,
+      "views": 33522,
       "likes": 12,
       "stocks": 14
     },
@@ -924,7 +924,7 @@
       "title": "【AWS End User Messaging SMS #1】SMS送信の新たな選択肢、AWS End User Messaging SMSとは？",
       "url": "https://qiita.com/miruky/items/9c38108e61062301630c",
       "created_at": "2026-02-22T18:10:25+09:00",
-      "views": 4335,
+      "views": 4336,
       "likes": 2,
       "stocks": 4
     },
