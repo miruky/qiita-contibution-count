@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-21T01:20:39.029Z",
+  "updated_at": "2026-11-21T01:41:15.665Z",
   "articles": [
     {
       "id": "0e16e9ddc811e13d6b04",
@@ -78,7 +78,7 @@
       "title": "【被害者は語る】タイムズカー660万件情報漏えいはなぜ起きたのかの矮小な考察",
       "url": "https://qiita.com/miruky/items/6577a57b9b62c8f97e11",
       "created_at": "2026-09-30T01:00:06+09:00",
-      "views": 74030,
+      "views": 74032,
       "likes": 69,
       "stocks": 48
     },
@@ -249,7 +249,7 @@
       "title": "【解説】実際の値をもとに、ベクトル化などのRAGの仕組みを根本から理解しましょう",
       "url": "https://qiita.com/miruky/items/c3d6277ff99afb214b19",
       "created_at": "2026-06-13T23:05:19+09:00",
-      "views": 86468,
+      "views": 86469,
       "likes": 87,
       "stocks": 120
     },
@@ -465,7 +465,7 @@
       "title": "【コマンド集】LPIC-2 試験対策まとめ！鬼門のレベル2を全トピック解説",
       "url": "https://qiita.com/miruky/items/57c159ba408fc586b193",
       "created_at": "2026-04-03T23:55:51+09:00",
-      "views": 4664,
+      "views": 4665,
       "likes": 2,
       "stocks": 8
     },
@@ -474,7 +474,7 @@
       "title": "【コマンド集】LPIC-1 試験対策まとめ！全トピック解説",
       "url": "https://qiita.com/miruky/items/e9212c7f16dbd4f374ff",
       "created_at": "2026-04-03T23:54:47+09:00",
-      "views": 6709,
+      "views": 6711,
       "likes": 2,
       "stocks": 12
     },
@@ -501,7 +501,7 @@
       "title": "【Amazon Lex #4】Amazon ConnectとLexを統合して音声ボットを構築してみる",
       "url": "https://qiita.com/miruky/items/1422e6dd8068a9ec6d82",
       "created_at": "2026-03-28T12:26:54+09:00",
-      "views": 1493,
+      "views": 1494,
       "likes": 0,
       "stocks": 4
     },
@@ -654,7 +654,7 @@
       "title": "【保存版】Claude Code Hooks全21イベントをまとめてみた ",
       "url": "https://qiita.com/miruky/items/e33ccda99281b40ad97b",
       "created_at": "2026-03-18T13:41:22+09:00",
-      "views": 8074,
+      "views": 8075,
       "likes": 20,
       "stocks": 23
     },
@@ -663,7 +663,7 @@
       "title": "【2026年最新版】ローカルLLM（Ollama）で完全オフラインAI開発環境を作る",
       "url": "https://qiita.com/miruky/items/026aeee6b59f78df5e9d",
       "created_at": "2026-03-18T12:12:26+09:00",
-      "views": 76238,
+      "views": 76240,
       "likes": 90,
       "stocks": 94
     },
@@ -681,7 +681,7 @@
       "title": "MCPサーバーを自作して、Claude CodeにDBを直接触らせてみよっと",
       "url": "https://qiita.com/miruky/items/ea9c7e6d882502cbbf7c",
       "created_at": "2026-03-17T18:50:45+09:00",
-      "views": 2439,
+      "views": 2440,
       "likes": 9,
       "stocks": 9
     },
