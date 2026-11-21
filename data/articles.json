@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-21T01:01:06.039Z",
+  "updated_at": "2026-11-21T01:20:39.029Z",
   "articles": [
     {
       "id": "0e16e9ddc811e13d6b04",
@@ -15,7 +15,7 @@
       "title": "【AWS Emulator】AWS公式のローカルエミュレーターで、本格的なサーバーレスはどこまで動く？motoやFlociなど5つのOSSとも比べてみた",
       "url": "https://qiita.com/miruky/items/2b78a6f7b1e3ec8fe80d",
       "created_at": "2026-11-12T22:34:31+09:00",
-      "views": 1109,
+      "views": 1110,
       "likes": 0,
       "stocks": 1
     },
@@ -78,7 +78,7 @@
       "title": "【被害者は語る】タイムズカー660万件情報漏えいはなぜ起きたのかの矮小な考察",
       "url": "https://qiita.com/miruky/items/6577a57b9b62c8f97e11",
       "created_at": "2026-09-30T01:00:06+09:00",
-      "views": 74029,
+      "views": 74030,
       "likes": 69,
       "stocks": 48
     },
@@ -195,7 +195,7 @@
       "title": "【徹底解説】文系でもわかる！機械学習に入門しよう",
       "url": "https://qiita.com/miruky/items/42b892805eb1d754109c",
       "created_at": "2026-07-18T17:14:07+09:00",
-      "views": 51483,
+      "views": 51484,
       "likes": 62,
       "stocks": 79
     },
@@ -240,7 +240,7 @@
       "title": "ReactとかNext.jsとか、あたかも言語みたいな顔でこちらを見てくるJavaScript周辺技術をまとめてみた",
       "url": "https://qiita.com/miruky/items/b892d9ff73495ca4b68d",
       "created_at": "2026-06-16T23:46:52+09:00",
-      "views": 135072,
+      "views": 135073,
       "likes": 499,
       "stocks": 402
     },
@@ -258,7 +258,7 @@
       "title": "週末なにしてますか？忙しいですか？非IT業界の友達に「燃える」が通じなかったので、IT業界の謎用語を教えてもらってもいいですか？",
       "url": "https://qiita.com/miruky/items/2d4fcb9ed4bee7ee25fe",
       "created_at": "2026-06-09T17:51:01+09:00",
-      "views": 125776,
+      "views": 125777,
       "likes": 201,
       "stocks": 150
     },
@@ -294,7 +294,7 @@
       "title": "【エンジニアの教養】なぜかエンジニア界隈で有名な◯◯の法則的なやつをまとめてみた",
       "url": "https://qiita.com/miruky/items/cef8169b4a10cdd790b5",
       "created_at": "2026-05-11T17:19:23+09:00",
-      "views": 119359,
+      "views": 119360,
       "likes": 531,
       "stocks": 463
     },
@@ -312,7 +312,7 @@
       "title": "GWも勉強したい方向けに、よくオススメされる技術書をカテゴリ別にまとめてみた",
       "url": "https://qiita.com/miruky/items/c2df4f23d73a8e05f37f",
       "created_at": "2026-04-27T18:00:30+09:00",
-      "views": 97790,
+      "views": 97791,
       "likes": 215,
       "stocks": 234
     },
@@ -357,7 +357,7 @@
       "title": "【必須】GitHubとnpmで脆弱なパッケージを入れないための防御設定 8選",
       "url": "https://qiita.com/miruky/items/fcab851c5351f79b481d",
       "created_at": "2026-04-11T13:53:43+09:00",
-      "views": 104452,
+      "views": 104453,
       "likes": 158,
       "stocks": 194
     },
@@ -654,7 +654,7 @@
       "title": "【保存版】Claude Code Hooks全21イベントをまとめてみた ",
       "url": "https://qiita.com/miruky/items/e33ccda99281b40ad97b",
       "created_at": "2026-03-18T13:41:22+09:00",
-      "views": 8068,
+      "views": 8074,
       "likes": 20,
       "stocks": 23
     },
@@ -663,7 +663,7 @@
       "title": "【2026年最新版】ローカルLLM（Ollama）で完全オフラインAI開発環境を作る",
       "url": "https://qiita.com/miruky/items/026aeee6b59f78df5e9d",
       "created_at": "2026-03-18T12:12:26+09:00",
-      "views": 76237,
+      "views": 76238,
       "likes": 90,
       "stocks": 94
     },
