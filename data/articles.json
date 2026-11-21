@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-21T21:21:05.621Z",
+  "updated_at": "2026-11-21T21:40:30.581Z",
   "articles": [
     {
       "id": "0e16e9ddc811e13d6b04",
@@ -51,7 +51,7 @@
       "title": "AWS Lambda Durable Functionsで、15分の壁を超えてCloudWatch LogsのS3エクスポート完了を待ちぼうけ",
       "url": "https://qiita.com/miruky/items/633d3a1bbef54372c78a",
       "created_at": "2026-10-24T15:19:17+09:00",
-      "views": 331,
+      "views": 332,
       "likes": 0,
       "stocks": 0
     },
@@ -123,7 +123,7 @@
       "title": "【Amazon CloudWatch】かんたんアラーム！メトリクスフィルターなしでログアラームを作ってみようのコーナー",
       "url": "https://qiita.com/miruky/items/79308b2813aaac07265c",
       "created_at": "2026-08-25T00:16:14+09:00",
-      "views": 426,
+      "views": 427,
       "likes": 0,
       "stocks": 0
     },
@@ -393,7 +393,7 @@
       "title": "GitHub Copilotのドキュメントを全部読んだので、本当に使えるカスタマイズだけ10個まとめた",
       "url": "https://qiita.com/miruky/items/26dfbc0ee7492ed12ba6",
       "created_at": "2026-04-09T19:28:07+09:00",
-      "views": 14027,
+      "views": 14028,
       "likes": 32,
       "stocks": 38
     },
@@ -582,7 +582,7 @@
       "title": "ポートフォリオ用の綺麗なGitHubリポジトリの作り方 ―すぐに使えるテンプレート付き",
       "url": "https://qiita.com/miruky/items/726d9210cc8666866f86",
       "created_at": "2026-03-24T09:40:53+09:00",
-      "views": 21902,
+      "views": 21903,
       "likes": 67,
       "stocks": 69
     },
