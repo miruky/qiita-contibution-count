@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-21T17:20:55.378Z",
+  "updated_at": "2026-11-21T17:40:32.605Z",
   "articles": [
     {
       "id": "0e16e9ddc811e13d6b04",
@@ -15,7 +15,7 @@
       "title": "【AWS Emulator】AWS公式のローカルエミュレーターで、本格的なサーバーレスはどこまで動く？motoやFlociなど5つのOSSとも比べてみた",
       "url": "https://qiita.com/miruky/items/2b78a6f7b1e3ec8fe80d",
       "created_at": "2026-11-12T22:34:31+09:00",
-      "views": 1131,
+      "views": 1132,
       "likes": 0,
       "stocks": 1
     },
@@ -267,7 +267,7 @@
       "title": "ちょっと気になったので、決済サービス各社はカード情報をどう守っているのか調べてみた",
       "url": "https://qiita.com/miruky/items/b9d9dd83f33b4c837d63",
       "created_at": "2026-06-01T17:16:46+09:00",
-      "views": 46092,
+      "views": 46093,
       "likes": 59,
       "stocks": 68
     },
@@ -438,7 +438,7 @@
       "title": "Googleが提唱したDESIGN.mdとは？Claude CodeとDESIGN.mdでデモサイトをいくつか作ってみた",
       "url": "https://qiita.com/miruky/items/a6312c14e6352376ec00",
       "created_at": "2026-04-04T20:24:53+09:00",
-      "views": 29627,
+      "views": 29628,
       "likes": 58,
       "stocks": 55
     },
@@ -537,7 +537,7 @@
       "title": "Anthropicの研究によれば、「AIコーディングツールは開発者を退化させている」らしい？",
       "url": "https://qiita.com/miruky/items/c4a4928e4d3862e35c7c",
       "created_at": "2026-03-26T09:05:50+09:00",
-      "views": 15414,
+      "views": 15415,
       "likes": 34,
       "stocks": 23
     },
@@ -555,7 +555,7 @@
       "title": "「Deploy to AWS」の一言でAIがAWSインフラ構築からデプロイまで完了する時代が来た",
       "url": "https://qiita.com/miruky/items/74af8cae780f50f1a7f8",
       "created_at": "2026-03-25T18:50:55+09:00",
-      "views": 5157,
+      "views": 5158,
       "likes": 12,
       "stocks": 11
     },
@@ -573,7 +573,7 @@
       "title": "AI時代にプログラミングを学ぶ意味と効果的な学習ステップ",
       "url": "https://qiita.com/miruky/items/3b0f8c6c0d509862b5d7",
       "created_at": "2026-03-25T00:06:34+09:00",
-      "views": 4610,
+      "views": 4611,
       "likes": 22,
       "stocks": 15
     },
@@ -600,7 +600,7 @@
       "title": "OpenCode vs Claude Code、ファイ！！ OSSコーディングエージェントの実力を検証してみた",
       "url": "https://qiita.com/miruky/items/293ad0d3bc4d0cc41b08",
       "created_at": "2026-03-22T00:04:45+09:00",
-      "views": 13710,
+      "views": 13711,
       "likes": 12,
       "stocks": 17
     },
