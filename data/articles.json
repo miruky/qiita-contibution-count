@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-21T22:21:04.545Z",
+  "updated_at": "2026-11-21T22:40:30.281Z",
   "articles": [
     {
       "id": "0e16e9ddc811e13d6b04",
@@ -33,7 +33,7 @@
       "title": "【AWS】GitHub ActionsでCI/CDを実現する方法について",
       "url": "https://qiita.com/miruky/items/140bd48eda4b5f324353",
       "created_at": "2026-11-03T21:41:55+09:00",
-      "views": 302,
+      "views": 303,
       "likes": 0,
       "stocks": 0
     },
@@ -222,7 +222,7 @@
       "title": "【読書の夏？】各分野のおすすめ技術書を75冊まとめてみた",
       "url": "https://qiita.com/miruky/items/8b3e5908a24952c10783",
       "created_at": "2026-06-29T17:14:41+09:00",
-      "views": 57312,
+      "views": 57313,
       "likes": 129,
       "stocks": 140
     },
@@ -258,7 +258,7 @@
       "title": "週末なにしてますか？忙しいですか？非IT業界の友達に「燃える」が通じなかったので、IT業界の謎用語を教えてもらってもいいですか？",
       "url": "https://qiita.com/miruky/items/2d4fcb9ed4bee7ee25fe",
       "created_at": "2026-06-09T17:51:01+09:00",
-      "views": 125794,
+      "views": 125795,
       "likes": 201,
       "stocks": 150
     },
@@ -285,7 +285,7 @@
       "title": "【AWS】非機能要件「ログの保持とアーカイブ」でCloudWatch LogsのS3エクスポートを担当したら、最も簡単だと思っていた方法が意外と面倒だった話",
       "url": "https://qiita.com/miruky/items/a161a98bd6e68b9c3224",
       "created_at": "2026-05-22T22:13:59+09:00",
-      "views": 8427,
+      "views": 8428,
       "likes": 17,
       "stocks": 11
     },
@@ -312,7 +312,7 @@
       "title": "GWも勉強したい方向けに、よくオススメされる技術書をカテゴリ別にまとめてみた",
       "url": "https://qiita.com/miruky/items/c2df4f23d73a8e05f37f",
       "created_at": "2026-04-27T18:00:30+09:00",
-      "views": 97818,
+      "views": 97819,
       "likes": 215,
       "stocks": 234
     },
@@ -357,7 +357,7 @@
       "title": "【必須】GitHubとnpmで脆弱なパッケージを入れないための防御設定 8選",
       "url": "https://qiita.com/miruky/items/fcab851c5351f79b481d",
       "created_at": "2026-04-11T13:53:43+09:00",
-      "views": 104462,
+      "views": 104463,
       "likes": 158,
       "stocks": 194
     },
@@ -420,7 +420,7 @@
       "title": "AIが脆弱性を見つけ、AIが脆弱性を突く時代ですね",
       "url": "https://qiita.com/miruky/items/9e829b29c07f0f03dd4e",
       "created_at": "2026-04-07T00:06:43+09:00",
-      "views": 4645,
+      "views": 4646,
       "likes": 11,
       "stocks": 9
     },
@@ -465,7 +465,7 @@
       "title": "【コマンド集】LPIC-2 試験対策まとめ！鬼門のレベル2を全トピック解説",
       "url": "https://qiita.com/miruky/items/57c159ba408fc586b193",
       "created_at": "2026-04-03T23:55:51+09:00",
-      "views": 4672,
+      "views": 4673,
       "likes": 2,
       "stocks": 8
     },
@@ -474,7 +474,7 @@
       "title": "【コマンド集】LPIC-1 試験対策まとめ！全トピック解説",
       "url": "https://qiita.com/miruky/items/e9212c7f16dbd4f374ff",
       "created_at": "2026-04-03T23:54:47+09:00",
-      "views": 6725,
+      "views": 6726,
       "likes": 2,
       "stocks": 12
     },
@@ -555,7 +555,7 @@
       "title": "「Deploy to AWS」の一言でAIがAWSインフラ構築からデプロイまで完了する時代が来た",
       "url": "https://qiita.com/miruky/items/74af8cae780f50f1a7f8",
       "created_at": "2026-03-25T18:50:55+09:00",
-      "views": 5159,
+      "views": 5160,
       "likes": 12,
       "stocks": 11
     },
@@ -636,7 +636,7 @@
       "title": "AWSのAIエージェント、Kiro CLIで開発を加速させよう",
       "url": "https://qiita.com/miruky/items/145fa2461daf6ded64e1",
       "created_at": "2026-03-20T00:01:54+09:00",
-      "views": 6051,
+      "views": 6052,
       "likes": 10,
       "stocks": 10
     },
@@ -717,7 +717,7 @@
       "title": "【2026年最新版】Claude Codeで行うべきセキュリティ設定 10選",
       "url": "https://qiita.com/miruky/items/51db293a7a7d0d277a5d",
       "created_at": "2026-03-14T22:06:20+09:00",
-      "views": 180716,
+      "views": 180717,
       "likes": 555,
       "stocks": 566
     },
@@ -735,7 +735,7 @@
       "title": "【2026年最新版】結局最強のAIコーディングツールは？色々と比較して考えてみる",
       "url": "https://qiita.com/miruky/items/b200c3e6112a833cffd4",
       "created_at": "2026-03-12T22:16:44+09:00",
-      "views": 33523,
+      "views": 33524,
       "likes": 12,
       "stocks": 14
     },
@@ -762,7 +762,7 @@
       "title": "【Amazon Lex #2】Lexボットでインテント・スロット・発話を設計してみよう",
       "url": "https://qiita.com/miruky/items/8ba48610f8c26b53ad14",
       "created_at": "2026-03-10T22:20:01+09:00",
-      "views": 1294,
+      "views": 1295,
       "likes": 0,
       "stocks": 4
     },
@@ -888,7 +888,7 @@
       "title": "【AWS End User Messaging SMS #4】SMSのサンドボックス解除申請と1$制限の緩和申請方法",
       "url": "https://qiita.com/miruky/items/dcc598438ede59bcd090",
       "created_at": "2026-02-24T18:55:33+09:00",
-      "views": 2887,
+      "views": 2888,
       "likes": 1,
       "stocks": 3
     },
