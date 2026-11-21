@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-21T06:41:34.797Z",
+  "updated_at": "2026-11-21T07:00:51.058Z",
   "articles": [
     {
       "id": "0e16e9ddc811e13d6b04",
@@ -15,7 +15,7 @@
       "title": "【AWS Emulator】AWS公式のローカルエミュレーターで、本格的なサーバーレスはどこまで動く？motoやFlociなど5つのOSSとも比べてみた",
       "url": "https://qiita.com/miruky/items/2b78a6f7b1e3ec8fe80d",
       "created_at": "2026-11-12T22:34:31+09:00",
-      "views": 1114,
+      "views": 1117,
       "likes": 0,
       "stocks": 1
     },
@@ -168,7 +168,7 @@
       "title": "今更だけど、DynamoDBの設計の勘所をサクッとまとめてみた",
       "url": "https://qiita.com/miruky/items/c7beb2fbed6492d195d1",
       "created_at": "2026-08-08T17:58:27+09:00",
-      "views": 10412,
+      "views": 10413,
       "likes": 8,
       "stocks": 15
     },
@@ -285,7 +285,7 @@
       "title": "【AWS】非機能要件「ログの保持とアーカイブ」でCloudWatch LogsのS3エクスポートを担当したら、最も簡単だと思っていた方法が意外と面倒だった話",
       "url": "https://qiita.com/miruky/items/a161a98bd6e68b9c3224",
       "created_at": "2026-05-22T22:13:59+09:00",
-      "views": 8422,
+      "views": 8423,
       "likes": 17,
       "stocks": 11
     },
@@ -294,7 +294,7 @@
       "title": "【エンジニアの教養】なぜかエンジニア界隈で有名な◯◯の法則的なやつをまとめてみた",
       "url": "https://qiita.com/miruky/items/cef8169b4a10cdd790b5",
       "created_at": "2026-05-11T17:19:23+09:00",
-      "views": 119365,
+      "views": 119366,
       "likes": 531,
       "stocks": 463
     },
@@ -312,7 +312,7 @@
       "title": "GWも勉強したい方向けに、よくオススメされる技術書をカテゴリ別にまとめてみた",
       "url": "https://qiita.com/miruky/items/c2df4f23d73a8e05f37f",
       "created_at": "2026-04-27T18:00:30+09:00",
-      "views": 97796,
+      "views": 97798,
       "likes": 215,
       "stocks": 234
     },
@@ -321,9 +321,9 @@
       "title": "【徹底解説】DBスペシャリストなりぞこないが教える、データベースの教科書（設計もあるよ）",
       "url": "https://qiita.com/miruky/items/f67bd754c1f7a5116a7c",
       "created_at": "2026-04-21T17:12:46+09:00",
-      "views": 122904,
+      "views": 122905,
       "likes": 259,
-      "stocks": 281
+      "stocks": 282
     },
     {
       "id": "fde2d0747358cd7870d7",
@@ -348,7 +348,7 @@
       "title": "【Amazon Comprehend #1】Comprehendって何？自然言語処理サービスの全体像をつかんでみる",
       "url": "https://qiita.com/miruky/items/ca38f86cf1f0011936d3",
       "created_at": "2026-04-13T18:47:07+09:00",
-      "views": 3053,
+      "views": 3054,
       "likes": 1,
       "stocks": 3
     },
@@ -366,7 +366,7 @@
       "title": "MCP vs Skills論争に決着をつける試み。AIエージェントの「拡張手段」を実装・設計・セキュリティで徹底比較する",
       "url": "https://qiita.com/miruky/items/32314a0d9eb8c154dc95",
       "created_at": "2026-04-11T00:49:30+09:00",
-      "views": 19641,
+      "views": 19642,
       "likes": 21,
       "stocks": 21
     },
@@ -429,7 +429,7 @@
       "title": "【今さら聞けない】OpenClawについて詳しくまとめてみた",
       "url": "https://qiita.com/miruky/items/65eeae6512345ac74346",
       "created_at": "2026-04-05T14:09:19+09:00",
-      "views": 7492,
+      "views": 7493,
       "likes": 8,
       "stocks": 11
     },
@@ -528,7 +528,7 @@
       "title": "DDoS攻撃でAWS請求が200万円に！S3・CloudFrontで絶対やるべきコスト爆発防止策 6選",
       "url": "https://qiita.com/miruky/items/b996e374c91923141178",
       "created_at": "2026-03-27T00:01:05+09:00",
-      "views": 51178,
+      "views": 51179,
       "likes": 145,
       "stocks": 140
     },
@@ -600,7 +600,7 @@
       "title": "OpenCode vs Claude Code、ファイ！！ OSSコーディングエージェントの実力を検証してみた",
       "url": "https://qiita.com/miruky/items/293ad0d3bc4d0cc41b08",
       "created_at": "2026-03-22T00:04:45+09:00",
-      "views": 13703,
+      "views": 13704,
       "likes": 12,
       "stocks": 17
     },
@@ -627,7 +627,7 @@
       "title": "【AWS】Strands Agents、GitHubスター数5300超のOSSをまとめてみた",
       "url": "https://qiita.com/miruky/items/304f6f49f46b30125889",
       "created_at": "2026-03-20T09:07:33+09:00",
-      "views": 4630,
+      "views": 4631,
       "likes": 10,
       "stocks": 14
     },
@@ -663,7 +663,7 @@
       "title": "【2026年最新版】ローカルLLM（Ollama）で完全オフラインAI開発環境を作る",
       "url": "https://qiita.com/miruky/items/026aeee6b59f78df5e9d",
       "created_at": "2026-03-18T12:12:26+09:00",
-      "views": 76280,
+      "views": 76284,
       "likes": 90,
       "stocks": 94
     },
@@ -672,7 +672,7 @@
       "title": "【AWS×Qiita】サーバーレスで自分だけのQiita記事ダッシュボードを作ってみる",
       "url": "https://qiita.com/miruky/items/9e227ca1ba5008fb0520",
       "created_at": "2026-03-17T22:18:28+09:00",
-      "views": 1099,
+      "views": 1100,
       "likes": 7,
       "stocks": 7
     },
@@ -717,7 +717,7 @@
       "title": "【2026年最新版】Claude Codeで行うべきセキュリティ設定 10選",
       "url": "https://qiita.com/miruky/items/51db293a7a7d0d277a5d",
       "created_at": "2026-03-14T22:06:20+09:00",
-      "views": 180686,
+      "views": 180687,
       "likes": 555,
       "stocks": 566
     },
@@ -735,7 +735,7 @@
       "title": "【2026年最新版】結局最強のAIコーディングツールは？色々と比較して考えてみる",
       "url": "https://qiita.com/miruky/items/b200c3e6112a833cffd4",
       "created_at": "2026-03-12T22:16:44+09:00",
-      "views": 33472,
+      "views": 33474,
       "likes": 12,
       "stocks": 14
     },
@@ -897,7 +897,7 @@
       "title": "【AWS End User Messaging SMS #3】実務に沿ったアーキテクチャを作成し、実践してみる",
       "url": "https://qiita.com/miruky/items/4703927c6d699d741715",
       "created_at": "2026-02-23T19:42:58+09:00",
-      "views": 4242,
+      "views": 4243,
       "likes": 3,
       "stocks": 5
     },
