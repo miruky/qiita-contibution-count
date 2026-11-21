@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-21T17:00:45.811Z",
+  "updated_at": "2026-11-21T17:20:55.378Z",
   "articles": [
     {
       "id": "0e16e9ddc811e13d6b04",
@@ -258,7 +258,7 @@
       "title": "週末なにしてますか？忙しいですか？非IT業界の友達に「燃える」が通じなかったので、IT業界の謎用語を教えてもらってもいいですか？",
       "url": "https://qiita.com/miruky/items/2d4fcb9ed4bee7ee25fe",
       "created_at": "2026-06-09T17:51:01+09:00",
-      "views": 125791,
+      "views": 125792,
       "likes": 201,
       "stocks": 150
     },
@@ -519,7 +519,7 @@
       "title": "ほぼ2年目エンジニア、AWSとAIに「全振り」した365日からAI時代の新米エンジニアの歩き方を考える",
       "url": "https://qiita.com/miruky/items/14008906c3772c3305a5",
       "created_at": "2026-03-27T18:57:10+09:00",
-      "views": 6469,
+      "views": 6470,
       "likes": 23,
       "stocks": 16
     },
@@ -528,7 +528,7 @@
       "title": "DDoS攻撃でAWS請求が200万円に！S3・CloudFrontで絶対やるべきコスト爆発防止策 6選",
       "url": "https://qiita.com/miruky/items/b996e374c91923141178",
       "created_at": "2026-03-27T00:01:05+09:00",
-      "views": 51193,
+      "views": 51194,
       "likes": 145,
       "stocks": 140
     },
@@ -537,7 +537,7 @@
       "title": "Anthropicの研究によれば、「AIコーディングツールは開発者を退化させている」らしい？",
       "url": "https://qiita.com/miruky/items/c4a4928e4d3862e35c7c",
       "created_at": "2026-03-26T09:05:50+09:00",
-      "views": 15411,
+      "views": 15414,
       "likes": 34,
       "stocks": 23
     },
@@ -717,7 +717,7 @@
       "title": "【2026年最新版】Claude Codeで行うべきセキュリティ設定 10選",
       "url": "https://qiita.com/miruky/items/51db293a7a7d0d277a5d",
       "created_at": "2026-03-14T22:06:20+09:00",
-      "views": 180708,
+      "views": 180709,
       "likes": 555,
       "stocks": 566
     },
@@ -735,7 +735,7 @@
       "title": "【2026年最新版】結局最強のAIコーディングツールは？色々と比較して考えてみる",
       "url": "https://qiita.com/miruky/items/b200c3e6112a833cffd4",
       "created_at": "2026-03-12T22:16:44+09:00",
-      "views": 33517,
+      "views": 33519,
       "likes": 12,
       "stocks": 14
     },
