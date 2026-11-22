@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-22T09:00:56.749Z",
+  "updated_at": "2026-11-22T09:21:16.443Z",
   "articles": [
     {
       "id": "0e16e9ddc811e13d6b04",
@@ -42,7 +42,7 @@
       "title": "インフラエンジニアのためのGo言語入門",
       "url": "https://qiita.com/miruky/items/972687e62d93d865f981",
       "created_at": "2026-10-27T22:08:54+09:00",
-      "views": 422,
+      "views": 423,
       "likes": 1,
       "stocks": 0
     },
@@ -87,7 +87,7 @@
       "title": "【まとめ】AI駆動系の◯◯エンジニアリングが多いので、ここらで一旦整理しましょう",
       "url": "https://qiita.com/miruky/items/4a8a7f456e68e9965a12",
       "created_at": "2026-09-22T20:42:26+09:00",
-      "views": 8720,
+      "views": 8721,
       "likes": 6,
       "stocks": 7
     },
@@ -222,7 +222,7 @@
       "title": "【読書の夏？】各分野のおすすめ技術書を75冊まとめてみた",
       "url": "https://qiita.com/miruky/items/8b3e5908a24952c10783",
       "created_at": "2026-06-29T17:14:41+09:00",
-      "views": 57324,
+      "views": 57326,
       "likes": 129,
       "stocks": 140
     },
@@ -294,7 +294,7 @@
       "title": "【エンジニアの教養】なぜかエンジニア界隈で有名な◯◯の法則的なやつをまとめてみた",
       "url": "https://qiita.com/miruky/items/cef8169b4a10cdd790b5",
       "created_at": "2026-05-11T17:19:23+09:00",
-      "views": 119381,
+      "views": 119382,
       "likes": 531,
       "stocks": 463
     },
@@ -393,7 +393,7 @@
       "title": "GitHub Copilotのドキュメントを全部読んだので、本当に使えるカスタマイズだけ10個まとめた",
       "url": "https://qiita.com/miruky/items/26dfbc0ee7492ed12ba6",
       "created_at": "2026-04-09T19:28:07+09:00",
-      "views": 14034,
+      "views": 14035,
       "likes": 32,
       "stocks": 38
     },
@@ -438,7 +438,7 @@
       "title": "Googleが提唱したDESIGN.mdとは？Claude CodeとDESIGN.mdでデモサイトをいくつか作ってみた",
       "url": "https://qiita.com/miruky/items/a6312c14e6352376ec00",
       "created_at": "2026-04-04T20:24:53+09:00",
-      "views": 29645,
+      "views": 29650,
       "likes": 58,
       "stocks": 55
     },
@@ -474,7 +474,7 @@
       "title": "【コマンド集】LPIC-1 試験対策まとめ！全トピック解説",
       "url": "https://qiita.com/miruky/items/e9212c7f16dbd4f374ff",
       "created_at": "2026-04-03T23:54:47+09:00",
-      "views": 6732,
+      "views": 6735,
       "likes": 2,
       "stocks": 12
     },
@@ -609,7 +609,7 @@
       "title": "ハーネスエンジニアリングとは何か ── コンテキストエンジニアリングの次のパラダイム",
       "url": "https://qiita.com/miruky/items/155f3b5a0dcde72fcd10",
       "created_at": "2026-03-21T18:19:07+09:00",
-      "views": 43879,
+      "views": 43880,
       "likes": 104,
       "stocks": 93
     },
@@ -663,7 +663,7 @@
       "title": "【2026年最新版】ローカルLLM（Ollama）で完全オフラインAI開発環境を作る",
       "url": "https://qiita.com/miruky/items/026aeee6b59f78df5e9d",
       "created_at": "2026-03-18T12:12:26+09:00",
-      "views": 76450,
+      "views": 76452,
       "likes": 90,
       "stocks": 94
     },
@@ -690,7 +690,7 @@
       "title": "Claude Code 知らないと損するコマンド・時短術 20選",
       "url": "https://qiita.com/miruky/items/48ede59ebe33b4b774ac",
       "created_at": "2026-03-16T13:00:11+09:00",
-      "views": 62490,
+      "views": 62491,
       "likes": 235,
       "stocks": 236
     },
@@ -708,7 +708,7 @@
       "title": "【2026年最新版】Gemini CLIで行うべきセキュリティ設定 10選",
       "url": "https://qiita.com/miruky/items/3f091416cfbfbbff99eb",
       "created_at": "2026-03-14T22:34:59+09:00",
-      "views": 11848,
+      "views": 11849,
       "likes": 19,
       "stocks": 22
     },
@@ -717,7 +717,7 @@
       "title": "【2026年最新版】Claude Codeで行うべきセキュリティ設定 10選",
       "url": "https://qiita.com/miruky/items/51db293a7a7d0d277a5d",
       "created_at": "2026-03-14T22:06:20+09:00",
-      "views": 180748,
+      "views": 180750,
       "likes": 555,
       "stocks": 566
     },
@@ -735,7 +735,7 @@
       "title": "【2026年最新版】結局最強のAIコーディングツールは？色々と比較して考えてみる",
       "url": "https://qiita.com/miruky/items/b200c3e6112a833cffd4",
       "created_at": "2026-03-12T22:16:44+09:00",
-      "views": 33556,
+      "views": 33558,
       "likes": 12,
       "stocks": 14
     },
@@ -780,7 +780,7 @@
       "title": "【Amazon Bedrock #7】AgentCore応用編！Stateful Runtimeとメモリ機能で高度なエージェントを実現する",
       "url": "https://qiita.com/miruky/items/739be976519c97b17500",
       "created_at": "2026-03-09T09:54:05+09:00",
-      "views": 2790,
+      "views": 2791,
       "likes": 1,
       "stocks": 5
     },
@@ -825,7 +825,7 @@
       "title": "【Amazon Bedrock #2】Claudeをプレイグラウンドで試してみよう",
       "url": "https://qiita.com/miruky/items/eafdc2ea5b9738f9152a",
       "created_at": "2026-03-03T21:32:27+09:00",
-      "views": 3077,
+      "views": 3078,
       "likes": 0,
       "stocks": 4
     },
