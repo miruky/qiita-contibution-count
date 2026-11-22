@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-22T03:23:56.507Z",
+  "updated_at": "2026-11-22T03:40:41.143Z",
   "articles": [
     {
       "id": "0e16e9ddc811e13d6b04",
@@ -78,7 +78,7 @@
       "title": "【被害者は語る】タイムズカー660万件情報漏えいはなぜ起きたのかの矮小な考察",
       "url": "https://qiita.com/miruky/items/6577a57b9b62c8f97e11",
       "created_at": "2026-09-30T01:00:06+09:00",
-      "views": 74085,
+      "views": 74086,
       "likes": 69,
       "stocks": 48
     },
@@ -87,7 +87,7 @@
       "title": "【まとめ】AI駆動系の◯◯エンジニアリングが多いので、ここらで一旦整理しましょう",
       "url": "https://qiita.com/miruky/items/4a8a7f456e68e9965a12",
       "created_at": "2026-09-22T20:42:26+09:00",
-      "views": 8718,
+      "views": 8719,
       "likes": 6,
       "stocks": 7
     },
@@ -258,7 +258,7 @@
       "title": "週末なにしてますか？忙しいですか？非IT業界の友達に「燃える」が通じなかったので、IT業界の謎用語を教えてもらってもいいですか？",
       "url": "https://qiita.com/miruky/items/2d4fcb9ed4bee7ee25fe",
       "created_at": "2026-06-09T17:51:01+09:00",
-      "views": 125799,
+      "views": 125800,
       "likes": 201,
       "stocks": 150
     },
@@ -267,7 +267,7 @@
       "title": "ちょっと気になったので、決済サービス各社はカード情報をどう守っているのか調べてみた",
       "url": "https://qiita.com/miruky/items/b9d9dd83f33b4c837d63",
       "created_at": "2026-06-01T17:16:46+09:00",
-      "views": 46105,
+      "views": 46107,
       "likes": 59,
       "stocks": 68
     },
@@ -294,7 +294,7 @@
       "title": "【エンジニアの教養】なぜかエンジニア界隈で有名な◯◯の法則的なやつをまとめてみた",
       "url": "https://qiita.com/miruky/items/cef8169b4a10cdd790b5",
       "created_at": "2026-05-11T17:19:23+09:00",
-      "views": 119377,
+      "views": 119378,
       "likes": 531,
       "stocks": 463
     },
@@ -321,7 +321,7 @@
       "title": "【徹底解説】DBスペシャリストなりぞこないが教える、データベースの教科書（設計もあるよ）",
       "url": "https://qiita.com/miruky/items/f67bd754c1f7a5116a7c",
       "created_at": "2026-04-21T17:12:46+09:00",
-      "views": 122935,
+      "views": 122937,
       "likes": 259,
       "stocks": 282
     },
@@ -330,7 +330,7 @@
       "title": "【こわい】Google APIキーの脆弱性により13時間で約900万円請求される事案が発生！ Firebase×Geminiで今すぐやるべきセキュリティ対策",
       "url": "https://qiita.com/miruky/items/fde2d0747358cd7870d7",
       "created_at": "2026-04-17T19:29:09+09:00",
-      "views": 137994,
+      "views": 137995,
       "likes": 287,
       "stocks": 217
     },
@@ -357,7 +357,7 @@
       "title": "【必須】GitHubとnpmで脆弱なパッケージを入れないための防御設定 8選",
       "url": "https://qiita.com/miruky/items/fcab851c5351f79b481d",
       "created_at": "2026-04-11T13:53:43+09:00",
-      "views": 104468,
+      "views": 104469,
       "likes": 158,
       "stocks": 194
     },
@@ -564,7 +564,7 @@
       "title": "【AWS全冠】今こそ振り返ろう！AWS主要100サービスの概要まとめ",
       "url": "https://qiita.com/miruky/items/a68b605e44c25d8287a6",
       "created_at": "2026-03-25T00:06:46+09:00",
-      "views": 7631,
+      "views": 7634,
       "likes": 10,
       "stocks": 13
     },
@@ -600,7 +600,7 @@
       "title": "OpenCode vs Claude Code、ファイ！！ OSSコーディングエージェントの実力を検証してみた",
       "url": "https://qiita.com/miruky/items/293ad0d3bc4d0cc41b08",
       "created_at": "2026-03-22T00:04:45+09:00",
-      "views": 13717,
+      "views": 13718,
       "likes": 12,
       "stocks": 17
     },
@@ -717,7 +717,7 @@
       "title": "【2026年最新版】Claude Codeで行うべきセキュリティ設定 10選",
       "url": "https://qiita.com/miruky/items/51db293a7a7d0d277a5d",
       "created_at": "2026-03-14T22:06:20+09:00",
-      "views": 180735,
+      "views": 180736,
       "likes": 555,
       "stocks": 566
     },
@@ -789,7 +789,7 @@
       "title": "【Amazon Bedrock #6】AgentCoreを使ってAIエージェントの本番運用基盤を構築してみる",
       "url": "https://qiita.com/miruky/items/b7e5ed3869c7ef79f82e",
       "created_at": "2026-03-08T22:38:28+09:00",
-      "views": 4239,
+      "views": 4240,
       "likes": 1,
       "stocks": 6
     },
