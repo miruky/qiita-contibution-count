@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-22T15:21:09.211Z",
+  "updated_at": "2026-11-22T15:40:21.446Z",
   "articles": [
     {
       "id": "0e16e9ddc811e13d6b04",
@@ -195,7 +195,7 @@
       "title": "【徹底解説】文系でもわかる！機械学習に入門しよう",
       "url": "https://qiita.com/miruky/items/42b892805eb1d754109c",
       "created_at": "2026-07-18T17:14:07+09:00",
-      "views": 51499,
+      "views": 51500,
       "likes": 61,
       "stocks": 78
     },
@@ -222,7 +222,7 @@
       "title": "【読書の夏？】各分野のおすすめ技術書を75冊まとめてみた",
       "url": "https://qiita.com/miruky/items/8b3e5908a24952c10783",
       "created_at": "2026-06-29T17:14:41+09:00",
-      "views": 57328,
+      "views": 57329,
       "likes": 129,
       "stocks": 140
     },
@@ -240,7 +240,7 @@
       "title": "ReactとかNext.jsとか、あたかも言語みたいな顔でこちらを見てくるJavaScript周辺技術をまとめてみた",
       "url": "https://qiita.com/miruky/items/b892d9ff73495ca4b68d",
       "created_at": "2026-06-16T23:46:52+09:00",
-      "views": 135109,
+      "views": 135110,
       "likes": 499,
       "stocks": 402
     },
@@ -267,7 +267,7 @@
       "title": "ちょっと気になったので、決済サービス各社はカード情報をどう守っているのか調べてみた",
       "url": "https://qiita.com/miruky/items/b9d9dd83f33b4c837d63",
       "created_at": "2026-06-01T17:16:46+09:00",
-      "views": 46124,
+      "views": 46125,
       "likes": 59,
       "stocks": 68
     },
@@ -285,7 +285,7 @@
       "title": "【AWS】非機能要件「ログの保持とアーカイブ」でCloudWatch LogsのS3エクスポートを担当したら、最も簡単だと思っていた方法が意外と面倒だった話",
       "url": "https://qiita.com/miruky/items/a161a98bd6e68b9c3224",
       "created_at": "2026-05-22T22:13:59+09:00",
-      "views": 8431,
+      "views": 8432,
       "likes": 17,
       "stocks": 11
     },
@@ -303,7 +303,7 @@
       "title": "【徹底解説】セキュリティスペシャリストが教える、セキュアプログラミングの教科書",
       "url": "https://qiita.com/miruky/items/6fbb0c0e55835ea79e4d",
       "created_at": "2026-05-05T21:08:08+09:00",
-      "views": 144144,
+      "views": 144145,
       "likes": 349,
       "stocks": 446
     },
@@ -312,7 +312,7 @@
       "title": "GWも勉強したい方向けに、よくオススメされる技術書をカテゴリ別にまとめてみた",
       "url": "https://qiita.com/miruky/items/c2df4f23d73a8e05f37f",
       "created_at": "2026-04-27T18:00:30+09:00",
-      "views": 97833,
+      "views": 97834,
       "likes": 215,
       "stocks": 234
     },
@@ -321,7 +321,7 @@
       "title": "【徹底解説】DBスペシャリストなりぞこないが教える、データベースの教科書（設計もあるよ）",
       "url": "https://qiita.com/miruky/items/f67bd754c1f7a5116a7c",
       "created_at": "2026-04-21T17:12:46+09:00",
-      "views": 122951,
+      "views": 122952,
       "likes": 259,
       "stocks": 282
     },
@@ -411,7 +411,7 @@
       "title": "Claude Mythos（ミトス）？謎のプロジェクト、Project Glasswingについても調べました",
       "url": "https://qiita.com/miruky/items/6b5def7306d78cca4991",
       "created_at": "2026-04-08T22:43:07+09:00",
-      "views": 12803,
+      "views": 12804,
       "likes": 14,
       "stocks": 9
     },
@@ -618,7 +618,7 @@
       "title": "【2026年最新版】Claude Code Skills実践テクニック 10選",
       "url": "https://qiita.com/miruky/items/3ebe56edd76f7cddfd47",
       "created_at": "2026-03-21T00:18:37+09:00",
-      "views": 21091,
+      "views": 21092,
       "likes": 56,
       "stocks": 72
     },
@@ -627,7 +627,7 @@
       "title": "【AWS】Strands Agents、GitHubスター数5300超のOSSをまとめてみた",
       "url": "https://qiita.com/miruky/items/304f6f49f46b30125889",
       "created_at": "2026-03-20T09:07:33+09:00",
-      "views": 4651,
+      "views": 4652,
       "likes": 10,
       "stocks": 14
     },
@@ -663,7 +663,7 @@
       "title": "【2026年最新版】ローカルLLM（Ollama）で完全オフラインAI開発環境を作る",
       "url": "https://qiita.com/miruky/items/026aeee6b59f78df5e9d",
       "created_at": "2026-03-18T12:12:26+09:00",
-      "views": 76505,
+      "views": 76513,
       "likes": 90,
       "stocks": 94
     },
@@ -717,7 +717,7 @@
       "title": "【2026年最新版】Claude Codeで行うべきセキュリティ設定 10選",
       "url": "https://qiita.com/miruky/items/51db293a7a7d0d277a5d",
       "created_at": "2026-03-14T22:06:20+09:00",
-      "views": 180775,
+      "views": 180777,
       "likes": 555,
       "stocks": 566
     },
