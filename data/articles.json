@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-21T23:40:31.222Z",
+  "updated_at": "2026-11-22T00:01:13.892Z",
   "articles": [
     {
       "id": "0e16e9ddc811e13d6b04",
@@ -168,7 +168,7 @@
       "title": "今更だけど、DynamoDBの設計の勘所をサクッとまとめてみた",
       "url": "https://qiita.com/miruky/items/c7beb2fbed6492d195d1",
       "created_at": "2026-08-08T17:58:27+09:00",
-      "views": 10417,
+      "views": 10418,
       "likes": 8,
       "stocks": 15
     },
@@ -186,7 +186,7 @@
       "title": "【小ネタ】芸能人のXポスト時刻が1992年に飛んだ？整数オーバーフローが起こす時刻バグ",
       "url": "https://qiita.com/miruky/items/4be4d7e683632ba8c396",
       "created_at": "2026-07-23T23:58:14+09:00",
-      "views": 14323,
+      "views": 14324,
       "likes": 13,
       "stocks": 12
     },
@@ -195,7 +195,7 @@
       "title": "【徹底解説】文系でもわかる！機械学習に入門しよう",
       "url": "https://qiita.com/miruky/items/42b892805eb1d754109c",
       "created_at": "2026-07-18T17:14:07+09:00",
-      "views": 51490,
+      "views": 51491,
       "likes": 62,
       "stocks": 79
     },
@@ -312,7 +312,7 @@
       "title": "GWも勉強したい方向けに、よくオススメされる技術書をカテゴリ別にまとめてみた",
       "url": "https://qiita.com/miruky/items/c2df4f23d73a8e05f37f",
       "created_at": "2026-04-27T18:00:30+09:00",
-      "views": 97819,
+      "views": 97820,
       "likes": 215,
       "stocks": 234
     },
@@ -330,7 +330,7 @@
       "title": "【こわい】Google APIキーの脆弱性により13時間で約900万円請求される事案が発生！ Firebase×Geminiで今すぐやるべきセキュリティ対策",
       "url": "https://qiita.com/miruky/items/fde2d0747358cd7870d7",
       "created_at": "2026-04-17T19:29:09+09:00",
-      "views": 137991,
+      "views": 137992,
       "likes": 287,
       "stocks": 217
     },
@@ -438,7 +438,7 @@
       "title": "Googleが提唱したDESIGN.mdとは？Claude CodeとDESIGN.mdでデモサイトをいくつか作ってみた",
       "url": "https://qiita.com/miruky/items/a6312c14e6352376ec00",
       "created_at": "2026-04-04T20:24:53+09:00",
-      "views": 29633,
+      "views": 29634,
       "likes": 58,
       "stocks": 55
     },
@@ -582,7 +582,7 @@
       "title": "ポートフォリオ用の綺麗なGitHubリポジトリの作り方 ―すぐに使えるテンプレート付き",
       "url": "https://qiita.com/miruky/items/726d9210cc8666866f86",
       "created_at": "2026-03-24T09:40:53+09:00",
-      "views": 21903,
+      "views": 21904,
       "likes": 67,
       "stocks": 69
     },
@@ -654,7 +654,7 @@
       "title": "【保存版】Claude Code Hooks全21イベントをまとめてみた ",
       "url": "https://qiita.com/miruky/items/e33ccda99281b40ad97b",
       "created_at": "2026-03-18T13:41:22+09:00",
-      "views": 8081,
+      "views": 8082,
       "likes": 20,
       "stocks": 23
     },
@@ -663,7 +663,7 @@
       "title": "【2026年最新版】ローカルLLM（Ollama）で完全オフラインAI開発環境を作る",
       "url": "https://qiita.com/miruky/items/026aeee6b59f78df5e9d",
       "created_at": "2026-03-18T12:12:26+09:00",
-      "views": 76385,
+      "views": 76388,
       "likes": 90,
       "stocks": 94
     },
@@ -690,7 +690,7 @@
       "title": "Claude Code 知らないと損するコマンド・時短術 20選",
       "url": "https://qiita.com/miruky/items/48ede59ebe33b4b774ac",
       "created_at": "2026-03-16T13:00:11+09:00",
-      "views": 62482,
+      "views": 62483,
       "likes": 235,
       "stocks": 236
     },
@@ -717,7 +717,7 @@
       "title": "【2026年最新版】Claude Codeで行うべきセキュリティ設定 10選",
       "url": "https://qiita.com/miruky/items/51db293a7a7d0d277a5d",
       "created_at": "2026-03-14T22:06:20+09:00",
-      "views": 180721,
+      "views": 180724,
       "likes": 555,
       "stocks": 566
     },
@@ -726,7 +726,7 @@
       "title": "米国で話題のRAGのセキュリティ脅威についてまとめてみた",
       "url": "https://qiita.com/miruky/items/3c98999786c7dbd2b26a",
       "created_at": "2026-03-13T18:21:20+09:00",
-      "views": 34744,
+      "views": 34745,
       "likes": 59,
       "stocks": 55
     },
@@ -735,7 +735,7 @@
       "title": "【2026年最新版】結局最強のAIコーディングツールは？色々と比較して考えてみる",
       "url": "https://qiita.com/miruky/items/b200c3e6112a833cffd4",
       "created_at": "2026-03-12T22:16:44+09:00",
-      "views": 33527,
+      "views": 33528,
       "likes": 12,
       "stocks": 14
     },
@@ -861,7 +861,7 @@
       "title": "【Amazon Connect #3】自然言語×Bedrockナレッジベース（RAG）を用いた本格的なAIコンタクトセンターを構築してみる",
       "url": "https://qiita.com/miruky/items/63bf639c3f1e1356bccb",
       "created_at": "2026-02-26T18:38:56+09:00",
-      "views": 2326,
+      "views": 2327,
       "likes": 0,
       "stocks": 3
     },
