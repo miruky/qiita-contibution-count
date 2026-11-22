@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-22T19:21:02.429Z",
+  "updated_at": "2026-11-22T19:40:31.210Z",
   "articles": [
     {
       "id": "0e16e9ddc811e13d6b04",
@@ -78,7 +78,7 @@
       "title": "【被害者は語る】タイムズカー660万件情報漏えいはなぜ起きたのかの矮小な考察",
       "url": "https://qiita.com/miruky/items/6577a57b9b62c8f97e11",
       "created_at": "2026-09-30T01:00:06+09:00",
-      "views": 74131,
+      "views": 74132,
       "likes": 69,
       "stocks": 48
     },
@@ -222,7 +222,7 @@
       "title": "【読書の夏？】各分野のおすすめ技術書を75冊まとめてみた",
       "url": "https://qiita.com/miruky/items/8b3e5908a24952c10783",
       "created_at": "2026-06-29T17:14:41+09:00",
-      "views": 57331,
+      "views": 57332,
       "likes": 129,
       "stocks": 140
     },
@@ -294,7 +294,7 @@
       "title": "【エンジニアの教養】なぜかエンジニア界隈で有名な◯◯の法則的なやつをまとめてみた",
       "url": "https://qiita.com/miruky/items/cef8169b4a10cdd790b5",
       "created_at": "2026-05-11T17:19:23+09:00",
-      "views": 119389,
+      "views": 119390,
       "likes": 531,
       "stocks": 463
     },
@@ -429,7 +429,7 @@
       "title": "【今さら聞けない】OpenClawについて詳しくまとめてみた",
       "url": "https://qiita.com/miruky/items/65eeae6512345ac74346",
       "created_at": "2026-04-05T14:09:19+09:00",
-      "views": 7500,
+      "views": 7501,
       "likes": 8,
       "stocks": 11
     },
@@ -636,7 +636,7 @@
       "title": "AWSのAIエージェント、Kiro CLIで開発を加速させよう",
       "url": "https://qiita.com/miruky/items/145fa2461daf6ded64e1",
       "created_at": "2026-03-20T00:01:54+09:00",
-      "views": 6057,
+      "views": 6058,
       "likes": 10,
       "stocks": 10
     },
@@ -654,7 +654,7 @@
       "title": "【保存版】Claude Code Hooks全21イベントをまとめてみた ",
       "url": "https://qiita.com/miruky/items/e33ccda99281b40ad97b",
       "created_at": "2026-03-18T13:41:22+09:00",
-      "views": 8090,
+      "views": 8092,
       "likes": 20,
       "stocks": 23
     },
