@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-22T04:40:36.412Z",
+  "updated_at": "2026-11-22T05:00:55.272Z",
   "articles": [
     {
       "id": "0e16e9ddc811e13d6b04",
@@ -240,7 +240,7 @@
       "title": "ReactとかNext.jsとか、あたかも言語みたいな顔でこちらを見てくるJavaScript周辺技術をまとめてみた",
       "url": "https://qiita.com/miruky/items/b892d9ff73495ca4b68d",
       "created_at": "2026-06-16T23:46:52+09:00",
-      "views": 135095,
+      "views": 135096,
       "likes": 499,
       "stocks": 402
     },
@@ -267,7 +267,7 @@
       "title": "ちょっと気になったので、決済サービス各社はカード情報をどう守っているのか調べてみた",
       "url": "https://qiita.com/miruky/items/b9d9dd83f33b4c837d63",
       "created_at": "2026-06-01T17:16:46+09:00",
-      "views": 46108,
+      "views": 46109,
       "likes": 59,
       "stocks": 68
     },
@@ -294,7 +294,7 @@
       "title": "【エンジニアの教養】なぜかエンジニア界隈で有名な◯◯の法則的なやつをまとめてみた",
       "url": "https://qiita.com/miruky/items/cef8169b4a10cdd790b5",
       "created_at": "2026-05-11T17:19:23+09:00",
-      "views": 119378,
+      "views": 119379,
       "likes": 531,
       "stocks": 463
     },
@@ -330,7 +330,7 @@
       "title": "【こわい】Google APIキーの脆弱性により13時間で約900万円請求される事案が発生！ Firebase×Geminiで今すぐやるべきセキュリティ対策",
       "url": "https://qiita.com/miruky/items/fde2d0747358cd7870d7",
       "created_at": "2026-04-17T19:29:09+09:00",
-      "views": 137995,
+      "views": 137996,
       "likes": 287,
       "stocks": 217
     },
@@ -339,7 +339,7 @@
       "title": "【Amazon Comprehend #2〜#5】組み込み分析からBedrock連携まで一気に整理してみる",
       "url": "https://qiita.com/miruky/items/366ade10cd860a1013ae",
       "created_at": "2026-04-14T00:01:22+09:00",
-      "views": 2207,
+      "views": 2209,
       "likes": 0,
       "stocks": 2
     },
@@ -357,7 +357,7 @@
       "title": "【必須】GitHubとnpmで脆弱なパッケージを入れないための防御設定 8選",
       "url": "https://qiita.com/miruky/items/fcab851c5351f79b481d",
       "created_at": "2026-04-11T13:53:43+09:00",
-      "views": 104469,
+      "views": 104475,
       "likes": 158,
       "stocks": 194
     },
@@ -438,7 +438,7 @@
       "title": "Googleが提唱したDESIGN.mdとは？Claude CodeとDESIGN.mdでデモサイトをいくつか作ってみた",
       "url": "https://qiita.com/miruky/items/a6312c14e6352376ec00",
       "created_at": "2026-04-04T20:24:53+09:00",
-      "views": 29638,
+      "views": 29639,
       "likes": 58,
       "stocks": 55
     },
@@ -465,7 +465,7 @@
       "title": "【コマンド集】LPIC-2 試験対策まとめ！鬼門のレベル2を全トピック解説",
       "url": "https://qiita.com/miruky/items/57c159ba408fc586b193",
       "created_at": "2026-04-03T23:55:51+09:00",
-      "views": 4675,
+      "views": 4676,
       "likes": 2,
       "stocks": 8
     },
@@ -690,7 +690,7 @@
       "title": "Claude Code 知らないと損するコマンド・時短術 20選",
       "url": "https://qiita.com/miruky/items/48ede59ebe33b4b774ac",
       "created_at": "2026-03-16T13:00:11+09:00",
-      "views": 62488,
+      "views": 62489,
       "likes": 235,
       "stocks": 236
     },
@@ -717,7 +717,7 @@
       "title": "【2026年最新版】Claude Codeで行うべきセキュリティ設定 10選",
       "url": "https://qiita.com/miruky/items/51db293a7a7d0d277a5d",
       "created_at": "2026-03-14T22:06:20+09:00",
-      "views": 180739,
+      "views": 180742,
       "likes": 555,
       "stocks": 566
     },
@@ -789,7 +789,7 @@
       "title": "【Amazon Bedrock #6】AgentCoreを使ってAIエージェントの本番運用基盤を構築してみる",
       "url": "https://qiita.com/miruky/items/b7e5ed3869c7ef79f82e",
       "created_at": "2026-03-08T22:38:28+09:00",
-      "views": 4240,
+      "views": 4242,
       "likes": 1,
       "stocks": 6
     },
