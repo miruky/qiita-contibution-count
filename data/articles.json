@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-11-23T23:21:00.719Z",
+  "updated_at": "2026-11-23T23:41:02.994Z",
   "articles": [
     {
       "id": "ad2d3afac7c0eba7a653",
       "title": "【Amazon Bedrock】プロンプトルーターで、問い合わせごとに答えるモデルを選ぶ仕組みを実装してみた",
       "url": "https://qiita.com/miruky/items/ad2d3afac7c0eba7a653",
       "created_at": "2026-11-23T11:05:55+09:00",
-      "views": 196,
+      "views": 198,
       "likes": 0,
       "stocks": 1
     },
@@ -33,7 +33,7 @@
       "title": "【やさしく】CORSについて理解する",
       "url": "https://qiita.com/miruky/items/09cdd3d53bc9e96e92ce",
       "created_at": "2026-11-09T23:04:54+09:00",
-      "views": 392,
+      "views": 393,
       "likes": 0,
       "stocks": 0
     },
@@ -42,7 +42,7 @@
       "title": "【AWS】GitHub ActionsでCI/CDを実現する方法について",
       "url": "https://qiita.com/miruky/items/140bd48eda4b5f324353",
       "created_at": "2026-11-03T21:41:55+09:00",
-      "views": 309,
+      "views": 310,
       "likes": 0,
       "stocks": 0
     },
@@ -87,7 +87,7 @@
       "title": "【被害者は語る】タイムズカー660万件情報漏えいはなぜ起きたのかの矮小な考察",
       "url": "https://qiita.com/miruky/items/6577a57b9b62c8f97e11",
       "created_at": "2026-09-30T01:00:06+09:00",
-      "views": 74223,
+      "views": 74226,
       "likes": 69,
       "stocks": 48
     },
@@ -168,7 +168,7 @@
       "title": "【CloudWatch Logs】ログへ混ざった個人情報を自動でマスクしてみましょうか",
       "url": "https://qiita.com/miruky/items/74323221d4cdba7e7f63",
       "created_at": "2026-08-11T16:23:18+09:00",
-      "views": 1096,
+      "views": 1099,
       "likes": 1,
       "stocks": 1
     },
@@ -249,7 +249,7 @@
       "title": "ReactとかNext.jsとか、あたかも言語みたいな顔でこちらを見てくるJavaScript周辺技術をまとめてみた",
       "url": "https://qiita.com/miruky/items/b892d9ff73495ca4b68d",
       "created_at": "2026-06-16T23:46:52+09:00",
-      "views": 135147,
+      "views": 135148,
       "likes": 499,
       "stocks": 402
     },
@@ -303,7 +303,7 @@
       "title": "【エンジニアの教養】なぜかエンジニア界隈で有名な◯◯の法則的なやつをまとめてみた",
       "url": "https://qiita.com/miruky/items/cef8169b4a10cdd790b5",
       "created_at": "2026-05-11T17:19:23+09:00",
-      "views": 119423,
+      "views": 119425,
       "likes": 531,
       "stocks": 463
     },
@@ -312,7 +312,7 @@
       "title": "【徹底解説】セキュリティスペシャリストが教える、セキュアプログラミングの教科書",
       "url": "https://qiita.com/miruky/items/6fbb0c0e55835ea79e4d",
       "created_at": "2026-05-05T21:08:08+09:00",
-      "views": 144200,
+      "views": 144204,
       "likes": 349,
       "stocks": 446
     },
@@ -321,7 +321,7 @@
       "title": "GWも勉強したい方向けに、よくオススメされる技術書をカテゴリ別にまとめてみた",
       "url": "https://qiita.com/miruky/items/c2df4f23d73a8e05f37f",
       "created_at": "2026-04-27T18:00:30+09:00",
-      "views": 97866,
+      "views": 97867,
       "likes": 215,
       "stocks": 234
     },
@@ -357,7 +357,7 @@
       "title": "【Amazon Comprehend #1】Comprehendって何？自然言語処理サービスの全体像をつかんでみる",
       "url": "https://qiita.com/miruky/items/ca38f86cf1f0011936d3",
       "created_at": "2026-04-13T18:47:07+09:00",
-      "views": 3066,
+      "views": 3067,
       "likes": 1,
       "stocks": 3
     },
@@ -402,7 +402,7 @@
       "title": "GitHub Copilotのドキュメントを全部読んだので、本当に使えるカスタマイズだけ10個まとめた",
       "url": "https://qiita.com/miruky/items/26dfbc0ee7492ed12ba6",
       "created_at": "2026-04-09T19:28:07+09:00",
-      "views": 14057,
+      "views": 14059,
       "likes": 32,
       "stocks": 38
     },
@@ -483,7 +483,7 @@
       "title": "【コマンド集】LPIC-1 試験対策まとめ！全トピック解説",
       "url": "https://qiita.com/miruky/items/e9212c7f16dbd4f374ff",
       "created_at": "2026-04-03T23:54:47+09:00",
-      "views": 6766,
+      "views": 6767,
       "likes": 2,
       "stocks": 12
     },
@@ -573,7 +573,7 @@
       "title": "【AWS全冠】今こそ振り返ろう！AWS主要100サービスの概要まとめ",
       "url": "https://qiita.com/miruky/items/a68b605e44c25d8287a6",
       "created_at": "2026-03-25T00:06:46+09:00",
-      "views": 7643,
+      "views": 7647,
       "likes": 10,
       "stocks": 13
     },
@@ -627,7 +627,7 @@
       "title": "【2026年最新版】Claude Code Skills実践テクニック 10選",
       "url": "https://qiita.com/miruky/items/3ebe56edd76f7cddfd47",
       "created_at": "2026-03-21T00:18:37+09:00",
-      "views": 21123,
+      "views": 21126,
       "likes": 56,
       "stocks": 72
     },
@@ -645,7 +645,7 @@
       "title": "AWSのAIエージェント、Kiro CLIで開発を加速させよう",
       "url": "https://qiita.com/miruky/items/145fa2461daf6ded64e1",
       "created_at": "2026-03-20T00:01:54+09:00",
-      "views": 6063,
+      "views": 6069,
       "likes": 10,
       "stocks": 10
     },
@@ -726,7 +726,7 @@
       "title": "【2026年最新版】Claude Codeで行うべきセキュリティ設定 10選",
       "url": "https://qiita.com/miruky/items/51db293a7a7d0d277a5d",
       "created_at": "2026-03-14T22:06:20+09:00",
-      "views": 180835,
+      "views": 180836,
       "likes": 555,
       "stocks": 566
     },
@@ -744,7 +744,7 @@
       "title": "【2026年最新版】結局最強のAIコーディングツールは？色々と比較して考えてみる",
       "url": "https://qiita.com/miruky/items/b200c3e6112a833cffd4",
       "created_at": "2026-03-12T22:16:44+09:00",
-      "views": 33741,
+      "views": 33744,
       "likes": 12,
       "stocks": 14
     },
