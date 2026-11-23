@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-11-23T21:00:55.313Z",
+  "updated_at": "2026-11-23T21:21:42.836Z",
   "articles": [
     {
       "id": "ad2d3afac7c0eba7a653",
       "title": "【Amazon Bedrock】プロンプトルーターで、問い合わせごとに答えるモデルを選ぶ仕組みを実装してみた",
       "url": "https://qiita.com/miruky/items/ad2d3afac7c0eba7a653",
       "created_at": "2026-11-23T11:05:55+09:00",
-      "views": 184,
+      "views": 186,
       "likes": 0,
       "stocks": 1
     },
@@ -312,7 +312,7 @@
       "title": "【徹底解説】セキュリティスペシャリストが教える、セキュアプログラミングの教科書",
       "url": "https://qiita.com/miruky/items/6fbb0c0e55835ea79e4d",
       "created_at": "2026-05-05T21:08:08+09:00",
-      "views": 144193,
+      "views": 144194,
       "likes": 349,
       "stocks": 446
     },
@@ -627,7 +627,7 @@
       "title": "【2026年最新版】Claude Code Skills実践テクニック 10選",
       "url": "https://qiita.com/miruky/items/3ebe56edd76f7cddfd47",
       "created_at": "2026-03-21T00:18:37+09:00",
-      "views": 21119,
+      "views": 21122,
       "likes": 56,
       "stocks": 72
     },
@@ -726,7 +726,7 @@
       "title": "【2026年最新版】Claude Codeで行うべきセキュリティ設定 10選",
       "url": "https://qiita.com/miruky/items/51db293a7a7d0d277a5d",
       "created_at": "2026-03-14T22:06:20+09:00",
-      "views": 180829,
+      "views": 180830,
       "likes": 555,
       "stocks": 566
     },
@@ -744,7 +744,7 @@
       "title": "【2026年最新版】結局最強のAIコーディングツールは？色々と比較して考えてみる",
       "url": "https://qiita.com/miruky/items/b200c3e6112a833cffd4",
       "created_at": "2026-03-12T22:16:44+09:00",
-      "views": 33733,
+      "views": 33734,
       "likes": 12,
       "stocks": 14
     },
@@ -825,7 +825,7 @@
       "title": "【Amazon Bedrock #3】Knowledge Bases（RAG）で社内データを活用したAIチャットを構築してみる",
       "url": "https://qiita.com/miruky/items/bcb3b01b858959aba8e1",
       "created_at": "2026-03-04T22:44:48+09:00",
-      "views": 4202,
+      "views": 4203,
       "likes": 0,
       "stocks": 4
     },
@@ -843,7 +843,7 @@
       "title": "【Amazon Bedrock #1】AWSの生成AI基盤「Amazon Bedrock」とは？",
       "url": "https://qiita.com/miruky/items/95c4fcd338b6bcfb6a5e",
       "created_at": "2026-03-02T22:21:49+09:00",
-      "views": 3474,
+      "views": 3475,
       "likes": 1,
       "stocks": 3
     },
