@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-23T18:40:24.006Z",
+  "updated_at": "2026-11-23T19:00:42.204Z",
   "articles": [
     {
       "id": "ad2d3afac7c0eba7a653",
@@ -312,7 +312,7 @@
       "title": "【徹底解説】セキュリティスペシャリストが教える、セキュアプログラミングの教科書",
       "url": "https://qiita.com/miruky/items/6fbb0c0e55835ea79e4d",
       "created_at": "2026-05-05T21:08:08+09:00",
-      "views": 144187,
+      "views": 144189,
       "likes": 349,
       "stocks": 446
     },
@@ -348,7 +348,7 @@
       "title": "【Amazon Comprehend #2〜#5】組み込み分析からBedrock連携まで一気に整理してみる",
       "url": "https://qiita.com/miruky/items/366ade10cd860a1013ae",
       "created_at": "2026-04-14T00:01:22+09:00",
-      "views": 2212,
+      "views": 2213,
       "likes": 0,
       "stocks": 2
     },
@@ -555,7 +555,7 @@
       "title": "Claude Codeの5つの習熟レベル。CLAUDE.mdで止まっている人が知らないSkills・Hooks・Orchestrationの世界について",
       "url": "https://qiita.com/miruky/items/43a6828c806a9ebcfdd1",
       "created_at": "2026-03-26T00:01:52+09:00",
-      "views": 44937,
+      "views": 44938,
       "likes": 169,
       "stocks": 188
     },
@@ -744,7 +744,7 @@
       "title": "【2026年最新版】結局最強のAIコーディングツールは？色々と比較して考えてみる",
       "url": "https://qiita.com/miruky/items/b200c3e6112a833cffd4",
       "created_at": "2026-03-12T22:16:44+09:00",
-      "views": 33730,
+      "views": 33731,
       "likes": 12,
       "stocks": 14
     },
