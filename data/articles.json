@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-11-24T12:28:35.532Z",
+  "updated_at": "2026-11-24T12:41:17.721Z",
   "articles": [
     {
       "id": "ad2d3afac7c0eba7a653",
       "title": "【Amazon Bedrock】プロンプトルーターで、問い合わせごとに答えるモデルを選ぶ仕組みを実装してみた",
       "url": "https://qiita.com/miruky/items/ad2d3afac7c0eba7a653",
       "created_at": "2026-11-23T11:05:55+09:00",
-      "views": 242,
+      "views": 243,
       "likes": 0,
       "stocks": 1
     },
@@ -24,7 +24,7 @@
       "title": "【AWS Emulator】AWS公式のローカルエミュレーターで、本格的なサーバーレスはどこまで動く？motoやFlociなど5つのOSSとも比べてみた",
       "url": "https://qiita.com/miruky/items/2b78a6f7b1e3ec8fe80d",
       "created_at": "2026-11-12T22:34:31+09:00",
-      "views": 1246,
+      "views": 1247,
       "likes": 0,
       "stocks": 1
     },
@@ -87,7 +87,7 @@
       "title": "【被害者は語る】タイムズカー660万件情報漏えいはなぜ起きたのかの矮小な考察",
       "url": "https://qiita.com/miruky/items/6577a57b9b62c8f97e11",
       "created_at": "2026-09-30T01:00:06+09:00",
-      "views": 74328,
+      "views": 74330,
       "likes": 69,
       "stocks": 48
     },
@@ -240,7 +240,7 @@
       "title": "【AWS Codeシリーズ】CI／CDの基礎から本番運用まで一気に整理して、AWS Codeシリーズをまとめてみた",
       "url": "https://qiita.com/miruky/items/da1e35453251e70222e5",
       "created_at": "2026-06-27T15:56:31+09:00",
-      "views": 4266,
+      "views": 4267,
       "likes": 8,
       "stocks": 12
     },
@@ -249,7 +249,7 @@
       "title": "ReactとかNext.jsとか、あたかも言語みたいな顔でこちらを見てくるJavaScript周辺技術をまとめてみた",
       "url": "https://qiita.com/miruky/items/b892d9ff73495ca4b68d",
       "created_at": "2026-06-16T23:46:52+09:00",
-      "views": 135169,
+      "views": 135171,
       "likes": 499,
       "stocks": 402
     },
@@ -303,7 +303,7 @@
       "title": "【エンジニアの教養】なぜかエンジニア界隈で有名な◯◯の法則的なやつをまとめてみた",
       "url": "https://qiita.com/miruky/items/cef8169b4a10cdd790b5",
       "created_at": "2026-05-11T17:19:23+09:00",
-      "views": 119464,
+      "views": 119465,
       "likes": 531,
       "stocks": 463
     },
@@ -321,7 +321,7 @@
       "title": "GWも勉強したい方向けに、よくオススメされる技術書をカテゴリ別にまとめてみた",
       "url": "https://qiita.com/miruky/items/c2df4f23d73a8e05f37f",
       "created_at": "2026-04-27T18:00:30+09:00",
-      "views": 97886,
+      "views": 97887,
       "likes": 215,
       "stocks": 234
     },
@@ -717,7 +717,7 @@
       "title": "【2026年最新版】Gemini CLIで行うべきセキュリティ設定 10選",
       "url": "https://qiita.com/miruky/items/3f091416cfbfbbff99eb",
       "created_at": "2026-03-14T22:34:59+09:00",
-      "views": 11863,
+      "views": 11864,
       "likes": 19,
       "stocks": 22
     },
@@ -744,7 +744,7 @@
       "title": "【2026年最新版】結局最強のAIコーディングツールは？色々と比較して考えてみる",
       "url": "https://qiita.com/miruky/items/b200c3e6112a833cffd4",
       "created_at": "2026-03-12T22:16:44+09:00",
-      "views": 33850,
+      "views": 33852,
       "likes": 12,
       "stocks": 14
     },
@@ -753,7 +753,7 @@
       "title": "コーディングが楽になったからこそ気をつけるべきセキュリティ",
       "url": "https://qiita.com/miruky/items/dfb3509ade7d4ad67b90",
       "created_at": "2026-03-11T23:53:12+09:00",
-      "views": 15164,
+      "views": 15165,
       "likes": 40,
       "stocks": 45
     },
@@ -942,7 +942,7 @@
       "title": "【25卒AWS12冠】新卒1年目が6ヶ月でAWS12冠を達成した話",
       "url": "https://qiita.com/miruky/items/3e9c8ea48085c6e5f978",
       "created_at": "2026-02-22T11:47:45+09:00",
-      "views": 7736,
+      "views": 7737,
       "likes": 32,
       "stocks": 21
     }
