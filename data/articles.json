@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-11-24T18:40:42.586Z",
+  "updated_at": "2026-11-24T19:00:46.904Z",
   "articles": [
     {
       "id": "ad2d3afac7c0eba7a653",
       "title": "【Amazon Bedrock】プロンプトルーターで、問い合わせごとに答えるモデルを選ぶ仕組みを実装してみた",
       "url": "https://qiita.com/miruky/items/ad2d3afac7c0eba7a653",
       "created_at": "2026-11-23T11:05:55+09:00",
-      "views": 251,
+      "views": 252,
       "likes": 0,
       "stocks": 1
     },
@@ -276,7 +276,7 @@
       "title": "ちょっと気になったので、決済サービス各社はカード情報をどう守っているのか調べてみた",
       "url": "https://qiita.com/miruky/items/b9d9dd83f33b4c837d63",
       "created_at": "2026-06-01T17:16:46+09:00",
-      "views": 46209,
+      "views": 46210,
       "likes": 59,
       "stocks": 68
     },
@@ -294,7 +294,7 @@
       "title": "【AWS】非機能要件「ログの保持とアーカイブ」でCloudWatch LogsのS3エクスポートを担当したら、最も簡単だと思っていた方法が意外と面倒だった話",
       "url": "https://qiita.com/miruky/items/a161a98bd6e68b9c3224",
       "created_at": "2026-05-22T22:13:59+09:00",
-      "views": 8463,
+      "views": 8464,
       "likes": 17,
       "stocks": 11
     },
@@ -312,7 +312,7 @@
       "title": "【徹底解説】セキュリティスペシャリストが教える、セキュアプログラミングの教科書",
       "url": "https://qiita.com/miruky/items/6fbb0c0e55835ea79e4d",
       "created_at": "2026-05-05T21:08:08+09:00",
-      "views": 144266,
+      "views": 144267,
       "likes": 349,
       "stocks": 446
     },
@@ -726,7 +726,7 @@
       "title": "【2026年最新版】Claude Codeで行うべきセキュリティ設定 10選",
       "url": "https://qiita.com/miruky/items/51db293a7a7d0d277a5d",
       "created_at": "2026-03-14T22:06:20+09:00",
-      "views": 180900,
+      "views": 180901,
       "likes": 555,
       "stocks": 566
     },
