@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-11-24T12:41:17.721Z",
+  "updated_at": "2026-11-24T13:00:50.307Z",
   "articles": [
     {
       "id": "ad2d3afac7c0eba7a653",
       "title": "【Amazon Bedrock】プロンプトルーターで、問い合わせごとに答えるモデルを選ぶ仕組みを実装してみた",
       "url": "https://qiita.com/miruky/items/ad2d3afac7c0eba7a653",
       "created_at": "2026-11-23T11:05:55+09:00",
-      "views": 243,
+      "views": 244,
       "likes": 0,
       "stocks": 1
     },
@@ -87,7 +87,7 @@
       "title": "【被害者は語る】タイムズカー660万件情報漏えいはなぜ起きたのかの矮小な考察",
       "url": "https://qiita.com/miruky/items/6577a57b9b62c8f97e11",
       "created_at": "2026-09-30T01:00:06+09:00",
-      "views": 74330,
+      "views": 74333,
       "likes": 69,
       "stocks": 48
     },
@@ -267,7 +267,7 @@
       "title": "週末なにしてますか？忙しいですか？非IT業界の友達に「燃える」が通じなかったので、IT業界の謎用語を教えてもらってもいいですか？",
       "url": "https://qiita.com/miruky/items/2d4fcb9ed4bee7ee25fe",
       "created_at": "2026-06-09T17:51:01+09:00",
-      "views": 125843,
+      "views": 125844,
       "likes": 202,
       "stocks": 150
     },
@@ -321,7 +321,7 @@
       "title": "GWも勉強したい方向けに、よくオススメされる技術書をカテゴリ別にまとめてみた",
       "url": "https://qiita.com/miruky/items/c2df4f23d73a8e05f37f",
       "created_at": "2026-04-27T18:00:30+09:00",
-      "views": 97887,
+      "views": 97889,
       "likes": 215,
       "stocks": 234
     },
@@ -672,7 +672,7 @@
       "title": "【2026年最新版】ローカルLLM（Ollama）で完全オフラインAI開発環境を作る",
       "url": "https://qiita.com/miruky/items/026aeee6b59f78df5e9d",
       "created_at": "2026-03-18T12:12:26+09:00",
-      "views": 76879,
+      "views": 76881,
       "likes": 90,
       "stocks": 94
     },
@@ -726,7 +726,7 @@
       "title": "【2026年最新版】Claude Codeで行うべきセキュリティ設定 10選",
       "url": "https://qiita.com/miruky/items/51db293a7a7d0d277a5d",
       "created_at": "2026-03-14T22:06:20+09:00",
-      "views": 180879,
+      "views": 180880,
       "likes": 555,
       "stocks": 566
     },
@@ -744,7 +744,7 @@
       "title": "【2026年最新版】結局最強のAIコーディングツールは？色々と比較して考えてみる",
       "url": "https://qiita.com/miruky/items/b200c3e6112a833cffd4",
       "created_at": "2026-03-12T22:16:44+09:00",
-      "views": 33852,
+      "views": 33855,
       "likes": 12,
       "stocks": 14
     },
