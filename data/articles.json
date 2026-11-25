@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-25T18:23:21.425Z",
+  "updated_at": "2026-11-25T18:40:28.479Z",
   "articles": [
     {
       "id": "ad2d3afac7c0eba7a653",
@@ -42,7 +42,7 @@
       "title": "【AWS】GitHub ActionsでCI/CDを実現する方法について",
       "url": "https://qiita.com/miruky/items/140bd48eda4b5f324353",
       "created_at": "2026-11-03T21:41:55+09:00",
-      "views": 320,
+      "views": 321,
       "likes": 0,
       "stocks": 0
     },
@@ -231,7 +231,7 @@
       "title": "【読書の夏？】各分野のおすすめ技術書を75冊まとめてみた",
       "url": "https://qiita.com/miruky/items/8b3e5908a24952c10783",
       "created_at": "2026-06-29T17:14:41+09:00",
-      "views": 57402,
+      "views": 57403,
       "likes": 129,
       "stocks": 140
     },
@@ -330,7 +330,7 @@
       "title": "【徹底解説】DBスペシャリストなりぞこないが教える、データベースの教科書（設計もあるよ）",
       "url": "https://qiita.com/miruky/items/f67bd754c1f7a5116a7c",
       "created_at": "2026-04-21T17:12:46+09:00",
-      "views": 123067,
+      "views": 123068,
       "likes": 259,
       "stocks": 282
     },
@@ -375,7 +375,7 @@
       "title": "MCP vs Skills論争に決着をつける試み。AIエージェントの「拡張手段」を実装・設計・セキュリティで徹底比較する",
       "url": "https://qiita.com/miruky/items/32314a0d9eb8c154dc95",
       "created_at": "2026-04-11T00:49:30+09:00",
-      "views": 19714,
+      "views": 19715,
       "likes": 21,
       "stocks": 21
     },
