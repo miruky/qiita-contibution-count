@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-25T19:00:45.922Z",
+  "updated_at": "2026-11-25T19:20:49.034Z",
   "articles": [
     {
       "id": "ad2d3afac7c0eba7a653",
@@ -294,7 +294,7 @@
       "title": "【AWS】非機能要件「ログの保持とアーカイブ」でCloudWatch LogsのS3エクスポートを担当したら、最も簡単だと思っていた方法が意外と面倒だった話",
       "url": "https://qiita.com/miruky/items/a161a98bd6e68b9c3224",
       "created_at": "2026-05-22T22:13:59+09:00",
-      "views": 8482,
+      "views": 8484,
       "likes": 17,
       "stocks": 11
     },
@@ -339,7 +339,7 @@
       "title": "【こわい】Google APIキーの脆弱性により13時間で約900万円請求される事案が発生！ Firebase×Geminiで今すぐやるべきセキュリティ対策",
       "url": "https://qiita.com/miruky/items/fde2d0747358cd7870d7",
       "created_at": "2026-04-17T19:29:09+09:00",
-      "views": 138079,
+      "views": 138080,
       "likes": 287,
       "stocks": 217
     },
@@ -348,7 +348,7 @@
       "title": "【Amazon Comprehend #2〜#5】組み込み分析からBedrock連携まで一気に整理してみる",
       "url": "https://qiita.com/miruky/items/366ade10cd860a1013ae",
       "created_at": "2026-04-14T00:01:22+09:00",
-      "views": 2218,
+      "views": 2219,
       "likes": 0,
       "stocks": 2
     },
@@ -393,7 +393,7 @@
       "title": "【S3 Files】S3バケットをそのままマウントできる新機能「S3 Files」の仕組みと使い方",
       "url": "https://qiita.com/miruky/items/950169db886545fe8bef",
       "created_at": "2026-04-09T23:19:51+09:00",
-      "views": 7233,
+      "views": 7234,
       "likes": 5,
       "stocks": 7
     },
@@ -402,7 +402,7 @@
       "title": "GitHub Copilotのドキュメントを全部読んだので、本当に使えるカスタマイズだけ10個まとめた",
       "url": "https://qiita.com/miruky/items/26dfbc0ee7492ed12ba6",
       "created_at": "2026-04-09T19:28:07+09:00",
-      "views": 14132,
+      "views": 14133,
       "likes": 32,
       "stocks": 38
     },
@@ -447,7 +447,7 @@
       "title": "Googleが提唱したDESIGN.mdとは？Claude CodeとDESIGN.mdでデモサイトをいくつか作ってみた",
       "url": "https://qiita.com/miruky/items/a6312c14e6352376ec00",
       "created_at": "2026-04-04T20:24:53+09:00",
-      "views": 29740,
+      "views": 29741,
       "likes": 58,
       "stocks": 55
     },
@@ -456,7 +456,7 @@
       "title": "【コマンド集】LPIC-3 303 Security 試験対策まとめ！全トピック解説（V3.0対応）",
       "url": "https://qiita.com/miruky/items/ee4286cb7d9d79a321e0",
       "created_at": "2026-04-04T00:06:11+09:00",
-      "views": 2733,
+      "views": 2734,
       "likes": 2,
       "stocks": 7
     },
@@ -501,7 +501,7 @@
       "title": "【Amazon Lex #5】Lexの音声認識精度を高めるテクニックを試してみる",
       "url": "https://qiita.com/miruky/items/908a21cad0fbcc2362f4",
       "created_at": "2026-03-30T21:07:56+09:00",
-      "views": 1481,
+      "views": 1482,
       "likes": 1,
       "stocks": 3
     },
@@ -744,7 +744,7 @@
       "title": "【2026年最新版】結局最強のAIコーディングツールは？色々と比較して考えてみる",
       "url": "https://qiita.com/miruky/items/b200c3e6112a833cffd4",
       "created_at": "2026-03-12T22:16:44+09:00",
-      "views": 33981,
+      "views": 33982,
       "likes": 12,
       "stocks": 14
     },
@@ -843,7 +843,7 @@
       "title": "【Amazon Bedrock #1】AWSの生成AI基盤「Amazon Bedrock」とは？",
       "url": "https://qiita.com/miruky/items/95c4fcd338b6bcfb6a5e",
       "created_at": "2026-03-02T22:21:49+09:00",
-      "views": 3493,
+      "views": 3494,
       "likes": 1,
       "stocks": 3
     },
