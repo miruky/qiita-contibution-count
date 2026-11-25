@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-11-25T21:40:21.737Z",
+  "updated_at": "2026-11-25T22:00:44.684Z",
   "articles": [
     {
       "id": "ad2d3afac7c0eba7a653",
       "title": "【Amazon Bedrock】プロンプトルーターで、問い合わせごとに答えるモデルを選ぶ仕組みを実装してみた",
       "url": "https://qiita.com/miruky/items/ad2d3afac7c0eba7a653",
       "created_at": "2026-11-23T11:05:55+09:00",
-      "views": 286,
+      "views": 287,
       "likes": 0,
       "stocks": 1
     },
@@ -87,7 +87,7 @@
       "title": "【被害者は語る】タイムズカー660万件情報漏えいはなぜ起きたのかの矮小な考察",
       "url": "https://qiita.com/miruky/items/6577a57b9b62c8f97e11",
       "created_at": "2026-09-30T01:00:06+09:00",
-      "views": 74461,
+      "views": 74462,
       "likes": 69,
       "stocks": 48
     },
@@ -204,7 +204,7 @@
       "title": "【徹底解説】文系でもわかる！機械学習に入門しよう",
       "url": "https://qiita.com/miruky/items/42b892805eb1d754109c",
       "created_at": "2026-07-18T17:14:07+09:00",
-      "views": 51558,
+      "views": 51559,
       "likes": 61,
       "stocks": 78
     },
@@ -303,7 +303,7 @@
       "title": "【エンジニアの教養】なぜかエンジニア界隈で有名な◯◯の法則的なやつをまとめてみた",
       "url": "https://qiita.com/miruky/items/cef8169b4a10cdd790b5",
       "created_at": "2026-05-11T17:19:23+09:00",
-      "views": 119532,
+      "views": 119533,
       "likes": 531,
       "stocks": 463
     },
@@ -375,7 +375,7 @@
       "title": "MCP vs Skills論争に決着をつける試み。AIエージェントの「拡張手段」を実装・設計・セキュリティで徹底比較する",
       "url": "https://qiita.com/miruky/items/32314a0d9eb8c154dc95",
       "created_at": "2026-04-11T00:49:30+09:00",
-      "views": 19719,
+      "views": 19722,
       "likes": 21,
       "stocks": 21
     },
@@ -744,7 +744,7 @@
       "title": "【2026年最新版】結局最強のAIコーディングツールは？色々と比較して考えてみる",
       "url": "https://qiita.com/miruky/items/b200c3e6112a833cffd4",
       "created_at": "2026-03-12T22:16:44+09:00",
-      "views": 33985,
+      "views": 33987,
       "likes": 12,
       "stocks": 14
     },
