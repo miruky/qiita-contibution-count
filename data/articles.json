@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-25T19:40:30.075Z",
+  "updated_at": "2026-11-25T20:00:51.913Z",
   "articles": [
     {
       "id": "ad2d3afac7c0eba7a653",
@@ -231,7 +231,7 @@
       "title": "【読書の夏？】各分野のおすすめ技術書を75冊まとめてみた",
       "url": "https://qiita.com/miruky/items/8b3e5908a24952c10783",
       "created_at": "2026-06-29T17:14:41+09:00",
-      "views": 57403,
+      "views": 57404,
       "likes": 129,
       "stocks": 140
     },
@@ -267,7 +267,7 @@
       "title": "週末なにしてますか？忙しいですか？非IT業界の友達に「燃える」が通じなかったので、IT業界の謎用語を教えてもらってもいいですか？",
       "url": "https://qiita.com/miruky/items/2d4fcb9ed4bee7ee25fe",
       "created_at": "2026-06-09T17:51:01+09:00",
-      "views": 125879,
+      "views": 125880,
       "likes": 202,
       "stocks": 150
     },
@@ -402,7 +402,7 @@
       "title": "GitHub Copilotのドキュメントを全部読んだので、本当に使えるカスタマイズだけ10個まとめた",
       "url": "https://qiita.com/miruky/items/26dfbc0ee7492ed12ba6",
       "created_at": "2026-04-09T19:28:07+09:00",
-      "views": 14133,
+      "views": 14134,
       "likes": 32,
       "stocks": 38
     },
@@ -411,7 +411,7 @@
       "title": "【Amazon Lex #6】Amazon Connectを活用してLexの文字起こし精度を向上させてみる",
       "url": "https://qiita.com/miruky/items/634cc382e82ac00a65d8",
       "created_at": "2026-04-08T22:43:48+09:00",
-      "views": 2163,
+      "views": 2164,
       "likes": 2,
       "stocks": 2
     },
@@ -555,7 +555,7 @@
       "title": "Claude Codeの5つの習熟レベル。CLAUDE.mdで止まっている人が知らないSkills・Hooks・Orchestrationの世界について",
       "url": "https://qiita.com/miruky/items/43a6828c806a9ebcfdd1",
       "created_at": "2026-03-26T00:01:52+09:00",
-      "views": 45021,
+      "views": 45022,
       "likes": 169,
       "stocks": 188
     },
@@ -600,7 +600,7 @@
       "title": "シンギュラリティとエンジニア 、我々はどう生きるべきかをネオサイバネティクスから考える",
       "url": "https://qiita.com/miruky/items/2023621da88f643d66e6",
       "created_at": "2026-03-23T00:03:11+09:00",
-      "views": 5942,
+      "views": 5943,
       "likes": 9,
       "stocks": 9
     },
@@ -744,7 +744,7 @@
       "title": "【2026年最新版】結局最強のAIコーディングツールは？色々と比較して考えてみる",
       "url": "https://qiita.com/miruky/items/b200c3e6112a833cffd4",
       "created_at": "2026-03-12T22:16:44+09:00",
-      "views": 33982,
+      "views": 33984,
       "likes": 12,
       "stocks": 14
     },
@@ -789,7 +789,7 @@
       "title": "【Amazon Bedrock #7】AgentCore応用編！Stateful Runtimeとメモリ機能で高度なエージェントを実現する",
       "url": "https://qiita.com/miruky/items/739be976519c97b17500",
       "created_at": "2026-03-09T09:54:05+09:00",
-      "views": 2795,
+      "views": 2796,
       "likes": 1,
       "stocks": 5
     },
