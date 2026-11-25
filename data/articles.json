@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-11-25T00:41:41.716Z",
+  "updated_at": "2026-11-25T01:00:52.904Z",
   "articles": [
     {
       "id": "ad2d3afac7c0eba7a653",
       "title": "【Amazon Bedrock】プロンプトルーターで、問い合わせごとに答えるモデルを選ぶ仕組みを実装してみた",
       "url": "https://qiita.com/miruky/items/ad2d3afac7c0eba7a653",
       "created_at": "2026-11-23T11:05:55+09:00",
-      "views": 260,
+      "views": 261,
       "likes": 0,
       "stocks": 1
     },
@@ -15,7 +15,7 @@
       "title": "【これ1本でわかる】AIが動くハーネスの整え方と育て方を、実物のリポジトリでまとめてみた",
       "url": "https://qiita.com/miruky/items/0e16e9ddc811e13d6b04",
       "created_at": "2026-11-16T01:13:39+09:00",
-      "views": 594,
+      "views": 595,
       "likes": 1,
       "stocks": 0
     },
@@ -33,7 +33,7 @@
       "title": "【やさしく】CORSについて理解する",
       "url": "https://qiita.com/miruky/items/09cdd3d53bc9e96e92ce",
       "created_at": "2026-11-09T23:04:54+09:00",
-      "views": 406,
+      "views": 407,
       "likes": 0,
       "stocks": 0
     },
@@ -42,7 +42,7 @@
       "title": "【AWS】GitHub ActionsでCI/CDを実現する方法について",
       "url": "https://qiita.com/miruky/items/140bd48eda4b5f324353",
       "created_at": "2026-11-03T21:41:55+09:00",
-      "views": 313,
+      "views": 314,
       "likes": 0,
       "stocks": 0
     },
@@ -51,7 +51,7 @@
       "title": "インフラエンジニアのためのGo言語入門",
       "url": "https://qiita.com/miruky/items/972687e62d93d865f981",
       "created_at": "2026-10-27T22:08:54+09:00",
-      "views": 433,
+      "views": 434,
       "likes": 1,
       "stocks": 0
     },
@@ -78,7 +78,7 @@
       "title": "【AWS】ぼくのかんがえた集計の障害と復旧に備えたサーバレス注文受付システム",
       "url": "https://qiita.com/miruky/items/8d4904e11be0be4a56f1",
       "created_at": "2026-10-07T23:47:32+09:00",
-      "views": 296,
+      "views": 297,
       "likes": 0,
       "stocks": 0
     },
@@ -87,7 +87,7 @@
       "title": "【被害者は語る】タイムズカー660万件情報漏えいはなぜ起きたのかの矮小な考察",
       "url": "https://qiita.com/miruky/items/6577a57b9b62c8f97e11",
       "created_at": "2026-09-30T01:00:06+09:00",
-      "views": 74363,
+      "views": 74365,
       "likes": 69,
       "stocks": 48
     },
@@ -96,7 +96,7 @@
       "title": "【まとめ】AI駆動系の◯◯エンジニアリングが多いので、ここらで一旦整理しましょう",
       "url": "https://qiita.com/miruky/items/4a8a7f456e68e9965a12",
       "created_at": "2026-09-22T20:42:26+09:00",
-      "views": 8769,
+      "views": 8771,
       "likes": 6,
       "stocks": 7
     },
@@ -105,7 +105,7 @@
       "title": "Pythonの環境構築に出てくるpipとかvenvとか、最初は名前と役割が一致しない名脇役をまとめてみた",
       "url": "https://qiita.com/miruky/items/c4a7ffd2ecfa93b16dfe",
       "created_at": "2026-09-19T18:58:18+09:00",
-      "views": 496,
+      "views": 497,
       "likes": 0,
       "stocks": 4
     },
@@ -114,7 +114,7 @@
       "title": "【AWS Step Functions】Step Functions？ステートマシン？全体像から実際のハンズオンまで一気に理解しましょう",
       "url": "https://qiita.com/miruky/items/3d61654687017d44bf48",
       "created_at": "2026-09-11T13:16:28+09:00",
-      "views": 831,
+      "views": 833,
       "likes": 0,
       "stocks": 0
     },
@@ -195,7 +195,7 @@
       "title": "【小ネタ】芸能人のXポスト時刻が1992年に飛んだ？整数オーバーフローが起こす時刻バグ",
       "url": "https://qiita.com/miruky/items/4be4d7e683632ba8c396",
       "created_at": "2026-07-23T23:58:14+09:00",
-      "views": 14353,
+      "views": 14355,
       "likes": 13,
       "stocks": 12
     },
@@ -240,7 +240,7 @@
       "title": "【AWS Codeシリーズ】CI／CDの基礎から本番運用まで一気に整理して、AWS Codeシリーズをまとめてみた",
       "url": "https://qiita.com/miruky/items/da1e35453251e70222e5",
       "created_at": "2026-06-27T15:56:31+09:00",
-      "views": 4271,
+      "views": 4272,
       "likes": 8,
       "stocks": 12
     },
@@ -267,7 +267,7 @@
       "title": "週末なにしてますか？忙しいですか？非IT業界の友達に「燃える」が通じなかったので、IT業界の謎用語を教えてもらってもいいですか？",
       "url": "https://qiita.com/miruky/items/2d4fcb9ed4bee7ee25fe",
       "created_at": "2026-06-09T17:51:01+09:00",
-      "views": 125854,
+      "views": 125855,
       "likes": 202,
       "stocks": 150
     },
@@ -294,7 +294,7 @@
       "title": "【AWS】非機能要件「ログの保持とアーカイブ」でCloudWatch LogsのS3エクスポートを担当したら、最も簡単だと思っていた方法が意外と面倒だった話",
       "url": "https://qiita.com/miruky/items/a161a98bd6e68b9c3224",
       "created_at": "2026-05-22T22:13:59+09:00",
-      "views": 8469,
+      "views": 8471,
       "likes": 17,
       "stocks": 11
     },
@@ -303,7 +303,7 @@
       "title": "【エンジニアの教養】なぜかエンジニア界隈で有名な◯◯の法則的なやつをまとめてみた",
       "url": "https://qiita.com/miruky/items/cef8169b4a10cdd790b5",
       "created_at": "2026-05-11T17:19:23+09:00",
-      "views": 119487,
+      "views": 119488,
       "likes": 531,
       "stocks": 463
     },
@@ -330,7 +330,7 @@
       "title": "【徹底解説】DBスペシャリストなりぞこないが教える、データベースの教科書（設計もあるよ）",
       "url": "https://qiita.com/miruky/items/f67bd754c1f7a5116a7c",
       "created_at": "2026-04-21T17:12:46+09:00",
-      "views": 123038,
+      "views": 123039,
       "likes": 259,
       "stocks": 282
     },
@@ -402,7 +402,7 @@
       "title": "GitHub Copilotのドキュメントを全部読んだので、本当に使えるカスタマイズだけ10個まとめた",
       "url": "https://qiita.com/miruky/items/26dfbc0ee7492ed12ba6",
       "created_at": "2026-04-09T19:28:07+09:00",
-      "views": 14098,
+      "views": 14102,
       "likes": 32,
       "stocks": 38
     },
@@ -429,7 +429,7 @@
       "title": "AIが脆弱性を見つけ、AIが脆弱性を突く時代ですね",
       "url": "https://qiita.com/miruky/items/9e829b29c07f0f03dd4e",
       "created_at": "2026-04-07T00:06:43+09:00",
-      "views": 4668,
+      "views": 4669,
       "likes": 11,
       "stocks": 9
     },
@@ -447,7 +447,7 @@
       "title": "Googleが提唱したDESIGN.mdとは？Claude CodeとDESIGN.mdでデモサイトをいくつか作ってみた",
       "url": "https://qiita.com/miruky/items/a6312c14e6352376ec00",
       "created_at": "2026-04-04T20:24:53+09:00",
-      "views": 29715,
+      "views": 29717,
       "likes": 58,
       "stocks": 55
     },
@@ -537,7 +537,7 @@
       "title": "DDoS攻撃でAWS請求が200万円に！S3・CloudFrontで絶対やるべきコスト爆発防止策 6選",
       "url": "https://qiita.com/miruky/items/b996e374c91923141178",
       "created_at": "2026-03-27T00:01:05+09:00",
-      "views": 51290,
+      "views": 51291,
       "likes": 145,
       "stocks": 140
     },
@@ -573,7 +573,7 @@
       "title": "【AWS全冠】今こそ振り返ろう！AWS主要100サービスの概要まとめ",
       "url": "https://qiita.com/miruky/items/a68b605e44c25d8287a6",
       "created_at": "2026-03-25T00:06:46+09:00",
-      "views": 7675,
+      "views": 7678,
       "likes": 10,
       "stocks": 13
     },
@@ -618,7 +618,7 @@
       "title": "ハーネスエンジニアリングとは何か ── コンテキストエンジニアリングの次のパラダイム",
       "url": "https://qiita.com/miruky/items/155f3b5a0dcde72fcd10",
       "created_at": "2026-03-21T18:19:07+09:00",
-      "views": 43988,
+      "views": 43989,
       "likes": 104,
       "stocks": 93
     },
@@ -672,7 +672,7 @@
       "title": "【2026年最新版】ローカルLLM（Ollama）で完全オフラインAI開発環境を作る",
       "url": "https://qiita.com/miruky/items/026aeee6b59f78df5e9d",
       "created_at": "2026-03-18T12:12:26+09:00",
-      "views": 76945,
+      "views": 76953,
       "likes": 90,
       "stocks": 94
     },
@@ -726,7 +726,7 @@
       "title": "【2026年最新版】Claude Codeで行うべきセキュリティ設定 10選",
       "url": "https://qiita.com/miruky/items/51db293a7a7d0d277a5d",
       "created_at": "2026-03-14T22:06:20+09:00",
-      "views": 180913,
+      "views": 180914,
       "likes": 555,
       "stocks": 566
     },
@@ -744,7 +744,7 @@
       "title": "【2026年最新版】結局最強のAIコーディングツールは？色々と比較して考えてみる",
       "url": "https://qiita.com/miruky/items/b200c3e6112a833cffd4",
       "created_at": "2026-03-12T22:16:44+09:00",
-      "views": 33890,
+      "views": 33891,
       "likes": 12,
       "stocks": 14
     },
@@ -816,7 +816,7 @@
       "title": "【Amazon Bedrock #4】Bedrock Agentsで業務を自動化するAIエージェントを作ってみる",
       "url": "https://qiita.com/miruky/items/ba487b748831b4f8ae62",
       "created_at": "2026-03-05T19:56:16+09:00",
-      "views": 2318,
+      "views": 2319,
       "likes": 0,
       "stocks": 3
     },
@@ -825,7 +825,7 @@
       "title": "【Amazon Bedrock #3】Knowledge Bases（RAG）で社内データを活用したAIチャットを構築してみる",
       "url": "https://qiita.com/miruky/items/bcb3b01b858959aba8e1",
       "created_at": "2026-03-04T22:44:48+09:00",
-      "views": 4215,
+      "views": 4216,
       "likes": 0,
       "stocks": 4
     },
@@ -834,7 +834,7 @@
       "title": "【Amazon Bedrock #2】Claudeをプレイグラウンドで試してみよう",
       "url": "https://qiita.com/miruky/items/eafdc2ea5b9738f9152a",
       "created_at": "2026-03-03T21:32:27+09:00",
-      "views": 3094,
+      "views": 3095,
       "likes": 0,
       "stocks": 4
     },
@@ -843,7 +843,7 @@
       "title": "【Amazon Bedrock #1】AWSの生成AI基盤「Amazon Bedrock」とは？",
       "url": "https://qiita.com/miruky/items/95c4fcd338b6bcfb6a5e",
       "created_at": "2026-03-02T22:21:49+09:00",
-      "views": 3486,
+      "views": 3487,
       "likes": 1,
       "stocks": 3
     },
@@ -852,7 +852,7 @@
       "title": "【Amazon Connect #5】2025年のAWS re:Inventで発表されたAWS最新のAIエージェント機能、「オーケストレーションタイプ」を使ってみる",
       "url": "https://qiita.com/miruky/items/1b1666032b961c34068c",
       "created_at": "2026-02-28T15:15:49+09:00",
-      "views": 2779,
+      "views": 2780,
       "likes": 2,
       "stocks": 5
     },
@@ -861,7 +861,7 @@
       "title": "【Amazon Connect #4】Bedrock Converse API（Claude Sonnet 4.6使用）で通話をAIがリアルタイム分析するシステムを構築してみる",
       "url": "https://qiita.com/miruky/items/8d0a72a36d8d3cda7233",
       "created_at": "2026-02-27T19:50:38+09:00",
-      "views": 2023,
+      "views": 2024,
       "likes": 0,
       "stocks": 4
     },
@@ -870,7 +870,7 @@
       "title": "【Amazon Connect #3】自然言語×Bedrockナレッジベース（RAG）を用いた本格的なAIコンタクトセンターを構築してみる",
       "url": "https://qiita.com/miruky/items/63bf639c3f1e1356bccb",
       "created_at": "2026-02-26T18:38:56+09:00",
-      "views": 2333,
+      "views": 2334,
       "likes": 0,
       "stocks": 3
     },
@@ -879,7 +879,7 @@
       "title": "【Amazon Connect #2】コンタクトフローを作成してみよう",
       "url": "https://qiita.com/miruky/items/df75f9a506c2feba34e0",
       "created_at": "2026-02-25T19:22:27+09:00",
-      "views": 2074,
+      "views": 2075,
       "likes": 2,
       "stocks": 5
     },
@@ -888,7 +888,7 @@
       "title": "【Amazon Connect #1】AIコンタクトセンターを構築できるサービス、Amazon Connectとは？",
       "url": "https://qiita.com/miruky/items/73b021d6ad5c83124665",
       "created_at": "2026-02-24T21:50:13+09:00",
-      "views": 2581,
+      "views": 2582,
       "likes": 2,
       "stocks": 4
     },
@@ -897,7 +897,7 @@
       "title": "【AWS End User Messaging SMS #4】SMSのサンドボックス解除申請と1$制限の緩和申請方法",
       "url": "https://qiita.com/miruky/items/dcc598438ede59bcd090",
       "created_at": "2026-02-24T18:55:33+09:00",
-      "views": 2909,
+      "views": 2910,
       "likes": 1,
       "stocks": 3
     },
@@ -933,7 +933,7 @@
       "title": "【AWS End User Messaging SMS #1】SMS送信の新たな選択肢、AWS End User Messaging SMSとは？",
       "url": "https://qiita.com/miruky/items/9c38108e61062301630c",
       "created_at": "2026-02-22T18:10:25+09:00",
-      "views": 4359,
+      "views": 4360,
       "likes": 2,
       "stocks": 4
     },
