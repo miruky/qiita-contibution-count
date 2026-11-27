@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-27T19:20:56.930Z",
+  "updated_at": "2026-11-27T19:40:27.744Z",
   "articles": [
     {
       "id": "84f899bacc92ec7a94af",
@@ -96,7 +96,7 @@
       "title": "【被害者は語る】タイムズカー660万件情報漏えいはなぜ起きたのかの矮小な考察",
       "url": "https://qiita.com/miruky/items/6577a57b9b62c8f97e11",
       "created_at": "2026-09-30T01:00:06+09:00",
-      "views": 74645,
+      "views": 74647,
       "likes": 69,
       "stocks": 48
     },
@@ -330,7 +330,7 @@
       "title": "GWも勉強したい方向けに、よくオススメされる技術書をカテゴリ別にまとめてみた",
       "url": "https://qiita.com/miruky/items/c2df4f23d73a8e05f37f",
       "created_at": "2026-04-27T18:00:30+09:00",
-      "views": 97936,
+      "views": 97937,
       "likes": 215,
       "stocks": 234
     },
@@ -384,7 +384,7 @@
       "title": "MCP vs Skills論争に決着をつける試み。AIエージェントの「拡張手段」を実装・設計・セキュリティで徹底比較する",
       "url": "https://qiita.com/miruky/items/32314a0d9eb8c154dc95",
       "created_at": "2026-04-11T00:49:30+09:00",
-      "views": 19751,
+      "views": 19752,
       "likes": 21,
       "stocks": 21
     },
@@ -429,7 +429,7 @@
       "title": "Claude Mythos（ミトス）？謎のプロジェクト、Project Glasswingについても調べました",
       "url": "https://qiita.com/miruky/items/6b5def7306d78cca4991",
       "created_at": "2026-04-08T22:43:07+09:00",
-      "views": 12841,
+      "views": 12842,
       "likes": 14,
       "stocks": 9
     },
@@ -564,7 +564,7 @@
       "title": "Claude Codeの5つの習熟レベル。CLAUDE.mdで止まっている人が知らないSkills・Hooks・Orchestrationの世界について",
       "url": "https://qiita.com/miruky/items/43a6828c806a9ebcfdd1",
       "created_at": "2026-03-26T00:01:52+09:00",
-      "views": 45121,
+      "views": 45122,
       "likes": 169,
       "stocks": 188
     },
@@ -636,7 +636,7 @@
       "title": "【2026年最新版】Claude Code Skills実践テクニック 10選",
       "url": "https://qiita.com/miruky/items/3ebe56edd76f7cddfd47",
       "created_at": "2026-03-21T00:18:37+09:00",
-      "views": 21260,
+      "views": 21261,
       "likes": 56,
       "stocks": 72
     },
@@ -744,7 +744,7 @@
       "title": "米国で話題のRAGのセキュリティ脅威についてまとめてみた",
       "url": "https://qiita.com/miruky/items/3c98999786c7dbd2b26a",
       "created_at": "2026-03-13T18:21:20+09:00",
-      "views": 34822,
+      "views": 34823,
       "likes": 59,
       "stocks": 55
     },
