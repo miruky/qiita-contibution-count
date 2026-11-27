@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-11-27T20:21:40.291Z",
+  "updated_at": "2026-11-27T20:40:36.733Z",
   "articles": [
     {
       "id": "84f899bacc92ec7a94af",
       "title": "【Amazon Inspector】脆弱性が見つかったら勝手に直ってほしいので、EC2もLambdaもFargateも自動で直してみた",
       "url": "https://qiita.com/miruky/items/84f899bacc92ec7a94af",
       "created_at": "2026-11-27T00:55:18+09:00",
-      "views": 128,
+      "views": 130,
       "likes": 0,
       "stocks": 0
     },
@@ -96,7 +96,7 @@
       "title": "【被害者は語る】タイムズカー660万件情報漏えいはなぜ起きたのかの矮小な考察",
       "url": "https://qiita.com/miruky/items/6577a57b9b62c8f97e11",
       "created_at": "2026-09-30T01:00:06+09:00",
-      "views": 74647,
+      "views": 74648,
       "likes": 69,
       "stocks": 48
     },
@@ -564,7 +564,7 @@
       "title": "Claude Codeの5つの習熟レベル。CLAUDE.mdで止まっている人が知らないSkills・Hooks・Orchestrationの世界について",
       "url": "https://qiita.com/miruky/items/43a6828c806a9ebcfdd1",
       "created_at": "2026-03-26T00:01:52+09:00",
-      "views": 45123,
+      "views": 45124,
       "likes": 169,
       "stocks": 188
     },
