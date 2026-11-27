@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-11-27T03:00:47.785Z",
+  "updated_at": "2026-11-27T03:24:38.340Z",
   "articles": [
     {
       "id": "84f899bacc92ec7a94af",
       "title": "【Amazon Inspector】脆弱性が見つかったら勝手に直ってほしいので、EC2もLambdaもFargateも自動で直してみた",
       "url": "https://qiita.com/miruky/items/84f899bacc92ec7a94af",
       "created_at": "2026-11-27T00:55:18+09:00",
-      "views": 98,
+      "views": 99,
       "likes": 0,
       "stocks": 0
     },
@@ -15,7 +15,7 @@
       "title": "【Amazon Bedrock】プロンプトルーターで、問い合わせごとに答えるモデルを選ぶ仕組みを実装してみた",
       "url": "https://qiita.com/miruky/items/ad2d3afac7c0eba7a653",
       "created_at": "2026-11-23T11:05:55+09:00",
-      "views": 325,
+      "views": 326,
       "likes": 0,
       "stocks": 1
     },
@@ -33,7 +33,7 @@
       "title": "【AWS Emulator】AWS公式のローカルエミュレーターで、本格的なサーバーレスはどこまで動く？motoやFlociなど5つのOSSとも比べてみた",
       "url": "https://qiita.com/miruky/items/2b78a6f7b1e3ec8fe80d",
       "created_at": "2026-11-12T22:34:31+09:00",
-      "views": 1377,
+      "views": 1378,
       "likes": 0,
       "stocks": 1
     },
@@ -51,7 +51,7 @@
       "title": "【AWS】GitHub ActionsでCI/CDを実現する方法について",
       "url": "https://qiita.com/miruky/items/140bd48eda4b5f324353",
       "created_at": "2026-11-03T21:41:55+09:00",
-      "views": 324,
+      "views": 331,
       "likes": 0,
       "stocks": 0
     },
@@ -78,7 +78,7 @@
       "title": "【徹底解説】API設計入門！仕組みやOpenAPI、リクエストとレスポンスまで確かめつつ学びましょう",
       "url": "https://qiita.com/miruky/items/6811f43accb10f41c97c",
       "created_at": "2026-10-12T17:35:37+09:00",
-      "views": 469,
+      "views": 470,
       "likes": 0,
       "stocks": 2
     },
@@ -96,7 +96,7 @@
       "title": "【被害者は語る】タイムズカー660万件情報漏えいはなぜ起きたのかの矮小な考察",
       "url": "https://qiita.com/miruky/items/6577a57b9b62c8f97e11",
       "created_at": "2026-09-30T01:00:06+09:00",
-      "views": 74587,
+      "views": 74588,
       "likes": 69,
       "stocks": 48
     },
@@ -213,7 +213,7 @@
       "title": "【徹底解説】文系でもわかる！機械学習に入門しよう",
       "url": "https://qiita.com/miruky/items/42b892805eb1d754109c",
       "created_at": "2026-07-18T17:14:07+09:00",
-      "views": 51582,
+      "views": 51583,
       "likes": 61,
       "stocks": 78
     },
@@ -258,7 +258,7 @@
       "title": "ReactとかNext.jsとか、あたかも言語みたいな顔でこちらを見てくるJavaScript周辺技術をまとめてみた",
       "url": "https://qiita.com/miruky/items/b892d9ff73495ca4b68d",
       "created_at": "2026-06-16T23:46:52+09:00",
-      "views": 135278,
+      "views": 135280,
       "likes": 499,
       "stocks": 402
     },
@@ -267,7 +267,7 @@
       "title": "【解説】実際の値をもとに、ベクトル化などのRAGの仕組みを根本から理解しましょう",
       "url": "https://qiita.com/miruky/items/c3d6277ff99afb214b19",
       "created_at": "2026-06-13T23:05:19+09:00",
-      "views": 86678,
+      "views": 86684,
       "likes": 87,
       "stocks": 120
     },
@@ -312,7 +312,7 @@
       "title": "【エンジニアの教養】なぜかエンジニア界隈で有名な◯◯の法則的なやつをまとめてみた",
       "url": "https://qiita.com/miruky/items/cef8169b4a10cdd790b5",
       "created_at": "2026-05-11T17:19:23+09:00",
-      "views": 119609,
+      "views": 119611,
       "likes": 531,
       "stocks": 463
     },
@@ -321,7 +321,7 @@
       "title": "【徹底解説】セキュリティスペシャリストが教える、セキュアプログラミングの教科書",
       "url": "https://qiita.com/miruky/items/6fbb0c0e55835ea79e4d",
       "created_at": "2026-05-05T21:08:08+09:00",
-      "views": 144392,
+      "views": 144393,
       "likes": 348,
       "stocks": 446
     },
@@ -564,7 +564,7 @@
       "title": "Claude Codeの5つの習熟レベル。CLAUDE.mdで止まっている人が知らないSkills・Hooks・Orchestrationの世界について",
       "url": "https://qiita.com/miruky/items/43a6828c806a9ebcfdd1",
       "created_at": "2026-03-26T00:01:52+09:00",
-      "views": 45089,
+      "views": 45091,
       "likes": 169,
       "stocks": 188
     },
@@ -618,7 +618,7 @@
       "title": "OpenCode vs Claude Code、ファイ！！ OSSコーディングエージェントの実力を検証してみた",
       "url": "https://qiita.com/miruky/items/293ad0d3bc4d0cc41b08",
       "created_at": "2026-03-22T00:04:45+09:00",
-      "views": 13864,
+      "views": 13865,
       "likes": 12,
       "stocks": 17
     },
@@ -627,7 +627,7 @@
       "title": "ハーネスエンジニアリングとは何か ── コンテキストエンジニアリングの次のパラダイム",
       "url": "https://qiita.com/miruky/items/155f3b5a0dcde72fcd10",
       "created_at": "2026-03-21T18:19:07+09:00",
-      "views": 44114,
+      "views": 44115,
       "likes": 105,
       "stocks": 93
     },
@@ -699,7 +699,7 @@
       "title": "MCPサーバーを自作して、Claude CodeにDBを直接触らせてみよっと",
       "url": "https://qiita.com/miruky/items/ea9c7e6d882502cbbf7c",
       "created_at": "2026-03-17T18:50:45+09:00",
-      "views": 2482,
+      "views": 2483,
       "likes": 9,
       "stocks": 9
     },
@@ -708,7 +708,7 @@
       "title": "Claude Code 知らないと損するコマンド・時短術 20選",
       "url": "https://qiita.com/miruky/items/48ede59ebe33b4b774ac",
       "created_at": "2026-03-16T13:00:11+09:00",
-      "views": 62589,
+      "views": 62590,
       "likes": 235,
       "stocks": 236
     },
@@ -735,7 +735,7 @@
       "title": "【2026年最新版】Claude Codeで行うべきセキュリティ設定 10選",
       "url": "https://qiita.com/miruky/items/51db293a7a7d0d277a5d",
       "created_at": "2026-03-14T22:06:20+09:00",
-      "views": 181103,
+      "views": 181105,
       "likes": 555,
       "stocks": 566
     },
@@ -753,7 +753,7 @@
       "title": "【2026年最新版】結局最強のAIコーディングツールは？色々と比較して考えてみる",
       "url": "https://qiita.com/miruky/items/b200c3e6112a833cffd4",
       "created_at": "2026-03-12T22:16:44+09:00",
-      "views": 34127,
+      "views": 34129,
       "likes": 12,
       "stocks": 14
     },
