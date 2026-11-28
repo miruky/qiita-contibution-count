@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-28T03:40:31.422Z",
+  "updated_at": "2026-11-28T04:00:49.426Z",
   "articles": [
     {
       "id": "84f899bacc92ec7a94af",
@@ -213,7 +213,7 @@
       "title": "【徹底解説】文系でもわかる！機械学習に入門しよう",
       "url": "https://qiita.com/miruky/items/42b892805eb1d754109c",
       "created_at": "2026-07-18T17:14:07+09:00",
-      "views": 51600,
+      "views": 51601,
       "likes": 61,
       "stocks": 78
     },
@@ -249,7 +249,7 @@
       "title": "【AWS Codeシリーズ】CI／CDの基礎から本番運用まで一気に整理して、AWS Codeシリーズをまとめてみた",
       "url": "https://qiita.com/miruky/items/da1e35453251e70222e5",
       "created_at": "2026-06-27T15:56:31+09:00",
-      "views": 4315,
+      "views": 4316,
       "likes": 8,
       "stocks": 12
     },
@@ -267,7 +267,7 @@
       "title": "【解説】実際の値をもとに、ベクトル化などのRAGの仕組みを根本から理解しましょう",
       "url": "https://qiita.com/miruky/items/c3d6277ff99afb214b19",
       "created_at": "2026-06-13T23:05:19+09:00",
-      "views": 86705,
+      "views": 86706,
       "likes": 87,
       "stocks": 120
     },
@@ -285,7 +285,7 @@
       "title": "ちょっと気になったので、決済サービス各社はカード情報をどう守っているのか調べてみた",
       "url": "https://qiita.com/miruky/items/b9d9dd83f33b4c837d63",
       "created_at": "2026-06-01T17:16:46+09:00",
-      "views": 46319,
+      "views": 46321,
       "likes": 59,
       "stocks": 68
     },
@@ -393,7 +393,7 @@
       "title": "AWS Strands Agentsの「中身」を理解する！Hooks・Plugin・Steeringで制御可能なエージェントを作ってみよう",
       "url": "https://qiita.com/miruky/items/ed50bfcf5630f2a5fb73",
       "created_at": "2026-04-10T22:41:32+09:00",
-      "views": 2499,
+      "views": 2500,
       "likes": 0,
       "stocks": 3
     },
@@ -627,7 +627,7 @@
       "title": "ハーネスエンジニアリングとは何か ── コンテキストエンジニアリングの次のパラダイム",
       "url": "https://qiita.com/miruky/items/155f3b5a0dcde72fcd10",
       "created_at": "2026-03-21T18:19:07+09:00",
-      "views": 44181,
+      "views": 44183,
       "likes": 105,
       "stocks": 93
     },
@@ -636,7 +636,7 @@
       "title": "【2026年最新版】Claude Code Skills実践テクニック 10選",
       "url": "https://qiita.com/miruky/items/3ebe56edd76f7cddfd47",
       "created_at": "2026-03-21T00:18:37+09:00",
-      "views": 21273,
+      "views": 21274,
       "likes": 56,
       "stocks": 72
     },
@@ -672,7 +672,7 @@
       "title": "【保存版】Claude Code Hooks全21イベントをまとめてみた ",
       "url": "https://qiita.com/miruky/items/e33ccda99281b40ad97b",
       "created_at": "2026-03-18T13:41:22+09:00",
-      "views": 8183,
+      "views": 8184,
       "likes": 20,
       "stocks": 23
     },
@@ -681,7 +681,7 @@
       "title": "【2026年最新版】ローカルLLM（Ollama）で完全オフラインAI開発環境を作る",
       "url": "https://qiita.com/miruky/items/026aeee6b59f78df5e9d",
       "created_at": "2026-03-18T12:12:26+09:00",
-      "views": 77646,
+      "views": 77647,
       "likes": 90,
       "stocks": 95
     },
