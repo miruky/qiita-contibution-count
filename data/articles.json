@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-28T17:40:36.249Z",
+  "updated_at": "2026-11-28T18:00:48.798Z",
   "articles": [
     {
       "id": "84f899bacc92ec7a94af",
@@ -240,7 +240,7 @@
       "title": "【読書の夏？】各分野のおすすめ技術書を75冊まとめてみた",
       "url": "https://qiita.com/miruky/items/8b3e5908a24952c10783",
       "created_at": "2026-06-29T17:14:41+09:00",
-      "views": 57467,
+      "views": 57469,
       "likes": 129,
       "stocks": 140
     },
@@ -636,7 +636,7 @@
       "title": "【2026年最新版】Claude Code Skills実践テクニック 10選",
       "url": "https://qiita.com/miruky/items/3ebe56edd76f7cddfd47",
       "created_at": "2026-03-21T00:18:37+09:00",
-      "views": 21290,
+      "views": 21291,
       "likes": 56,
       "stocks": 72
     },
@@ -753,7 +753,7 @@
       "title": "【2026年最新版】結局最強のAIコーディングツールは？色々と比較して考えてみる",
       "url": "https://qiita.com/miruky/items/b200c3e6112a833cffd4",
       "created_at": "2026-03-12T22:16:44+09:00",
-      "views": 34297,
+      "views": 34298,
       "likes": 12,
       "stocks": 14
     },
@@ -834,7 +834,7 @@
       "title": "【Amazon Bedrock #3】Knowledge Bases（RAG）で社内データを活用したAIチャットを構築してみる",
       "url": "https://qiita.com/miruky/items/bcb3b01b858959aba8e1",
       "created_at": "2026-03-04T22:44:48+09:00",
-      "views": 4236,
+      "views": 4237,
       "likes": 0,
       "stocks": 4
     },
