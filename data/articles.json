@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-28T18:00:48.798Z",
+  "updated_at": "2026-11-28T18:22:42.555Z",
   "articles": [
     {
       "id": "84f899bacc92ec7a94af",
@@ -33,7 +33,7 @@
       "title": "【AWS Emulator】AWS公式のローカルエミュレーターで、本格的なサーバーレスはどこまで動く？motoやFlociなど5つのOSSとも比べてみた",
       "url": "https://qiita.com/miruky/items/2b78a6f7b1e3ec8fe80d",
       "created_at": "2026-11-12T22:34:31+09:00",
-      "views": 1395,
+      "views": 1396,
       "likes": 0,
       "stocks": 1
     },
@@ -321,7 +321,7 @@
       "title": "【徹底解説】セキュリティスペシャリストが教える、セキュアプログラミングの教科書",
       "url": "https://qiita.com/miruky/items/6fbb0c0e55835ea79e4d",
       "created_at": "2026-05-05T21:08:08+09:00",
-      "views": 144448,
+      "views": 144449,
       "likes": 348,
       "stocks": 446
     },
