@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-28T19:40:38.270Z",
+  "updated_at": "2026-11-28T20:00:45.613Z",
   "articles": [
     {
       "id": "84f899bacc92ec7a94af",
@@ -15,7 +15,7 @@
       "title": "【Amazon Bedrock】プロンプトルーターで、問い合わせごとに答えるモデルを選ぶ仕組みを実装してみた",
       "url": "https://qiita.com/miruky/items/ad2d3afac7c0eba7a653",
       "created_at": "2026-11-23T11:05:55+09:00",
-      "views": 340,
+      "views": 341,
       "likes": 0,
       "stocks": 1
     },
@@ -24,7 +24,7 @@
       "title": "【これ1本でわかる】AIが動くハーネスの整え方と育て方を、実物のリポジトリでまとめてみた",
       "url": "https://qiita.com/miruky/items/0e16e9ddc811e13d6b04",
       "created_at": "2026-11-16T01:13:39+09:00",
-      "views": 634,
+      "views": 635,
       "likes": 2,
       "stocks": 0
     },
@@ -42,7 +42,7 @@
       "title": "【やさしく】CORSについて理解する",
       "url": "https://qiita.com/miruky/items/09cdd3d53bc9e96e92ce",
       "created_at": "2026-11-09T23:04:54+09:00",
-      "views": 429,
+      "views": 430,
       "likes": 0,
       "stocks": 0
     },
@@ -96,7 +96,7 @@
       "title": "【被害者は語る】タイムズカー660万件情報漏えいはなぜ起きたのかの矮小な考察",
       "url": "https://qiita.com/miruky/items/6577a57b9b62c8f97e11",
       "created_at": "2026-09-30T01:00:06+09:00",
-      "views": 74697,
+      "views": 74699,
       "likes": 69,
       "stocks": 48
     },
@@ -285,7 +285,7 @@
       "title": "ちょっと気になったので、決済サービス各社はカード情報をどう守っているのか調べてみた",
       "url": "https://qiita.com/miruky/items/b9d9dd83f33b4c837d63",
       "created_at": "2026-06-01T17:16:46+09:00",
-      "views": 46343,
+      "views": 46344,
       "likes": 59,
       "stocks": 68
     },
@@ -636,7 +636,7 @@
       "title": "【2026年最新版】Claude Code Skills実践テクニック 10選",
       "url": "https://qiita.com/miruky/items/3ebe56edd76f7cddfd47",
       "created_at": "2026-03-21T00:18:37+09:00",
-      "views": 21291,
+      "views": 21292,
       "likes": 56,
       "stocks": 72
     },
@@ -735,7 +735,7 @@
       "title": "【2026年最新版】Claude Codeで行うべきセキュリティ設定 10選",
       "url": "https://qiita.com/miruky/items/51db293a7a7d0d277a5d",
       "created_at": "2026-03-14T22:06:20+09:00",
-      "views": 181246,
+      "views": 181247,
       "likes": 555,
       "stocks": 566
     },
@@ -744,7 +744,7 @@
       "title": "米国で話題のRAGのセキュリティ脅威についてまとめてみた",
       "url": "https://qiita.com/miruky/items/3c98999786c7dbd2b26a",
       "created_at": "2026-03-13T18:21:20+09:00",
-      "views": 34842,
+      "views": 34844,
       "likes": 59,
       "stocks": 55
     },
@@ -753,7 +753,7 @@
       "title": "【2026年最新版】結局最強のAIコーディングツールは？色々と比較して考えてみる",
       "url": "https://qiita.com/miruky/items/b200c3e6112a833cffd4",
       "created_at": "2026-03-12T22:16:44+09:00",
-      "views": 34298,
+      "views": 34300,
       "likes": 12,
       "stocks": 14
     },
