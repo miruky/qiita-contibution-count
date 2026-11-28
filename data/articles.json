@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-28T01:00:55.791Z",
+  "updated_at": "2026-11-28T01:21:47.886Z",
   "articles": [
     {
       "id": "84f899bacc92ec7a94af",
@@ -33,7 +33,7 @@
       "title": "【AWS Emulator】AWS公式のローカルエミュレーターで、本格的なサーバーレスはどこまで動く？motoやFlociなど5つのOSSとも比べてみた",
       "url": "https://qiita.com/miruky/items/2b78a6f7b1e3ec8fe80d",
       "created_at": "2026-11-12T22:34:31+09:00",
-      "views": 1390,
+      "views": 1391,
       "likes": 0,
       "stocks": 1
     },
@@ -321,7 +321,7 @@
       "title": "【徹底解説】セキュリティスペシャリストが教える、セキュアプログラミングの教科書",
       "url": "https://qiita.com/miruky/items/6fbb0c0e55835ea79e4d",
       "created_at": "2026-05-05T21:08:08+09:00",
-      "views": 144426,
+      "views": 144427,
       "likes": 348,
       "stocks": 446
     },
@@ -366,7 +366,7 @@
       "title": "【Amazon Comprehend #1】Comprehendって何？自然言語処理サービスの全体像をつかんでみる",
       "url": "https://qiita.com/miruky/items/ca38f86cf1f0011936d3",
       "created_at": "2026-04-13T18:47:07+09:00",
-      "views": 3099,
+      "views": 3100,
       "likes": 1,
       "stocks": 3
     },
@@ -438,7 +438,7 @@
       "title": "AIが脆弱性を見つけ、AIが脆弱性を突く時代ですね",
       "url": "https://qiita.com/miruky/items/9e829b29c07f0f03dd4e",
       "created_at": "2026-04-07T00:06:43+09:00",
-      "views": 4716,
+      "views": 4723,
       "likes": 11,
       "stocks": 9
     },
@@ -447,7 +447,7 @@
       "title": "【今さら聞けない】OpenClawについて詳しくまとめてみた",
       "url": "https://qiita.com/miruky/items/65eeae6512345ac74346",
       "created_at": "2026-04-05T14:09:19+09:00",
-      "views": 7544,
+      "views": 7545,
       "likes": 8,
       "stocks": 11
     },
@@ -537,7 +537,7 @@
       "title": "ほぼ2年目エンジニア、AWSとAIに「全振り」した365日からAI時代の新米エンジニアの歩き方を考える",
       "url": "https://qiita.com/miruky/items/14008906c3772c3305a5",
       "created_at": "2026-03-27T18:57:10+09:00",
-      "views": 6539,
+      "views": 6545,
       "likes": 23,
       "stocks": 16
     },
@@ -627,7 +627,7 @@
       "title": "ハーネスエンジニアリングとは何か ── コンテキストエンジニアリングの次のパラダイム",
       "url": "https://qiita.com/miruky/items/155f3b5a0dcde72fcd10",
       "created_at": "2026-03-21T18:19:07+09:00",
-      "views": 44176,
+      "views": 44177,
       "likes": 105,
       "stocks": 93
     },
@@ -672,7 +672,7 @@
       "title": "【保存版】Claude Code Hooks全21イベントをまとめてみた ",
       "url": "https://qiita.com/miruky/items/e33ccda99281b40ad97b",
       "created_at": "2026-03-18T13:41:22+09:00",
-      "views": 8180,
+      "views": 8181,
       "likes": 20,
       "stocks": 23
     },
@@ -681,7 +681,7 @@
       "title": "【2026年最新版】ローカルLLM（Ollama）で完全オフラインAI開発環境を作る",
       "url": "https://qiita.com/miruky/items/026aeee6b59f78df5e9d",
       "created_at": "2026-03-18T12:12:26+09:00",
-      "views": 77622,
+      "views": 77630,
       "likes": 90,
       "stocks": 95
     },
@@ -735,7 +735,7 @@
       "title": "【2026年最新版】Claude Codeで行うべきセキュリティ設定 10選",
       "url": "https://qiita.com/miruky/items/51db293a7a7d0d277a5d",
       "created_at": "2026-03-14T22:06:20+09:00",
-      "views": 181178,
+      "views": 181180,
       "likes": 555,
       "stocks": 566
     },
@@ -897,7 +897,7 @@
       "title": "【Amazon Connect #1】AIコンタクトセンターを構築できるサービス、Amazon Connectとは？",
       "url": "https://qiita.com/miruky/items/73b021d6ad5c83124665",
       "created_at": "2026-02-24T21:50:13+09:00",
-      "views": 2594,
+      "views": 2596,
       "likes": 2,
       "stocks": 4
     },
