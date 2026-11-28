@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-28T07:21:38.944Z",
+  "updated_at": "2026-11-28T07:40:26.451Z",
   "articles": [
     {
       "id": "84f899bacc92ec7a94af",
@@ -24,7 +24,7 @@
       "title": "【これ1本でわかる】AIが動くハーネスの整え方と育て方を、実物のリポジトリでまとめてみた",
       "url": "https://qiita.com/miruky/items/0e16e9ddc811e13d6b04",
       "created_at": "2026-11-16T01:13:39+09:00",
-      "views": 632,
+      "views": 633,
       "likes": 2,
       "stocks": 0
     },
@@ -195,7 +195,7 @@
       "title": "【Amazon S3】タグともメタデータとも違うS3 Annotationsを試してみる",
       "url": "https://qiita.com/miruky/items/3827190f928ed08c4b46",
       "created_at": "2026-08-01T17:40:00+09:00",
-      "views": 785,
+      "views": 786,
       "likes": 0,
       "stocks": 1
     },
@@ -330,7 +330,7 @@
       "title": "GWも勉強したい方向けに、よくオススメされる技術書をカテゴリ別にまとめてみた",
       "url": "https://qiita.com/miruky/items/c2df4f23d73a8e05f37f",
       "created_at": "2026-04-27T18:00:30+09:00",
-      "views": 97941,
+      "views": 97942,
       "likes": 215,
       "stocks": 234
     },
@@ -375,7 +375,7 @@
       "title": "【必須】GitHubとnpmで脆弱なパッケージを入れないための防御設定 8選",
       "url": "https://qiita.com/miruky/items/fcab851c5351f79b481d",
       "created_at": "2026-04-11T13:53:43+09:00",
-      "views": 104633,
+      "views": 104634,
       "likes": 158,
       "stocks": 194
     },
@@ -447,7 +447,7 @@
       "title": "【今さら聞けない】OpenClawについて詳しくまとめてみた",
       "url": "https://qiita.com/miruky/items/65eeae6512345ac74346",
       "created_at": "2026-04-05T14:09:19+09:00",
-      "views": 7545,
+      "views": 7546,
       "likes": 8,
       "stocks": 11
     },
@@ -474,7 +474,7 @@
       "title": "【コマンド集】LPIC-3 300 Mixed Environments 試験対策まとめ！全トピック解説",
       "url": "https://qiita.com/miruky/items/2a033c5632753719f8af",
       "created_at": "2026-04-04T00:05:51+09:00",
-      "views": 2570,
+      "views": 2571,
       "likes": 1,
       "stocks": 7
     },
@@ -546,7 +546,7 @@
       "title": "DDoS攻撃でAWS請求が200万円に！S3・CloudFrontで絶対やるべきコスト爆発防止策 6選",
       "url": "https://qiita.com/miruky/items/b996e374c91923141178",
       "created_at": "2026-03-27T00:01:05+09:00",
-      "views": 51415,
+      "views": 51416,
       "likes": 145,
       "stocks": 140
     },
@@ -582,7 +582,7 @@
       "title": "【AWS全冠】今こそ振り返ろう！AWS主要100サービスの概要まとめ",
       "url": "https://qiita.com/miruky/items/a68b605e44c25d8287a6",
       "created_at": "2026-03-25T00:06:46+09:00",
-      "views": 7759,
+      "views": 7760,
       "likes": 10,
       "stocks": 13
     },
@@ -636,7 +636,7 @@
       "title": "【2026年最新版】Claude Code Skills実践テクニック 10選",
       "url": "https://qiita.com/miruky/items/3ebe56edd76f7cddfd47",
       "created_at": "2026-03-21T00:18:37+09:00",
-      "views": 21279,
+      "views": 21280,
       "likes": 56,
       "stocks": 72
     },
@@ -681,7 +681,7 @@
       "title": "【2026年最新版】ローカルLLM（Ollama）で完全オフラインAI開発環境を作る",
       "url": "https://qiita.com/miruky/items/026aeee6b59f78df5e9d",
       "created_at": "2026-03-18T12:12:26+09:00",
-      "views": 77676,
+      "views": 77678,
       "likes": 90,
       "stocks": 95
     },
@@ -735,7 +735,7 @@
       "title": "【2026年最新版】Claude Codeで行うべきセキュリティ設定 10選",
       "url": "https://qiita.com/miruky/items/51db293a7a7d0d277a5d",
       "created_at": "2026-03-14T22:06:20+09:00",
-      "views": 181194,
+      "views": 181196,
       "likes": 555,
       "stocks": 566
     },
@@ -807,7 +807,7 @@
       "title": "【Amazon Bedrock #6】AgentCoreを使ってAIエージェントの本番運用基盤を構築してみる",
       "url": "https://qiita.com/miruky/items/b7e5ed3869c7ef79f82e",
       "created_at": "2026-03-08T22:38:28+09:00",
-      "views": 4289,
+      "views": 4290,
       "likes": 1,
       "stocks": 6
     },
