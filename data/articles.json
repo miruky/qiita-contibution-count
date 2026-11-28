@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-28T15:21:38.855Z",
+  "updated_at": "2026-11-28T15:40:31.070Z",
   "articles": [
     {
       "id": "84f899bacc92ec7a94af",
@@ -15,7 +15,7 @@
       "title": "【Amazon Bedrock】プロンプトルーターで、問い合わせごとに答えるモデルを選ぶ仕組みを実装してみた",
       "url": "https://qiita.com/miruky/items/ad2d3afac7c0eba7a653",
       "created_at": "2026-11-23T11:05:55+09:00",
-      "views": 339,
+      "views": 340,
       "likes": 0,
       "stocks": 1
     },
@@ -321,7 +321,7 @@
       "title": "【徹底解説】セキュリティスペシャリストが教える、セキュアプログラミングの教科書",
       "url": "https://qiita.com/miruky/items/6fbb0c0e55835ea79e4d",
       "created_at": "2026-05-05T21:08:08+09:00",
-      "views": 144446,
+      "views": 144448,
       "likes": 348,
       "stocks": 446
     },
@@ -546,7 +546,7 @@
       "title": "DDoS攻撃でAWS請求が200万円に！S3・CloudFrontで絶対やるべきコスト爆発防止策 6選",
       "url": "https://qiita.com/miruky/items/b996e374c91923141178",
       "created_at": "2026-03-27T00:01:05+09:00",
-      "views": 51427,
+      "views": 51428,
       "likes": 145,
       "stocks": 140
     },
@@ -600,7 +600,7 @@
       "title": "ポートフォリオ用の綺麗なGitHubリポジトリの作り方 ―すぐに使えるテンプレート付き",
       "url": "https://qiita.com/miruky/items/726d9210cc8666866f86",
       "created_at": "2026-03-24T09:40:53+09:00",
-      "views": 22048,
+      "views": 22049,
       "likes": 67,
       "stocks": 69
     },
@@ -735,7 +735,7 @@
       "title": "【2026年最新版】Claude Codeで行うべきセキュリティ設定 10選",
       "url": "https://qiita.com/miruky/items/51db293a7a7d0d277a5d",
       "created_at": "2026-03-14T22:06:20+09:00",
-      "views": 181237,
+      "views": 181241,
       "likes": 555,
       "stocks": 566
     },
@@ -807,7 +807,7 @@
       "title": "【Amazon Bedrock #6】AgentCoreを使ってAIエージェントの本番運用基盤を構築してみる",
       "url": "https://qiita.com/miruky/items/b7e5ed3869c7ef79f82e",
       "created_at": "2026-03-08T22:38:28+09:00",
-      "views": 4292,
+      "views": 4293,
       "likes": 1,
       "stocks": 6
     },
@@ -906,7 +906,7 @@
       "title": "【AWS End User Messaging SMS #4】SMSのサンドボックス解除申請と1$制限の緩和申請方法",
       "url": "https://qiita.com/miruky/items/dcc598438ede59bcd090",
       "created_at": "2026-02-24T18:55:33+09:00",
-      "views": 2974,
+      "views": 2975,
       "likes": 1,
       "stocks": 3
     },
